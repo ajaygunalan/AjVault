@@ -1,5 +1,5 @@
 ---
-title: Home.
+title: Aj Notes
 enableToc: false
 ---
 
