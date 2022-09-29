@@ -1,14 +1,13 @@
 ---
-title: "Setup"
-tags:
-- setup
-weight: -5
+title: "Data Structures and Algorithms"
 ---
 
 ## Data Structures and Algorithms
 
 - [YouTube Link](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb)
 - [Course WebPage](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
+
+
 ## 8 Moudules 
 1.  [[DSA/Algorithmic Thinking-Peak Finding]]
 2.  [[DSA/Sorting and Trees-Event Simulation]]
