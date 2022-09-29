@@ -1,3 +1,7 @@
+---
+title: "{{title}}"
+---
+
 ### validSubsequence
 A subsequence is a set of numbers appearing in the same order as the main array. 
 Example:
@@ -83,3 +87,6 @@ def isValidSubsequence(array, sequence):
             break
     return seqIdx == len(sequence)
 ```
+
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
