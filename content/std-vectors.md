@@ -6,7 +6,8 @@ title: "std-vectors"
 - These are arrays whose size can change. Thus, dynamic array.
 - It does this by creataing new array and deleteing old when array excess the pre-allocated memeory
 - Not very efficient
-- Always pass them by reference using &.
+- Always pass them by reference using &
+- The std::array is typically created on the stack and the elements of a std::vector are created on the heap [ref](The std::array is typically created on the stack and the elements of a std::vector are created on the heap)
 
 ## Next Video
 [Optimisimg Vectors](https://www.youtube.com/watch?v=HcESuwmlHEY&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=47) depends on [Copying & Copy Constrcutor](https://www.youtube.com/watch?v=BvR1Pgzzr38&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=44https://www.youtube.com/watch?v=BvR1Pgzzr38&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=44).
