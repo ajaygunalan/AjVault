@@ -10,7 +10,7 @@ title: "Data Structures and Algorithms"
 
 ## 8 Moudules 
 1.  [[Algorithmic Thinking-Peak Finding]]
-2.  [[DSA/Sorting and Trees-Event Simulation]]
+2.  Sorting and Trees-Event Simulation
 3.  Hashing: Genome Comparison
 4.  Numerics RSA Encryption
 5.  Graphs: Rubiks Cube
