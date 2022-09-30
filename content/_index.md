@@ -11,6 +11,7 @@ This is my Digital Garden/Personal Knowledge Management/Zettelkasten.
 -  [[DSA]]
 - [[realtime]]
 - [[Industry]]
+- [[surgical-topics]]
 
 
 
