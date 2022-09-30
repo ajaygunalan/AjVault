@@ -10,6 +10,7 @@ This is my Digital Garden/Personal Knowledge Management/Zettelkasten.
 ## Index
 -  [[DSA]]
 - [[realtime]]
+- [[Industry]]
 
 
 
