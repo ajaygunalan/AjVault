@@ -8,7 +8,7 @@ This is my Digital Garden/Personal Knowledge Management/Zettelkasten based on [o
 
 ## Index
 -  [[Data Structures and Algorithm]]
-- [[realtime]]
+- [[Real-Time Embedded Systems Specialization]]
 - [[Industry]]
 - [[surgical-topics]]
 

@@ -1,8 +1,6 @@
 ---
-title: "realtime"
+title: "Real-Time Embedded Systems Specialization"
 ---
-
-## # Real-Time Embedded Systems Specialization
 
 | course                                                | Weeks         |
 | ----------------------------------------------------- | ------------- |
