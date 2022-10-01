@@ -12,7 +12,7 @@ This is my Digital Garden/Personal Knowledge Management/Zettelkasten based on [o
 - [[Industry]]
 - [[surgical-topics]]
 
-#### Disclaimer
-[Quartz](https://github.com/jackyzha0/quartz) is still in the development phase, and there are a few issues. Thus, it is not a 100%  replica of local [obsidian](https://obsidian.md/). One day, we will get there.
+##### Disclaimer
+Instead of using [obsidian publish](https://obsidian.md/publish) to host my notes,  I use [Quartz](https://github.com/jackyzha0/quartz), which is free. Quartz is still in development, and there are a few issues. Thus, it is not a 100%  replica of local [obsidian](https://obsidian.md/). But, It is good enough to start hosting your notes online.
 
 
