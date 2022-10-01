@@ -4,9 +4,15 @@ title: "Algorithmic Thinking-Peak Finding"
 
 [Big O, Big Omega, and Big Theta](https://jarednielsen.com/big-o-omega-theta/)
 
-$O$
-$\Theta$ 
-$\Omega$
+
+
+
+| -------- | -------------- |
+| -------- | -------------- |
+| $O$      | Upper Bound    |
+| $\Omega$ | Lower Bound    |
+| $\Theta$ | Expected Value |
+
 
 ```python
 def insertionSort(arr):
