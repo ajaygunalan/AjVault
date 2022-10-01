@@ -74,7 +74,7 @@ bool isValidSubsequence(vector<int> array, vector<int> sequence) {
 
 ```
 
-
+Python
 ```python
 def isValidSubsequence(array, sequence):
     seqIdx = 0;
