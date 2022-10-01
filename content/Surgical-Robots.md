@@ -1,4 +1,7 @@
-## Industry
+
+---
+title: "Surgical-Robots"
+---
 
 I try to maintain a list of surgical robotics startup.
 
@@ -71,3 +74,7 @@ I try to maintain a list of surgical robotics startup.
  IVUS + Spectrometer for arteries
  * [Aperiomics](https://aperiomics.com/)
  * [Opticent Health](https://www.opticenthealth.com/)
+
+
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
