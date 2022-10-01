@@ -17,7 +17,7 @@ Links: [YouTube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3
 
 
 ##### Setup
-To run the above code in obsidian, install [this](https://github.com/twibiral/obsidian-execute-code) plugin or Use a integrated terminal in sublime text like [this](https://www.youtube.com/watch?v=b1oxmO10Clk). Debugging Tools: Use [gbd](https://www.youtube.com/watch?v=bWH-nL7v5F4) fpr C and [pdb](https://www.youtube.com/watch?v=7Vmik1M_ry0&t=424s) for python.
+To run the above code in obsidian, install [this](https://github.com/twibiral/obsidian-execute-code) plugin or use a integrated terminal in sublime text like [this](https://www.youtube.com/watch?v=b1oxmO10Clk). Debugging Tools: Use [gbd](https://www.youtube.com/watch?v=bWH-nL7v5F4) fpo C and [pdb](https://www.youtube.com/watch?v=7Vmik1M_ry0&t=424s) for python.
 
 
 
