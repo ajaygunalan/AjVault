@@ -8,7 +8,7 @@ $O$
 $\Theta$ 
 $\Omega$
 
-```
+```python
 def insertionSort(arr):
 	for i in range(1, len(arr)):
 		index  = i;
@@ -24,6 +24,7 @@ arr = [68,3,5,12,14,8,9,4,2]
 print "Unsorted array is :", arr
 print "Sorted array is :", insertionSort(arr)
 ```
+
 
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>

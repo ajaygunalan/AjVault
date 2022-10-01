@@ -10,9 +10,8 @@ seq = [1, 6, -1, 10]
 ### Concepts:
 [[std-vectors]], 
 ### Code
-
-C++ 
-```
+ 
+```C++
 using namespace std;
 
 bool isValidSubsequence(vector<int> array, vector<int> sequence) {
@@ -28,7 +27,7 @@ bool isValidSubsequence(vector<int> array, vector<int> sequence) {
 ```
 
 C++ way to iterate by using range-based expression
-```
+```C++
 using namespace std;
 
 bool isValidSubsequence(vector<int> array, vector<int> sequence) {
@@ -44,7 +43,7 @@ bool isValidSubsequence(vector<int> array, vector<int> sequence) {
 ```
 
 However, we need to make it refernce based by adding &
-```
+```c++
 using namespace std;
 
 bool isValidSubsequence(vector<int> array, vector<int> sequence) {
@@ -59,7 +58,7 @@ bool isValidSubsequence(vector<int> array, vector<int> sequence) {
 }
 ```
 Avoid mentioning data type explicitly by using auto.
-```
+```C++
 using namespace std;
 
 bool isValidSubsequence(vector<int> array, vector<int> sequence) {
@@ -75,8 +74,8 @@ bool isValidSubsequence(vector<int> array, vector<int> sequence) {
 
 ```
 
-Python
-```
+
+```python
 def isValidSubsequence(array, sequence):
     seqIdx = 0;
     for value in array:
@@ -85,6 +84,11 @@ def isValidSubsequence(array, sequence):
         if seqIdx == len(sequence):
             break
     return seqIdx == len(sequence)
+
+array = [5, 1, 22, 25, 6, -1, 8, 10]
+sequence = [1, 6, -1, 10]
+print "Array is :", array, "\n sequence is :", sequence
+print "Is it a valid Subsequence: ", isValidSubsequence(array, sequence)
 ```
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
