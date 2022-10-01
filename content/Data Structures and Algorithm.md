@@ -2,10 +2,8 @@
 title: "Data Structures and Algorithms"
 ---
 
-
-
 ## Data Structures and Algorithm
-[[Arrays]]
+1. [[Arrays]]
 
 ### IDE Steup
 1. [ Add A Integrated Terminal In Sublime Text](https://www.youtube.com/watch?v=b1oxmO10Clk)
