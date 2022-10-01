@@ -2,16 +2,15 @@
 title: "Algorithmic Thinking-Peak Finding"
 ---
 
-[Big O, Big Omega, and Big Theta](https://jarednielsen.com/big-o-omega-theta/)
+
+| Explanation | [Jarednielsen Blog](https://jarednielsen.com/big-o-omega-theta/) |
+| ----------- | ---------------------------------------------------------------- |
+| $O$         | Upper Bound (Worst Case)                                         |
+| $\Omega$    | Lower Bound  (Best Case)                                         |
+| $\Theta$    | Expected Value (Avg. Case)                                       |
 
 
 
-
-| -------- | -------------- |
-| -------- | -------------- |
-| $O$      | Upper Bound    |
-| $\Omega$ | Lower Bound    |
-| $\Theta$ | Expected Value |
 
 
 ```python
