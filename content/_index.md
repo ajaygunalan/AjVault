@@ -6,7 +6,7 @@ enableToc: false
 ## Hi, I'm Ajay Gunalan
 This is my Digital Garden/Personal Knowledge Management/Zettelkasten based on [obsidian](https://obsidian.md/). Obsidian is similar to Notion & Evernote. But, better in my opinion 😉 😀😎.
 
-## Index
+## Map of Content
 - [[Data Structures and Algorithm]]
 - [[Real-Time Embedded Systems Specialization]]
 - [[Signal Processing]]
