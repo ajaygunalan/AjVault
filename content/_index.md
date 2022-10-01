@@ -12,6 +12,5 @@ This is my Digital Garden/Personal Knowledge Management/Zettelkasten.
 - [[realtime]]
 - [[Industry]]
 - [[surgical-topics]]
-- [[IDE Steup]]
 
 
