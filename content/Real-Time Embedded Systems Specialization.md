@@ -2,6 +2,10 @@
 title: "Real-Time Embedded Systems Specialization"
 ---
 
+
+
+Start Date: 1 Oct, 2022
+
 | course                                                | Weeks         |
 | ----------------------------------------------------- | ------------- |
 | [[Real-Time Embedded Systems Concepts and Practices]] | 4             |
