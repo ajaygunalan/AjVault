@@ -2,7 +2,7 @@ INCLUDE_DIRS =
 LIB_DIRS = 
 CC=gcc
 
-NAME = pthread
+NAME = pthreadCreateTerminate
 
 CDEFS=
 CFLAGS= -O3 $(INCLUDE_DIRS) $(CDEFS)

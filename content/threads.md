@@ -18,5 +18,8 @@ POSIX threads, or Pthreads are std. UNIX threads. They are defined as a set of C
 
 Several common models for threaded programs exist:, Manager/worker, Pipeline, Peer. Threads have common shared memory and private memory. When accessing common memory, they have to synchronize. Be careful if your application uses libraries or other objects that don’t explicitly guarantee thread-safeness. When in doubt, assume that they are not **thread-safe** until proven otherwise. For example, `OpenCV::imshow()` is not thread-safe. I suffered a lot to learn this, Lolz!! 😅 [ref](https://hpc-tutorials.llnl.gov/posix/designing_threaded_programs/).
 
+
+The Pthreads API subroutines can be informally grouped into:Thread management, Mutexes, Condition variables, Synchronization [ref](https://hpc-tutorials.llnl.gov/posix/pthreads_api/).
+
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
 <div id="commento"></div>
