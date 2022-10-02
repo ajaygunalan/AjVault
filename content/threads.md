@@ -21,5 +21,62 @@ Several common models for threaded programs exist:, Manager/worker, Pipeline, Pe
 
 The Pthreads API subroutines can be informally grouped into:Thread management, Mutexes, Condition variables, Synchronization [ref](https://hpc-tutorials.llnl.gov/posix/pthreads_api/).
 
+
+### Pthread Creation and Termination
+
+GitHub Link: [threadCreateTerminate](threadCreateTerminate). Let us walkthrough the code to understand.
+
+```C++
+#include <pthread.h>
+#include <stdio.h>
+#define NUM_THREADS     5
+
+ void *PrintHello(void *threadid)
+ {
+    long tid;
+    tid = (long)threadid;
+    printf("Hello World! It's me, thread #%ld!\n", tid);
+    pthread_exit(NULL);
+ }
+
+ int main (int argc, char *argv[])
+ {
+    pthread_t threads[NUM_THREADS];
+    int rc;
+    long t;
+    for(t=0; t<NUM_THREADS; t++){
+       printf("In main: creating thread %ld\n", t);
+       rc = pthread_create(&threads[t], NULL, PrintHello, (void *)t);
+       if (rc){
+          printf("ERROR; return code from pthread_create() is %d\n", rc);
+          exit(-1);
+       }
+    }
+
+    /* Last thing that main() should do */
+    pthread_exit(NULL);
+ }
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
 <div id="commento"></div>
