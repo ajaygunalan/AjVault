@@ -2,10 +2,11 @@
 title: "Real-Time Embedded Systems Concepts and Practices"
 ---
 
-###### Prerequisite
+##### Basic
+
 [[threads]]
 
-###### Increment Decrment Thread
+###### Increment Decrment Threa
 ```C++
 #include <pthread.h>
 #include <stdlib.h>
@@ -74,6 +75,10 @@ int main (int argc, char *argv[])
 
 ```
 Link: [code](https://github.com/ajaygunalan/notes/tree/hugo/content/code/incDecThread), [ref](https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices/resources/EVDh5)
+
+##### Processes and Threads
+##### Syslog for Tracing and Autograded Assignments
+
 
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
