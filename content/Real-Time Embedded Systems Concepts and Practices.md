@@ -6,7 +6,7 @@ title: "Real-Time Embedded Systems Concepts and Practices"
 
 [[threads]]
 
-###### Increment Decrment Threa
+###### Increment Decrment Thread
 ```C++
 #include <pthread.h>
 #include <stdlib.h>
