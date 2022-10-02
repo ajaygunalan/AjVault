@@ -12,7 +12,6 @@ typedef struct
 
 
 // POSIX thread declarations and scheduling attributes
-//
 pthread_t threads[NUM_THREADS];
 threadParams_t threadParams[NUM_THREADS];
 
@@ -33,22 +32,20 @@ void *counterThread(void *threadp)
 
 int main (int argc, char *argv[])
 {
-   int rc;
-   int i;
+   int rc, i;
+   void *status;
 
    for(i=1; i <= NUM_THREADS; i++)
    {
        threadParams[i].threadIdx=i;
-
-       pthread_create(&threads[i],   // pointer to thread descriptor
-                      (void *)0,     // use default attributes
-                      counterThread, // thread function entry point
-                      (void *)&(threadParams[i]) // parameters to pass in
-                     );
+       pthread_create(&threads[i], (void *)0, counterThread, (void *)&(threadParams[i]));
    }
 
-   for(i=0;i<NUM_THREADS;i++)
-       pthread_join(threads[i], NULL);
+   for(i=0;i<NUM_THREADS;i++) {
+      pthread_join(threads[i], &status);
+      printf("Main: completed join with thread %ld having a status of %ld\n",i,(long)status);  
+   }
+
 
    printf("TEST COMPLETE\n");
 }
