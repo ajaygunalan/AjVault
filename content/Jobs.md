@@ -25,3 +25,15 @@
 -   Solid software engineering background (design patterns, clean code, TDD)
 -   System-level design and architecture are a big plus
 -   Embedded development skills (Yocto, OS internals, hardware integration) are beneficial
+
+###### 5.  Senior Embedded Software Engineer (Verity)
+-   At least 3 years of professional hands-on experience in designing and developing industrial-grade embedded software
+-   Strong commitment to high coding and design/architecture standards and best practices
+-   Experience in developing Linux-based embedded systems
+-   Experience in developing application-level software for Linux OS, with emphasis on performance and memory optimizations, and resources allocation
+  -   Experience in device drivers for cameras, image and video processing, and Wi-Fi
+-   Experience in DeviceTree and Linux kernel driver development
+-   Experience writing safety-critical code
+-   Knowledge of Yocto Project
+-   Understanding of real-time operating systems
+
