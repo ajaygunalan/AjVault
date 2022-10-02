@@ -2,10 +2,12 @@
 title: "Arrays"
 ---
 
-### Easy
-[[validSubsequence]]
+
 ### Concepts
 [[std-vectors]]
+
+### Easy
+[[validSubsequence]]
 
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
