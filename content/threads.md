@@ -24,7 +24,8 @@ The Pthreads API subroutines can be informally grouped into:Thread management, M
 
 ### Pthread Creation and Termination
 
-GitHub Link: [threadCreateTerminate](threadCreateTerminate). Let us walk through the code to understand.
+GitHub Link: [threadCreateTerminate.c](threadCreateTerminate)
+Let us walk through the code to understand.
 
 ```C++
 #include <pthread.h>
