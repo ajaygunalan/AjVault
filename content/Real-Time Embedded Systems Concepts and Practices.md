@@ -2,7 +2,7 @@
 title: "Real-Time Embedded Systems Concepts and Practices"
 ---
 
-##### Basic
+### Basics
 
 [[threads]]
 
@@ -76,8 +76,8 @@ int main (int argc, char *argv[])
 ```
 Link: [code](https://github.com/ajaygunalan/notes/tree/hugo/content/code/incDecThread), [ref](https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices/resources/EVDh5)
 
-##### Processes and Threads
-##### Syslog for Tracing and Autograded Assignments
+### Processes and Threads
+### Syslog for Tracing and Autograded Assignments
 
 
 
