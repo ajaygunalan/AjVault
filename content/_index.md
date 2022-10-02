@@ -8,7 +8,7 @@ This is my Digital Garden/Personal Knowledge Management/Zettelkasten based on [o
 
 ## Map of Content
 - [[Data Structures and Algorithm]]
-- [[Real-Time Embedded Systems Specialization]]
+- [[Real-Time Systems]]
 - [[Signal Processing]]
 - [[Electronics and Circuits]]
 - [[MEMS]]
