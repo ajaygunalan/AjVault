@@ -2,23 +2,25 @@ INCLUDE_DIRS =
 LIB_DIRS = 
 CC=gcc
 
+NAME = threadAffinity
+
 CDEFS=
 CFLAGS= -O0 -g $(INCLUDE_DIRS) $(CDEFS)
 LIBS= 
 
 HFILES= 
-CFILES= pthread.c
+CFILES= ${NAME}.c
 
 SRCS= ${HFILES} ${CFILES}
 OBJS= ${CFILES:.c=.o}
 
-all:	pthread
+all:	${NAME}
 
 clean:
 	-rm -f *.o *.d
 	-rm -f pthread
 
-pthread: pthread.o
+${NAME}: ${NAME}.o
 	$(CC) $(LDFLAGS) $(CFLAGS) -o $@ $@.o -lpthread
 
 depend:

@@ -1,5 +1,5 @@
 #CFLAGS = -DDEBUG
-CFLAGS =
+CFLAGS = -Wall
 
 beowulfpc: twoprocs.c
 	gcc $(CFLAGS) -o twoprocs  twoprocs.c -lrt -pthread

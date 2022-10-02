@@ -23,7 +23,6 @@ int main()
 {
     int chPID;		// Child PID
     int stat;		// Used by parent wait
-    int rc;		// return code
     int i=0;
     pid_t thisChPID;
     sem_t *syncSemC, *syncSemP;
