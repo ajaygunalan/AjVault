@@ -26,39 +26,27 @@ The Pthreads API subroutines can be informally grouped into:Thread management, M
 
 GitHub Link: [threadCreateTerminate.c](threadCreateTerminate)
 
-Let us walk through the code to understand.
+##### Thread creation
 
-```C++
-#include <pthread.h>
-#include <stdio.h>
-#define NUM_THREADS     5
+`pthread_create(&threadId[t], NULL, PrintHello, (void *)t);`
 
- void *PrintHello(void *threadid)
- {
-    long tid;
-    tid = (long)threadid;
-    printf("Hello World! It's me, thread #%ld!\n", tid);
-    pthread_exit(NULL);
- }
+1. Thread ID is of type `pthread_t` (`unsigned long`) 
+2. Thread attributes
+3. Subroutine to be called
+4. Argument for subroutine
 
- int main (int argc, char *argv[])
- {
-    pthread_t threads[NUM_THREADS];
-    int rc;
-    long t;
-    for(t=0; t<NUM_THREADS; t++){
-       printf("In main: creating thread %ld\n", t);
-       rc = pthread_create(&threads[t], NULL, PrintHello, (void *)t);
-       if (rc){
-          printf("ERROR; return code from pthread_create() is %d\n", rc);
-          exit(-1);
-       }
-    }
+##### Thread Termination
 
-    /* Last thing that main() should do */
-    pthread_exit(NULL);
- }
-```
+There are several ways in which a thread may be terminated:
+
+-   The thread returns normally from its starting routine. Its work is done.
+-   The thread makes a call to the `pthread_exit` subroutine - whether its work is done or not.
+-   The thread is canceled by another thread via the `pthread_cancel` routine.
+-   The entire process is terminated due to making a call to either the `exec()` or `exit()`
+-   If `main()` finishes first, without calling `pthread_exit` explicitly itself
+
+
+
 
 
 
