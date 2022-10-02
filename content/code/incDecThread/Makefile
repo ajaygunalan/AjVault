@@ -2,27 +2,29 @@ INCLUDE_DIRS =
 LIB_DIRS = 
 CC=gcc
 
+NAME = incDecThread
+
 CDEFS=
 CFLAGS= -O3 $(INCLUDE_DIRS) $(CDEFS)
 LIBS= 
 
 HFILES= 
-CFILES= pthread.c
+CFILES= ${NAME}.c
 
 SRCS= ${HFILES} ${CFILES}
 OBJS= ${CFILES:.c=.o}
 
-all:	pthread
+all:	${NAME}
 
 clean:
 	-rm -f *.o *.d
-	-rm -f perfmon pthread
+	-rm -f perfmon ${NAME}
 
 distclean:
 	-rm -f *.o *.d
-	-rm -f pthread
+	-rm -f ${NAME}
 
-pthread: pthread.o
+${NAME}: ${NAME}.o
 	$(CC) $(LDFLAGS) $(CFLAGS) -o $@ $@.o -lpthread
 
 depend:
