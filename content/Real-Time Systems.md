@@ -14,10 +14,10 @@ Start Date: 1 Oct, 2022
 
 | course                                                | Weeks         |
 | ----------------------------------------------------- | ------------- |
-| [[Real-Time Embedded Systems Concepts and Practices]] | 4             |
-| [[Real-Time Embedded Systems Theory and Analysis]]    | 4             |
-| [[Real-Time Mission-Critical Systems Design]]         | 4             |
-| [[Real-Time Project for Embedded Systems]]            | 5             |
+| [[RT-Concepts and Practices]] | 4             |
+| [[RT-Theory and Analysis]]    | 4             |
+| [[RT-Systems Design]]         | 4             |
+| [[RT-Project]]            | 5             |
 | Total                                                 | 17 (4 Months) |
 
 
