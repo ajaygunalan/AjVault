@@ -37,3 +37,22 @@
 -   Knowledge of Yocto Project
 -   Understanding of real-time operating systems
 
+###### 6. Robotics Software Engineer (Rapyuta)
+- Real-time communication links and tradeoffs with bandwidth, latency, and reliability.
+- multithreading and concurrency
+- network protocols from data link through application layer
+- Debugging/troubleshooting skills on embedded processes and systems
+- ROS or equivalent middleware toolkits
+- Experience with a Linux development environment, e.g. CMake, GDB, Git, Ubuntu, etc.
+- Experience with real-time systems, interrupts, and schedulers
+- software development life cycle
+- Subject matter expertise in one of Control and Dynamical Systems, Machine Learning, or Computer Vision
+
+###### 7. Lead Robotics Platform Software Engineer (Dyson)
+- Excellent knowledge and hands-on experience in Linux tool-chain, Yocto build system, board bring up and embedded Linux kernel/driver porting for system integration.
+- Experience in one or more of the following areas: BSP/Board Support Package, Operating Systems, Linux kernel and device driver, Bootloader, Power Management, V4L2.
+- Experience in configuration and use of sensor devices over I2C, SPI, UART with DMA
+-  Experience in sensors/camera/BT/Wifi modules integration and calibration is a plus.
+- Familiar with STL, boost C++ libraries, design patterns and able to enforce it in day-to-day tasks.
+
+
