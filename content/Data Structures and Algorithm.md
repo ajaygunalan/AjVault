@@ -4,7 +4,7 @@ title: "Data Structures and Algorithms"
 
 ## Data Structures and Algorithm
 
-[[Arrays]], Binary Search Tress, Binary Tress, Dynamic Programming, Famous Algorithm, Graphs, Greedy Algorithms, Heaps, Linked List, Recursion, Searching, [[Sorting]], Stacks, Strings, Tries.
+[[Arrays]], [[Sorting]], Binary Search Tress, Binary Tress, Dynamic Programming, Famous Algorithm, Graphs, Greedy Algorithms, Heaps, Linked List, Recursion, Searching, Stacks, Strings, Tries.
 
 The above links contains 160/160 problems I solved in [AlgoExpert](https://www.algoexpert.io/).
 
