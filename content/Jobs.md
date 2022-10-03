@@ -52,7 +52,21 @@
 - Excellent knowledge and hands-on experience in Linux tool-chain, Yocto build system, board bring up and embedded Linux kernel/driver porting for system integration.
 - Experience in one or more of the following areas: BSP/Board Support Package, Operating Systems, Linux kernel and device driver, Bootloader, Power Management, V4L2.
 - Experience in configuration and use of sensor devices over I2C, SPI, UART with DMA
--  Experience in sensors/camera/BT/Wifi modules integration and calibration is a plus.
+- Experience in sensors/camera/BT/Wifi modules integration and calibration is a plus.
 - Familiar with STL, boost C++ libraries, design patterns and able to enforce it in day-to-day tasks.
 
+###### 8. C++ SE Self Driving Car (Bosch)
+
+- Programming Languages: C++
+- Target – CPU: ARM Cortex A family or similar
+- Target – Hardware Accelerators: Automotive GPUs, etc.
+- Versioning system: Git
+- CMake, Jenkins, Docker, etc
+- You have experience with C++ programming for real time operating systems
+- You have good algorithms, data structures and software design background, including UML
+- You have experience with at least one versioning system (Git, SVN, MKS)
+- You are familiar with using and configuring build toolchains
+- You have previous experience with real time operating systems, components scheduling and dynamic architecture design
+- You have embedded memory management know-how (zero-copy mechanism)
+- You have computer vision, image processing,
 
