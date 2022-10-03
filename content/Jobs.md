@@ -80,3 +80,6 @@
 - Excellent software engineering skills, including driver software design, implementation, validation and debugging
 - Excellent in C/C++ skills  
 - Strong experience with on target debugging for embedded systems (e.g.: with LLDB or T32)  
+-   experience with at least one of the following: medical imaging and image processing (VTK/ITK preferred), computer vision (OpenCV preferred), and computer-aided design
+-   Experience with Linux operating system and Docker images
+-   Experience with Matlab
