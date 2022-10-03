@@ -7,7 +7,7 @@ title: "Arrays"
 [[std-vectors]]
 
 ### Easy
-[[validSubsequence]]
+[[validSubsequence]], [[twoNumSum]], [[sortedSqArray]], [[tournamentWinner]], [[NonConstructibleChange]]
 
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
