@@ -70,3 +70,13 @@
 - You have embedded memory management know-how (zero-copy mechanism)
 - You have computer vision, image processing,
 
+
+9. # SWE - Senior Engineer (Embedded Systems), WTE  (Apple)
+- Experience in developing embedded real-time software  
+- Fundamental knowledge and understanding of embedded processors and real-time OS concepts  
+- In depth knowledge of embedded systems (core, cache, memory, bus, interrupts, sleep/wake, clock, power control, etc)  
+- Solid knowledge on debugging methodologies (e.g. logging, crash analysis) for real-time embedded systems.  
+- Strong experience in developing low level driver software for embedded platforms
+- Excellent software engineering skills, including driver software design, implementation, validation and debugging
+- Excellent in C/C++ skills  
+- Strong experience with on target debugging for embedded systems (e.g.: with LLDB or T32)  
