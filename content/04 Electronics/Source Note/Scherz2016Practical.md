@@ -13,7 +13,7 @@
 #### How Op-amp works?
 > "By itself, an op amp's operation is simple. If the voltage applied to the inverting terminal V - is more positive than the voltage applied to the noninverting terminal V + , the output saturates toward the negative supply voltage -V S . Conversely, if V + > V - , the output saturates toward the positive supply voltage +V S (see **Fig.**  below). This "maxing out" effect occurs with the slightest difference in voltage between the input terminals." ([Scherz 2016:664](zotero://open-pdf/library/items/WMPQQ98V?page=664))
 -  image
-	-  ![[opamp.png]]
+	-  ![[electronics/images/opamp.png]]
 
 #### Negative Feedback
 > "When voltage is "fed" back from the output terminal to the inverting terminal (this is referred to as negative feedback), the gain of an op amp can be controlled—the op amp's output is prevented from saturating" ([Scherz 2016:665](zotero://open-pdf/library/items/WMPQQ98V?page=665))

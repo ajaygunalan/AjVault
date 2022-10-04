@@ -3,7 +3,7 @@ title: "Electronics and Circuits"
 ---
 
 
-[[op-amps]]
+[[electronics/op-amps]]
 
 
 
