@@ -11,15 +11,16 @@ If the voltage applied ($V_{in}$) to the non-inverting terminal ($V_+$) > the vo
 ![[electronics/images/opamp.png]]
 
 
-###   Biasing  (Open-Loop)
+###   Biasing  
 You give +V and -V and  add 100nF capacitor near the OP-Amps to filter out noise in the power rail. 
- 
+
+### Open-Loop
 ###### circuit
 ![[electronics/images/op-amp-bias-circuit.jpg]]
 
 ###### breadboard
 ![[electronics/images/breadBoard.jpg]]
-![IMG_20210428_110727.jpg](IMG_20210428_110727.jpg)
+
 
 ### Use Cases
 ##### Comparator at 0V
@@ -39,7 +40,7 @@ You give +V and -V and  add 100nF capacitor near the OP-Amps to filter out noise
 ![[electronics/images/OPEN_INVERT_REFERENCE_VOLT_DIVID.jpg]]
 
 ##### Problem with our stable power supply 
-Normally bias voltages come from a stabilized power supply (either linear(5V) or switching type (+12V, -12V)) and thus they are formerly "stable". The use of a reference-voltage IC is welcome not exactly to get a stable signal, but rather to get an exact well-known voltage value regardless the actual bias voltage value. In fact, despite power supplies are stable, they can show slightly different absolute values at the output (for example mine is +12.4 V and yours is +12.2 V). A good circuit must be reliable and thus work the same with both supplies, that is why a known +5.00 V reference is great.
+Bias voltages often originate from a stable power source that is either linear (5V) or switching (+12V, -12V). The absolute values may change somewhat even when the power supply is steady. My voltage is +12.4 V, while yours is +12.2 V, for instance. We require a circuit that can function with both power sources. Therefore, regardless of the actual bias voltage value, we employ a reference-voltage IC to obtain an accurate well-known voltage value.
 - circuit
 	- ![[Reference Voltage.svg]]
 
