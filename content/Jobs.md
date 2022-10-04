@@ -80,6 +80,21 @@
 - Excellent software engineering skills, including driver software design, implementation, validation and debugging
 - Excellent in C/C++ skills  
 - Strong experience with on target debugging for embedded systems (e.g.: with LLDB or T32)  
+
+
+10. SE
 -   experience with at least one of the following: medical imaging and image processing (VTK/ITK preferred), computer vision (OpenCV preferred), and computer-aided design
 -   Experience with Linux operating system and Docker images
 -   Experience with Matlab
+
+11. Robotics Software Developer/Engineer by United Robotics Group
+
+- Robotics enthusiast who enjoys innovation and working as part of an agile team
+- Degree in computer science, engineering, mechatronics or a related field
+- Programming with CMake, C/C++ in a Linux-based environment.
+- Open source robotics frameworks such as ROS, MoveIT, Gazebo, OMPL, etc.
+- Design and implementation of control software with MATLAB®/Simulink®.
+- Industrial fieldbuses like EtherCAT, EtherNet/IP, PROFINET, etc.
+- Embedded Linux Systems / Yocto Project
+- Experience with DevOps practices and tools: Version control, automated builds and testing, CI/CD with Gitlab, Jenkins, etc.
+- Good German and English language skillsLeidenschaft für Robotik
