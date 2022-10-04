@@ -39,6 +39,8 @@ You give +V and -V and  add 100nF capacitor near the OP-Amps to filter out noise
  Need to develop voltage divider like below:
 ![[electronics/images/OPEN_INVERT_REFERENCE_VOLT_DIVID.jpg]]
 
+
+##### Hystersis for Noise Thresholding
 ##### Problem with our stable power supply 
 Bias voltages often originate from a stable power source that is either linear (5V) or switching (+12V, -12V). The absolute values may change somewhat even when the power supply is steady. My voltage is +12.4 V, while yours is +12.2 V, for instance. We require a circuit that can function with both power sources. Therefore, regardless of the actual bias voltage value, we employ a reference-voltage IC to obtain an accurate well-known voltage value.
 - circuit
