@@ -14,7 +14,7 @@ This is my Digital Garden/Personal Knowledge Management/Zettelkasten based on [o
 - [[MEMS]]
 
 ##### Miscellaneous Notes
-[[Surgical-Robots]], [[Surgical-Topics]], [[Food]], [[Gym]], [[Jobs]]
+[[Surgical-Robots]], [[Surgical-Topics]], [[Food]], [[Gym]], [[Jobs]], 
 
 ##### Disclaimer
 Instead of using [obsidian publish](https://obsidian.md/publish) to host my notes,  I use [Quartz](https://github.com/jackyzha0/quartz), which is free. Quartz is still in development, and there are a few issues. Thus, it is not a 100%  replica of local [obsidian](https://obsidian.md/). But, It is good enough to start hosting your notes online.
