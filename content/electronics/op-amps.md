@@ -21,64 +21,24 @@ You give +V and -V and  add 100nF capacitor near the OP-Amps to filter out noise
 ![[electronics/images/breadBoard.jpg]]
 ![IMG_20210428_110727.jpg](IMG_20210428_110727.jpg)
 
-
-
-
-
-
-
-
 ### Use Cases
-##### Comparator 
+##### Comparator at 0V
 ######  Sine to Square wave
 ![[electronics/images/open_inverting.jpg]]
 ######  Open Invert Circuit Configuration
 ![[electronics/images/OPEN_INVERT_circuit.jpg]]
 
+##### Comparator at 5V
+######  Sine to Square wave @ 5V
+![[electronics/images/open_invert_reference.jpg]]
+######  Open Invert Circuit with Ref. Voltage
+![[electronics/images/OPEN_INVERT_REFERENCE_Circuit.jpg]]
 
+###### What if we don't have 5V supply?
+ Need to develop voltage divider like below:
+![[electronics/images/OPEN_INVERT_REFERENCE_VOLT_DIVID.jpg]]
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
------------------------------------------------------------------------------
-f
-f
-f
-f
-f
-f
-ff
-f
-f
-f
-f
-f
-f
-
-
-### What if we want output to go high whenever the signal crosses 5V instead of 0V like this?
- -  output image
-	 -    ![open_invert_reference 1.jpg](open_invert_reference%201.jpg)
-- circuit
-	- ![OPEN_INVERT_REFERENCE_Circuit.jpg](OPEN_INVERT_REFERENCE_Circuit.jpg)
- 
-### We don't have 5V supply?
-Need to develop voltage divider like below:
-- circuit 
-	- ![OPEN_INVERT_REFERENCE_VOLT_DIVID.jpg](OPEN_INVERT_REFERENCE_VOLT_DIVID.jpg)
-
-### Problem with our stable power supply 
+##### Problem with our stable power supply 
 Normally bias voltages come from a stabilized power supply (either linear(5V) or switching type (+12V, -12V)) and thus they are formerly "stable". The use of a reference-voltage IC is welcome not exactly to get a stable signal, but rather to get an exact well-known voltage value regardless the actual bias voltage value. In fact, despite power supplies are stable, they can show slightly different absolute values at the output (for example mine is +12.4 V and yours is +12.2 V). A good circuit must be reliable and thus work the same with both supplies, that is why a known +5.00 V reference is great.
 - circuit
 	- ![[Reference Voltage.svg]]
