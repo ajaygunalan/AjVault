@@ -41,6 +41,9 @@ Normally bias voltages come from a stabilized power supply (either linear(5V) or
 - noisy signal  simulating circuit
 	-  ![[SIMULATING_NOISY_SIGNAL 1.jpg]]
 -  [[Electronics#^e79c59|solution]]
+
+
+
 ## [[Scherz2016Practical#Positive Feedback|Positive Feedback]]
 
 - Used as a comparator (Sine to Square wave)
