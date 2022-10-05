@@ -4,7 +4,7 @@ enableToc: false
 ---
 
 ## Hi, I'm Ajay Gunalan
-This is my obsidian-based digital garden a.k.a. personal knowledge management system.  [obsidian](https://obsidian.md/) is comparable to Evernote and Notion. However, in my opinion, better.  😉 😀😎
+This is my obsidian-based digital garden a.k.a. personal knowledge management system.  [Obsidian](https://obsidian.md/) is a note making app comparable to Evernote and Notion. However, in my opinion, better.  😉 😀😎
 
 ## Map of Content
 - [[Data Structures and Algorithm]]
