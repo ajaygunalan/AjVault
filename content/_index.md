@@ -19,6 +19,6 @@ This is my obsidian-based digital garden a.k.a. personal knowledge management sy
 [[Surgical-Robots]], [[Surgical-Topics]], [[Food]], [[Gym]], [[Jobs]], [[Finance]]
 
 ##### Disclaimer
-I use [Quartz](https://github.com/jackyzha0/quartz), which is free, to host my notes rather than [obsidian publish](https://obsidian.md/publish). Since Quartz is in development phase, it is not an exact replica of the local obsidian. However, it is sufficient to begin hosting your notes online.
+I use [Quartz](https://github.com/jackyzha0/quartz), which is free, to host my notes rather than [obsidian publish](https://obsidian.md/publish). Quartz is not an exact replica of the local obsidian since it is in development. However, it is sufficient enough to host your notes online.
 
 
