@@ -13,6 +13,7 @@ This is my obsidian-based digital garden a.k.a. personal knowledge management sy
 - [[Electronics and Circuits]]
 - [[Motion Control Drivers]]
 - [[MEMS]]
+- [[Optics]]
 
 ##### Miscellaneous Notes
 [[Surgical-Robots]], [[Surgical-Topics]], [[Food]], [[Gym]], [[Jobs]], [[Finance]]
