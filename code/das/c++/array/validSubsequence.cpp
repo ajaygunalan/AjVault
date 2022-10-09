@@ -15,19 +15,21 @@ bool isValidSubsequence(std::vector<int> array, std::vector<int> sequence) {
 int main(){
 	std::vector<int> array	= {5, 1, 22, 25, 6, -1, 8, 10};
 	std::vector<int> sequence = {1, 6, -1, 10};
-	std::cout<<"Array is : ";
+	std::cout<<"Array = { ";
 	for (auto& value:array) {
-    	std::cout<<value<<", ";
+    	std::cout<<value<<" ";
 
 	}
-	std::cout<<"\nSequence is : ";
+	std::cout<<"}"<<std::endl;
+	std::cout<<"Sequence = { ";
 	for (auto& value:sequence) {
-    	std::cout<<value<<", ";
+    	std::cout<<value<<" ";
 
 	}
+	std::cout<<"}"<<std::endl;
 	if(isValidSubsequence(array, sequence)) 
-		std::cout<<"\nIs it a valid Subsequence: True"<<std::endl;
+		std::cout<<"Is it a valid Subsequence: True"<<std::endl;
 	else 
-		std::cout<<"\nIs it a valid Subsequence: False"<<std::endl;
+		std::cout<<"Is it a valid Subsequence: False"<<std::endl;
 	
 }
