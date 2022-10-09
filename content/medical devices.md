@@ -18,7 +18,7 @@ The goal is to prevent such accident by automating this process by using a liqui
 
 #### How we did 
 
-We prototyped our ideation by using majorly texas instruments components. The following video shows the working and feedback from **Medical doctors**. 
+We prototyped our ideation by using majorly texas instruments components. The following video shows the working and feedback from **medical doctors**. 
 
 
 
