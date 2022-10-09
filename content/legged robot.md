@@ -42,14 +42,11 @@ We used on-policy, model-free DRL algorithm based on actor-critic learning frame
 
 ### Next what?  
 
-###### How to learn different tasks with least samples?
-
-   Model-based RL, & Imitation Learning.
+How to learn different tasks with least samples?
+	Model-based RL, & Imitation Learning.
    
-###### How to control & combine different behavior such as turning, climbing stairs, reacting to external disturbance?
-
-   Funnel Libraries, & Reactive Control.
-
+How to control & combine different behavior such as turning, climbing stairs, reacting to external disturbance?
+	Funnel Libraries, & Reactive Control.
 
 ### I would like to mention here more on the practical issues(behind the paper stories) and evolution of this project, especially on version 2.0
 
