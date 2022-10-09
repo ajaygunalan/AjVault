@@ -8,7 +8,6 @@ def insertionSort(arr):
             index = index - 1
     return arr
 
-
 arr = [68, 3, 5, 12, 14, 8, 9, 4, 2]
 print("Unsorted array is :", arr)
 print("Sorted array is :", insertionSort(arr))

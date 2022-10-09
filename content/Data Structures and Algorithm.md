@@ -4,7 +4,7 @@ title: "Data Structures and Algorithms"
 
 ## Data Structures and Algorithm
 
-These are the 160/160 problems I solved in [AlgoExpert.io](https://www.algoexpert.io/) in both C++ and Python. 
+These are the 160/160 problems I solved in [AlgoExpert.io](https://www.algoexpert.io/) in both C++ and Python3. 
 
 [[Arrays]], [[Sorting]], Binary Search Tress, Binary Tress, Dynamic Programming, Famous Algorithm, Graphs, Greedy Algorithms, Heaps, Linked List, Recursion, Searching, Stacks, Strings, Tries.
 
