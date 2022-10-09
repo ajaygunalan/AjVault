@@ -10,13 +10,7 @@ A robotics software engineer with 3+ years of experience in sensors and actuator
 Right now, I’m a Ph.D. student advised by [Dr. Leonardo De Mattos](https://www.iit.it/people/leonardo-demattos) in the [Biomedical Robotics Lab](https://advr.iit.it/index.php/research/biomedical-robotics) at the [Italian Institute of Technology](https://iit.it/). My current research focuses on the development of endoscopic imaging sensor for surgical robots. My previous experiences include developing [[medical devices]], [[humanoid]], [legged robot](https://ajaygunalan.github.io/projects/past/stoch.html), and real-time streaming of audio, video, and PCL for [telerobot](https://www.youtube.com/watch?v=vl5wQ8cF8U4).
 
 ## Map of Content
-- [[Data Structures and Algorithm]]
-- [[Real-Time Systems]]
-- [[Signal Processing]]
-- [[Electronics and Circuits]]
-- [[Motion Control Drivers]]
-- [[MEMS]]
-- [[Optics]]
+[[Data Structures and Algorithm]], [[Real-Time Systems]], [[Signal Processing]], [[Electronics and Circuits]], [[Motion Control Drivers]], [[MEMS]], [[Optics]]
 
 ##### Miscellaneous Notes
 [[Surgical-Robots]], [[Surgical-Topics]], [[Food]], [[Gym]], [[Jobs]], [[Finance]]
