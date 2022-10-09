@@ -23,7 +23,8 @@ We prototyped our ideation by using majorly texas instruments components. The fo
 
 
 
-<iframe width="50%" class="video" align="midd" height="360"  src="https://www.youtube.com/embed/khT5Q_kSM-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+<center><iframe  class="video" align="midd"  src="https://www.youtube.com/embed/khT5Q_kSM-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+
 
 
 
