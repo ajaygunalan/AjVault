@@ -26,6 +26,7 @@ title: "Other-Blog"
 21. [Pulse-oximeter on a breadboard](https://ashishsahani.com/pulse-oximeter-on-a-breadboard/)
 22. [ECG using two chips](https://ashishsahani.com/ecg-using-two-chips/)
 23. [How I learned Yocto Project, Qt and why would you do the same](https://medium.com/geekculture/how-i-learned-yocto-project-and-qt-and-why-you-would-do-the-same-b030528e11f6)
+24. [ROS 2 – a viable real-time solution?](https://pouya-moh.com/ros-2-a-viable-real-time-solution/)
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
 <div id="commento"></div>
