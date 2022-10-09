@@ -3,8 +3,6 @@
 title: "Medical Devices"
 ---
 
-## Smart Intravenous Dripper
-
 
 #### Problem Statement
 
