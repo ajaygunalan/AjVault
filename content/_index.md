@@ -7,8 +7,14 @@ I'm a robotics software engineer with 3+ years of experience in sensors and actu
 
 Right now, I’m a Ph.D. student advised by [Dr. Leonardo De Mattos](https://www.iit.it/people/leonardo-demattos) in the [Biomedical Robotics Lab](https://advr.iit.it/index.php/research/biomedical-robotics) at the [Italian Institute of Technology](https://iit.it/). My current research focuses on the development of endoscopic imaging sensor for surgical robots. My previous experiences include developing [[medical devices]], [[humanoid]], [[legged robot]], and [[tele robotics]].
 
-## Map of Content
-[[Data Structures and Algorithm]],  [[Real-Time Systems]],  [[Signal Processing]],  [[Electronics and Circuits]],  [[Motion Control Drivers]],  [[MEMS]],  [[Optics]]
+## Topics
+- [[Data Structures and Algorithm]]
+- [[Real-Time Systems]]
+- [[Signal Processing]]
+- [[Electronics and Circuits]]
+- [[Motion Control Drivers]]
+- [[MEMS]]
+- [[Optics]]
 
 ##### Miscellaneous Notes
 [[Surgical-Robots]], [[Surgical-Topics]], [[Food]], [[Gym]], [[Jobs]], [[Finance]]
