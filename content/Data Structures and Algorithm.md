@@ -15,6 +15,8 @@ Link: [GitHub](https://github.com/ajaygunalan/notes/tree/hugo/code/das)
 ## MIT Course 
 [[Algorithmic Thinking-Peak Finding]], [[Sorting and Trees-Event Simulation]], [[Hashing: Genome Comparison]], [[Numerics RSA Encryption]], [[Graphs: Rubiks Cube]], [[Shortest Path]], [[Dynamic Programming: Image Compression]], [[Advanced Topics]]
 
+[[Heaps and Heap Sort]]
+
 Links: [YouTube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb), [Course WebPage](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)
 
 
