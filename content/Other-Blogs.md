@@ -27,6 +27,7 @@ title: "Other-Blog"
 22. [ECG using two chips](https://ashishsahani.com/ecg-using-two-chips/)
 23. [How I learned Yocto Project, Qt and why would you do the same](https://medium.com/geekculture/how-i-learned-yocto-project-and-qt-and-why-you-would-do-the-same-b030528e11f6)
 24. [ROS 2 – a viable real-time solution?](https://pouya-moh.com/ros-2-a-viable-real-time-solution/)
+25. [Unix Philosophy and the Real World: Control Software for Humanoid Robots](https://www.frontiersin.org/articles/10.3389/frobt.2016.00006/full)
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
 <div id="commento"></div>
