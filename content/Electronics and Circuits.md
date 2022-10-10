@@ -6,6 +6,9 @@ title: "Electronics and Circuits"
 [[electronics/op-amps]]
 
 
+status: [lec13](https://www.youtube.com/watch?v=Cuow77028Ag)
+
+
 **Learning Outcomes (short)**
 
 Level 1: analog and digital electronics
