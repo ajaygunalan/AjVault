@@ -42,7 +42,7 @@ There are several ways in which a thread may be terminated:
 -   The entire process is terminated due to making a call to either the `exec()` or `exit()`
 -   If `main()` finishes first, without calling `pthread_exit` explicitly itself
 
-###### Code
+##### Code
 ```C++ HL:"10,20,28"
 #include <pthread.h>
 #include <stdio.h>
@@ -167,6 +167,79 @@ Link: [code](https://github.com/ajaygunalan/notes/tree/hugo/content/code/joinThr
 
 
 
+
+
+
+### Examples
+#### Increment Decrment Thread
+```C++
+#include <pthread.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <sched.h>
+
+#define COUNT  10
+
+typedef struct
+{
+    int threadIdx;
+} threadParams_t;
+
+
+// POSIX thread declarations and scheduling attributes
+//
+pthread_t threads[2];
+threadParams_t threadParams[2];
+
+
+// Unsafe global
+int gsum=0;
+
+void *incThread(void *threadp)
+{
+    int i;
+    threadParams_t *threadParams = (threadParams_t *)threadp;
+
+    for(i=0; i<COUNT; i++)
+    {
+        gsum=gsum+1;
+        printf("Increment thread idx=%d, gsum=%d\n", threadParams->threadIdx, gsum);
+    }
+}
+
+
+void *decThread(void *threadp)
+{
+    int i;
+    threadParams_t *threadParams = (threadParams_t *)threadp;
+
+    for(i=0; i<COUNT; i++)
+    {
+        gsum=gsum-1;
+        printf("Decrement thread idx=%d, gsum=%d\n", threadParams->threadIdx, gsum);
+    }
+}
+
+
+int main (int argc, char *argv[])
+{
+   int rc, i=0;
+
+   threadParams[i].threadIdx=i;
+   pthread_create(&threads[i], (void *)0, incThread, (void *)&(threadParams[i]));
+   i++;
+
+    threadParams[i].threadIdx=i;
+    pthread_create(&threads[i], (void *)0, decThread, (void *)&(threadParams[i]));
+
+   for(i=0; i<2; i++)
+     pthread_join(threads[i], NULL);
+
+   printf("TEST COMPLETE\n");
+}
+
+```
+Link: [code](https://github.com/ajaygunalan/notes/tree/hugo/content/code/incDecThread), [ref](https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices/resources/EVDh5)
 
 
 
