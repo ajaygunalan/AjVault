@@ -6,7 +6,9 @@ title: "Electronics and Circuits"
 [[electronics/op-amps]]
 
 
-status: [lec13](https://www.youtube.com/watch?v=Cuow77028Ag)
+status: [lec14](https://youtu.be/Olmd14AKmx4)
+[lec15](https://www.youtube.com/watch?v=rjSnztlsgn8)
+[lec16](https://www.youtube.com/watch?v=obVsXB6gpQ4&feature=youtu.be)
 
 
 **Learning Outcomes (short)**
