@@ -29,6 +29,7 @@ title: "Other-Blog"
 24. [ROS 2 – a viable real-time solution?](https://pouya-moh.com/ros-2-a-viable-real-time-solution/)
 25. [Unix Philosophy and the Real World: Control Software for Humanoid Robots](https://www.frontiersin.org/articles/10.3389/frobt.2016.00006/full)
 26. [RobotCore: An Open Architecture for Hardware Acceleration in ROS 2](https://arxiv.org/abs/2205.03929)
+27. [Developing Production-Grade Applications with ROS 2]()
 
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
