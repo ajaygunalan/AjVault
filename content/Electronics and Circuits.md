@@ -6,7 +6,7 @@ title: "Electronics and Circuits"
 [[electronics/op-amps]]
 
 
-status: [lec14](https://youtu.be/Olmd14AKmx4) start from 46.00
+status: [lec14](https://youtu.be/Olmd14AKmx4) start from 2.09.00
 [lec15](https://www.youtube.com/watch?v=rjSnztlsgn8)
 [lec16](https://www.youtube.com/watch?v=obVsXB6gpQ4&feature=youtu.be)
 
