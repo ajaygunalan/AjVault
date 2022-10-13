@@ -30,6 +30,8 @@ title: "Other-Blog"
 25. [Unix Philosophy and the Real World: Control Software for Humanoid Robots](https://www.frontiersin.org/articles/10.3389/frobt.2016.00006/full)
 26. [RobotCore: An Open Architecture for Hardware Acceleration in ROS 2](https://arxiv.org/abs/2205.03929)
 27. [Developing Production-Grade Applications with ROS 2]()
+28. [Development of a real-time application based on Xenomai](https://webthesis.biblio.polito.it/11009/1/tesi.pdf)
+29. [](http://essay.utwente.nl/92427/1/Vinkenvleugel_BA_EEMCS.pdf)
 
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
