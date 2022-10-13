@@ -6,7 +6,11 @@ title: "Electronics and Circuits"
 [[electronics/op-amps]]
 
 
+<<<<<<< HEAD
 status: [lec14](https://youtu.be/Olmd14AKmx4) finish it in kicad
+=======
+status: [lec14](https://youtu.be/Olmd14AKmx4) start from 2.09.00
+>>>>>>> 4f06cb08f04f66bb6862dc065931b084db004eeb
 [lec15](https://www.youtube.com/watch?v=rjSnztlsgn8)
 [lec16](https://www.youtube.com/watch?v=obVsXB6gpQ4&feature=youtu.be)
 
