@@ -2,11 +2,12 @@
 title: "Optics"
 ---
 
-Links: [Optical Engineering](https://www.youtube.com/playlist?list=PL-dIBMwXD0RVeYglPt75J1oi61l0ia-Vs), [Optics Simulation](https://www.youtube.com/playlist?list=PL-dIBMwXD0RW8y8MSXD8JF6ENnA938Juk)
+Main Course Links: [Optical Engineering](https://www.youtube.com/playlist?list=PL-dIBMwXD0RVeYglPt75J1oi61l0ia-Vs), [Optics Simulation](https://www.youtube.com/playlist?list=PL-dIBMwXD0RW8y8MSXD8JF6ENnA938Juk)
 
+
+[[Optics Simulation for Endoscopic Imaging]]
 
 Other Notable Courses:
-
 
 1. [Laser: Fundamentals and Applications](https://www.youtube.com/playlist?list=PLHOWhnAl8fLJLm007vBMiMXVm4_Pd8JzC)
 2. [Microscopy Series](https://www.youtube.com/watch?v=EAdEZzY0R6Y&list=PLQFc-Dxlf4pSHREZvz41xHFSEp65iNkBL)
