@@ -13,14 +13,17 @@ Right now, I’m a Ph.D. student advised by [Dr. Leonardo De Mattos](https://ww
 - [[Tailored Sensing]]
 - [[Image-Guided Laser Surgery]]
 
-### Core expertise
+### Core Expertise
+As I said, my core expertise is developing production-grade software for robots. I constantly seek to improve my skills in this, and I care a lot about its beauty and optimality.
+
 - [[Data Structures and Algorithm]]
 - [[Real-Time Operating System]]
 - [[ROS]]
 
-My core expertise is in developing production-grade software for robots. I constantly seek to improve my skills in this, and I care a lot about its beauty and optimality. 
 
 ### Hobby Grade Skills
+I have done a few tasks using my hobby grade skills, but these are hobby grade levels. For example, my PCB/circuits may not be optimal in terms of EMI/EMC, cost, etc. My website maybe not be secure, etc. My PID controls might be hand-tuned, etc. 
+
 - [[Communication-Protocols]]
 - [[Signal Processing/Computer Vision]]
 - [[Controls]]
@@ -31,7 +34,7 @@ My core expertise is in developing production-grade software for robots. I const
 - [[MEMS]]
 - [[Optics]]
 
-I have done a few tasks using my hobby grade skills, but these are hobby grade levels. For example, my PCB/circuits may not be optimal in terms of EMI/EMC, cost, etc. My website maybe not be secure, etc. My PID controls might be hand-tuned, etc. 
+
 
 ##### Random 
 [[Surgical-Robots]], [[Surgical-Topics]], [[Food]], [[Gym]], [[Jobs]], [[Finance]], [[Other-Blogs]]
