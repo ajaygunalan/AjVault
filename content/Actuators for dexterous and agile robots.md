@@ -32,7 +32,7 @@ If you have ever done a simple line following a robot, you would probably know t
 
 There is a reason behind why current is the inner-most loop because they are closer to the voltage(intuitively) and inner-loop operate (5-10) times faster than the outer loop. A motor drive can include any combination of three types of control loops—a position loop, a velocity loop, and a current. The *bandwidth*, or response time, of the system, is a measure of how fast it responds to the changing input command. As you might have guessed the inner loops have higher bandwidth. While higher bandwidth generally provides stiffer motor performance, decreases error, and improves transient response time, there are also drawbacks to high bandwidth in systems. Specifically, the higher the bandwidth, the higher the frequency at which the motor responds to disturbances, which typically requires higher accelerations and forces. Power dissipation has a squared relationship to force, so any increase in bandwidth significantly increases power dissipation (i.e. heat), and therefore, the temperature rise of the motor. Thus an optimal bandwidth must be chosen based upon the requirement. In addition to that, Motor drivers are also classified as 1Q  or 4Q drivers. 1Q allows the motor to be operated in quadrant 1, and 3, allowing the motor torque and speed to be controlled in the same direction. Whereas 4Q allows all the four quadrants to be controlled and thus making active electromagnetic braking, regenerating current form the motor to the battery, possible. Thus a sufficiently high bandwidth 4Q motor driver is a must.
 
-   ![Torque vs Speed](https://ajaygunalan.github.io/projects/asset/past/motor/four_quadrant.png){width=30% height=25%}   
+![Torque vs Speed](https://ajaygunalan.github.io/projects/asset/past/motor/four_quadrant.png){width=30% height=25%}   
   
 
 ### Passive compliance 
@@ -43,13 +43,13 @@ There is a reason behind why current is the inner-most loop because they are clo
 ### Pan-Cake Shape 
 When we say pan-cake shaped motor, it means motors whose $r_{gap} > L_{axial}$, where $r_{gap}$ is the radial gap between center and rotor and $L_{axial}$ is the axial length of the motor. The reason is torque density increases with $r_{gap}$. But it doesn't mean we can increase the $r_{gap}$ indefinitely as torque per inertia is inversely proportional to $r_{gap}$. So a compromise has to be made. In general $r_{gap} > L_{axial}$ and should look like a pan-cake shape for having a higher torque density.
 
-   ![Gap Radius, Source[@seok_actuator_2012]](https://ajaygunalan.github.io/projects/asset/past/motor/r_gap.png){width=30% height=25%}   
+![Gap Radius, Source[@seok_actuator_2012]](https://ajaygunalan.github.io/projects/asset/past/motor/r_gap.png){width=30% height=25%}   
 
 
 ### Conclusion 
 Thus, we need a sufficiently high(optimal) bandwidth, 4Q control driver with pan-cake shaped motor, quasi-direct-drive and compliant-actuator so that the robot is capable of performing highly-dynamic maneuvers like us. 
 
-   ![Actuators for robotics](https://ajaygunalan.github.io/projects/asset/past/motor/final.png){width=30% height=25%}   
+![Actuators for robotics](https://ajaygunalan.github.io/projects/asset/past/motor/final.png){width=30% height=25%}   
  
 
 ### Why brush-less?
