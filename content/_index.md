@@ -21,7 +21,7 @@ Right now, I’m a Ph.D. student advised by [Dr. Leonardo De Mattos](https://ww
 My core exprtise is to developing production-grade software for robots. i constant seek t improve my skills in this and I care a lot about the beauty of it. 
 
 ### Hobby Grade Skills
--  [[Communication-Protocols]]
+- [[Communication-Protocols]]
 - [[Signal Processing/Computer Vision]]
 - [[Controls]]
 - [[Motion Planning]]
