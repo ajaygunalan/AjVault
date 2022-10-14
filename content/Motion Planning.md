@@ -10,7 +10,7 @@ title: "Motion Planning"
   2. Sampling Based
   3. Potential Function
 
-Check this for [[BasicTerminology]] to understand motion planing. 
+Check the [[Basic Terminology]] to understand motion planing. 
 
 ### Search Based 
 
