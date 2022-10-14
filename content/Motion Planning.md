@@ -2,7 +2,6 @@
 title: "Motion Planning"
 ---
 
-
 ### Introduction 
 
   Motion Planning address the question on how to reach the desired configuration without colliding the environment and itself, form given start configuration. It gives a trajectory, which on executing, will reach the desired configuration. Major approaches to motion planning are:
@@ -11,7 +10,7 @@ title: "Motion Planning"
   2. Sampling Based
   3. Potential Function
 
-Check this for [[Basic Terminology]] to understand motion planing. 
+Check this for [[BasicTerminology]] to understand motion planing. 
 
 ### Search Based 
 
