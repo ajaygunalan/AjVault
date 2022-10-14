@@ -1,3 +1,7 @@
+---
+title: "Basic Terminology"
+---
+
 - Configuration
 	- A particular position, and oreintation, of the robotic arm is known as configuration.
 -  Configuration Space 
@@ -10,3 +14,6 @@
 	-  A path with timed component such as velocity and accleration.
 - Map
 	- A data containing the information about the environment and robot. It can be represented by three ways: topological, geometric, and grids.
+
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
