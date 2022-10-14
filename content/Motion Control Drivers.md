@@ -1,5 +1,11 @@
-### AIMS AND CONTENT 
-**Learning Outcomes (short)**
+
+
+[[Motor Drive Intro]], [[Actuators for dexterous and agile robots]]
+
+
+
+
+### Upcoming Course
 
 Level 1: Stepper Motors and their drivers - basics Level 2: Stepper Motors advanced topics
    
