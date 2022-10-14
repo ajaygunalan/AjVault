@@ -18,7 +18,7 @@ Right now, I’m a Ph.D. student advised by [Dr. Leonardo De Mattos](https://ww
 - [[Real-Time Operating System]]
 - [[ROS]]
 
-My core exprtise is to developing production-grade software for robots. i constant seek t improve my skills in this and I care a lot about the beauty of it. 
+My core expertise is in developing production-grade software for robots. I constantly seek to improve my skills in this, and I care a lot about its beauty and optimality. 
 
 ### Hobby Grade Skills
 - [[Communication-Protocols]]
