@@ -1,6 +1,10 @@
+---
+title: "A-Scan OCT"
+---
+
 <iframe src="https://www.youtube.com/embed/_8D0WIpd4Dc" title="A scan OCT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-| S. No | **Optical Prdouct**              | Part Number |
+| S. No | **Optical Prdouct**          | Part Number |
 | ----- | ---------------------------- | ----------- |
 |       | **Reference Arm**            |             |
 | 1     | Fibre Collimation (18.67 mm) | F280APC-C   |
@@ -15,5 +19,9 @@
 | 8     | Retaining Rings (Collima.)   | SM1RR       |
 | 9     | Retaining Ring (Lens)        | SM05RR      |
 | 10    | Lens Mount                   | SMR05/M     |
-| 11   | Collimator Spanner           | SPW602      |
+| 11    | Collimator Spanner           | SPW602      |
 | 12    | Wideband Fiber Optic Coupler | TW1300R2A2  |
+
+
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
