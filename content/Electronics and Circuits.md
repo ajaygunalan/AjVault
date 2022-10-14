@@ -9,7 +9,7 @@ This is an excellent course from Univeristy of Genova by [Marco Sartore](https:/
 
 | Modules | Topic                |
 | ------- | -------------------- |
-| 1       | [[electronics/op-amps]] (Not finished)              |
+| 1       | [[electronics/op-amps]] (Work in progress!)              |
 | 2       | DAC/ADC              |
 | 3       | Std. building blocks | 
 | 4       | [[KiCAD]]            |
