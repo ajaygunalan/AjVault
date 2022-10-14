@@ -10,7 +10,6 @@ Right now, I’m a Ph.D. student advised by [Dr. Leonardo De Mattos](https://ww
 ## Map of Content
 - [[Data Structures and Algorithm]]
 - [[Real-Time Systems]]
-- [[Signal Processing]]
 - [[Electronics and Circuits]]
 - [[Motion Control Drivers]]
 - [[MEMS]]

@@ -3,13 +3,13 @@ title: "Electronics and Circuits"
 ---
 
 
-[[electronics/op-amps]]
+
 
 This is an excellent course from Univeristy of Genova by [Marco Sartore](https://www.elbatech.com/aboutus.html) of Elba Tech. I will finish these notes when I need to build a custom sensor.  Basically it is about senor signal conditioning circuit.
 
 | Modules | Topic                |
 | ------- | -------------------- |
-| 1       | Op-amp               |
+| 1       | [[electronics/op-amps]] (Not finished)              |
 | 2       | DAC/ADC              |
 | 3       | Std. building blocks | 
 | 4       | [[KiCAD]]            |
