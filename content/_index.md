@@ -13,13 +13,20 @@ Right now, I’m a Ph.D. student advised by [Dr. Leonardo De Mattos](https://ww
 - [[Tailored Sensing]]
 - [[Image-Guided Laser Surgery]]
 
-### Core Skills
+### Core skills
 - [[Data Structures and Algorithm]]
 - [[Real-Time Systems]]
 - [[ROS]]
+- [[Controls]]
+- [[Signal Processing/Computer Vision]]
+- [[Motion Planning]]
+- [[Communication-Protocols]]
 
-### Satellite Skills
-[[Sensor Conditioning Circuits]], [[Motion Control Drivers]], [[MEMS]], [[Optics]], [[Controls]], [[Signal Processing]], [[Motion Planning]], [[Communication-Protocols]]
+### Hobby grade skills
+- [[Sensor Conditioning Circuits]]
+- [[Motion Control Drivers]]
+- [[MEMS]]
+- [[Optics]],
 
 ##### Random 
 [[Surgical-Robots]], [[Surgical-Topics]], [[Food]], [[Gym]], [[Jobs]], [[Finance]], [[Other-Blogs]]
