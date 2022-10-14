@@ -15,7 +15,7 @@ This is an excellent course from Univeristy of Genova by [Marco Sartore](https:/
 | 4       | [[KiCAD]]            |
 
 
-Due to copyright, I cannot mae the videos public. But, I can make my notes public.
+Due to copyright, I cannot make the videos public. But, I can make my notes public.
 
 status: 
 [lec14](https://youtu.be/Olmd14AKmx4) 
