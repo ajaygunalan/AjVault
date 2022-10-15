@@ -19,11 +19,11 @@ As I said, my core expertise is developing production-grade software for robots.
 - [[Data Structures and Algorithm]]
 - [[Real-Time Operating System]]
 - [[ROS]]
+- [[Communication-Protocols]]
 
 ### Hobby Grade Skills
-I have done a few tasks using my hobby grade skills, but these are hobby grade levels. For example, my PCB/circuits may not be optimal in terms of EMI/EMC, cost. My website maybe not be secure, My controls might be hand-tuned, etc. 
+I have done a few tasks using my hobby grade skills, but they may not be optimal solutions. For example, my PCB/circuits may not be optimal in terms of EMI/EMC, cost.
 
-- [[Communication-Protocols]]
 - [[Signal Processing]]
 - [[Controls]]
 - [[Motion Planning]]
