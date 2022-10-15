@@ -24,7 +24,7 @@ As I said, my core expertise is developing production-grade software for robots.
 I have done a few tasks using my hobby grade skills, but these are hobby grade levels. For example, my PCB/circuits may not be optimal in terms of EMI/EMC, cost. My website maybe not be secure, My controls might be hand-tuned, etc. 
 
 - [[Communication-Protocols]]
-- [[Signal Processing/Computer Vision]]
+- [[Signal Processing]]
 - [[Controls]]
 - [[Motion Planning]]
 - [[Optimisation]]
