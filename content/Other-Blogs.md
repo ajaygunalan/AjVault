@@ -33,7 +33,7 @@ title: "Other-Blog"
 28. [Development of a real-time application based on Xenomai](https://webthesis.biblio.polito.it/11009/1/tesi.pdf)
 29. [](http://essay.utwente.nl/92427/1/Vinkenvleugel_BA_EEMCS.pdf)
 30. [surgicalroboticstechnolog](https://www.surgicalroboticstechnology.com/suppliers/)
-
+31. [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
 <div id="commento"></div>
