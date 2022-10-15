@@ -3,7 +3,7 @@ title: Ajay Gunalan
 enableToc: false
 ---
 
-I'm a robotics software engineer with 3 years of experience. I love to develop efficient software for robots leveraging data structures, algorithms, and real-time systems and support others in a diverse team to create impactful technologies. 
+I'm a robotics software engineer who loves to develop efficient software for robots by leveraging data structures, algorithms, and real-time systems. I find it satisfactory and happy to support others in a diverse team to create impactful technologies.
 
 Right now, I’m a Ph.D. student advised by [Dr. Leonardo De Mattos](https://www.iit.it/people/leonardo-demattos) in the [Biomedical Robotics Lab](https://advr.iit.it/index.php/research/biomedical-robotics) at the [Italian Institute of Technology](https://iit.it/). My current research focuses on the development of endoscopic imaging sensor for surgical robots. My previous experiences include developing [[medical device]], [[humanoid]], [[legged robot]], and [[tele-robotics]].
 
@@ -14,12 +14,11 @@ Right now, I’m a Ph.D. student advised by [Dr. Leonardo De Mattos](https://ww
 - [[Image-Guided Laser Surgery]]
 
 ### Core Expertise
-As I said, my core expertise is developing production-grade software for robots. I constantly seek to improve my skills in this, and I care a lot about its beauty and optimality. My quest is to find the Android OS for robots.
+As I said, my core expertise is developing production-grade software for robots. I constantly seek to improve my skills in this, and I care a lot about its beauty and optimal. My quest is to find/architect the the Android equivalence OS for robots. 
 
 - [[Data Structures and Algorithm]]
 - [[Real-Time Operating System]]
 - [[ROS]]
-
 
 ### Hobby Grade Skills
 I have done a few tasks using my hobby grade skills, but these are hobby grade levels. For example, my PCB/circuits may not be optimal in terms of EMI/EMC, cost. My website maybe not be secure, My controls might be hand-tuned, etc. 
