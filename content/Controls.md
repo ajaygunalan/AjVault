@@ -2,11 +2,12 @@
 
 The impedance controller is basically a  PID, but gains are dynamically changed based on the state.
 
-MPC uses optimization in the control loop to predict the correct action values. [Referemce](https://www.youtube.com/playlist?list=PLn8PRpmsu08ozoeoXgxPSBKLyd4YEHww8)
+MPC uses optimization in the control loop to predict the correct action values. [Reference](https://www.youtube.com/playlist?list=PLn8PRpmsu08ozoeoXgxPSBKLyd4YEHww8)
 
 
 ### Projects
 1. [Trajectory tracking by PID control using IMU data](https://www.youtube.com/watch?v=zxzQhBU0WqY)
+2. [[Impedance controller of single actuator]]
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
 <div id="commento"></div>
