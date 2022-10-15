@@ -3,7 +3,7 @@ title: Ajay Gunalan
 enableToc: false
 ---
 
-I'm a robotics software engineer who loves to develop efficient software for robots by leveraging data structures, algorithms, and real-time systems. I find it satisfactory and happy to support others in a diverse team to create impactful technologies.
+I'm a **robotics software engineer** who loves to develop efficient software for robots by leveraging data structures, algorithms, and real-time systems. I find it satisfactory and happy to support others in a diverse team to create impactful technologies.
 
 Right now, I’m a Ph.D. student advised by [Dr. Leonardo De Mattos](https://www.iit.it/people/leonardo-demattos) in the [Biomedical Robotics Lab](https://advr.iit.it/index.php/research/biomedical-robotics) at the [Italian Institute of Technology](https://iit.it/). My current research focuses on the development of endoscopic imaging sensor for surgical robots. My previous experiences include developing [[medical device]], [[humanoid]], [[legged robot]], and [[tele-robotics]].
 
@@ -21,14 +21,18 @@ As I said, my core expertise is developing production-grade software for robots.
 - [[ROS]]
 - [[Software Design Patterns]]
 
-### Hobby Grade Skills
-I have done a few tasks using my hobby grade skills, but they may not be optimal solutions. For example, my PCB/circuits may not be optimal in terms of EMI/EMC, cost.
+### Toolsets
+I have a basic understanding of these toolsets. I use these toolsets to deploy robots and will go deep into them based on the requirement. 
 
 - [[Communication-Protocols]]
 - [[Signal Processing]]
 - [[Controls]]
 - [[Motion Planning]]
 - [[Optimisation]]
+
+### Hobby Grade Skills
+I have done a few tasks using my hobby grade skills, but they may not be optimal solutions. For example, my PCB/circuits may not be optimal in terms of EMI/EMC, cost.
+
 - [[Sensor Conditioning Circuits]]
 - [[Motion Control Drivers]]
 - [[MEMS]]
