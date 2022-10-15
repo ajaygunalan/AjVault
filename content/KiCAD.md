@@ -3,7 +3,7 @@ title: "KiCAD"
 ---
 
 ### Basic
-![[basicCircuit.gif]]
+![[basicCircuitNew.gif]]
 
 ![[opamp.svg]]
 
