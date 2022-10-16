@@ -34,6 +34,9 @@ title: "Other-Blog"
 29. [](http://essay.utwente.nl/92427/1/Vinkenvleugel_BA_EEMCS.pdf)
 30. [surgicalroboticstechnolog](https://www.surgicalroboticstechnology.com/suppliers/)
 31. [Build your own X](https://github.com/codecrafters-io/build-your-own-x)
+32. [Robotics Today webinar](https://roboticstoday.github.io/)
+33. [MIT Robotics Webinar](https://robotics.mit.edu/robotics-seminar)
+34. [CMU Robotics Webinar](https://www.ri.cmu.edu/event/ri-seminar-matthew-johnson-roberson-cmu-2022-02-04/)
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
 <div id="commento"></div>
