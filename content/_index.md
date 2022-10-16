@@ -2,8 +2,8 @@
 title: Ajay Gunalan
 enableToc: false
 ---
-
 > *What I cannot create, I do not understand — Richard Feynman.*
+
 
 I'm a **robotics software engineer** who loves to develop efficient software for robots by leveraging data structures, algorithms, and real-time systems. I find it satisfactory and happy to support others in a diverse team to create impactful technologies.
 
