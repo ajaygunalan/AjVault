@@ -3,27 +3,22 @@ title: "Real-Time Systems"
 ---
 
 
-## Concepts
+### Concepts
 
 [[threads]], [[Why real time]], [[fault-tolerance]]
 
-## CU Boulder
 
+### Books
 
-Start Date: 1 Oct, 2022
+1. Mastering Embedded Linux Programming by Frank Vasquez and Chris Simmonds
+2. Embedded Linux Primer by Christopher Hallinan
+3. Embedded Linux System Design and Development by P. Raghavan,  Amol Lad and Sriram Neelakandan
+4. Linux for Embedded and Real-time Applications by Doug Abbott
 
-| course                                                | Weeks         |
-| ----------------------------------------------------- | ------------- |
-| [[RT-Concepts and Practices]] | 4             |
-| [[RT-Theory and Analysis]]    | 4             |
-| [[RT-Systems Design]]         | 4             |
-| [[RT-Project]]            | 5             |
-| Total                                                 | 17 (4 Months) |
+### Course
 
-Links: [Course WebPage](https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices/home/week/1)
-
-Course Requires: Raspberry pi 3B+ or Raspberry pi  4, SD Card - 32 GB, UVC Compliant Webcam (logitech c270)
-
+1. [[Real-Time Embedded Systems Specialization]] by Sam Siewert, CU Boulder
+2. Real-Time Systems by Rajib Mall and Durga Prasad Mohapatra, NPTEL
 
 
 <script defer src="https://cdn.commento.io/js/commento.js"></script>
