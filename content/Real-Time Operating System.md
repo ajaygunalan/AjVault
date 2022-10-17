@@ -5,7 +5,7 @@ title: "Real-Time Systems"
 
 ## Concepts
 
-[[threads]], [[Why real time]]
+[[threads]], [[Why real time]], [[fault-tolerance]]
 
 ## CU Boulder
 
