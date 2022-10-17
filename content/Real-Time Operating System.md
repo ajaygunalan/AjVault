@@ -5,7 +5,11 @@ title: "Real-Time Systems"
 
 ### Concepts
 
-[[threads]], [[Why real time]], [[fault-tolerance]]
+[[Why real time]], [[threads]], [[fault-tolerance]], [[syslog]], [[RTOS-Shedule]], [[Rate-monotonic scheduling]], [[SMP]], [[AMP]], [[Cyclic Executive]], [[Schedulers]]
+
+### Assignments
+
+1. Coursera-1 
 
 
 ### Books
