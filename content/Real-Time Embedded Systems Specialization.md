@@ -1,4 +1,10 @@
 
+### Assignments
+
+1. Done
+2. 
+
+
 Start Date: 1 Oct, 2022
 
 | course                        | Weeks         |
