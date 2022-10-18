@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bf8d50882040501f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome! 👋.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "35361ec967ecd5c3",
             "type": "leaf",
             "state": {
@@ -72,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "why real time",
+                "query": ".com",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -132,14 +120,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "bf8d50882040501f",
+  "active": "42d9bef934ca10a3",
   "lastOpenFiles": [
+    "ajay.jpeg",
+    "Welcome! 👋.md",
     "Real-Time Operating System.md",
     "Real-Time Embedded Systems Specialization.md",
     "RT/Schedulers.md",
     "RT/threads.md",
     "RT/Intro.md",
-    "Welcome! 👋.md",
     "RTOS-Shedule.md",
     "templates/post.md",
     "RT-Theory and Analysis.md"

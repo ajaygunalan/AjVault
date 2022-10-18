@@ -1,6 +1,9 @@
+![[aj.jpg]]
+
 This is my digital garden, a.k.a personal knowledge management system.
 
 > *What I cannot create, I do not understand — Richard Feynman.*
+> 
 
 I'm a **robotics software engineer** who loves to develop efficient software for robots by leveraging data structures, algorithms, and real-time systems. I find myself happier by supporting others in a diverse team to create impactful technologies.
 
