@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Welcome! 👋.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "Welcome! 👋.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           }
@@ -52,7 +52,7 @@
               "state": {
                 "file": "RT/Intro.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             }
           },
@@ -86,7 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 245.5
   },
   "right": {
     "id": "f807f68ff3e01ed4",
