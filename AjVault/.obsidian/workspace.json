@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".com",
+                "query": ".",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,11 +70,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 344
   },
   "right": {
     "id": "f807f68ff3e01ed4",
@@ -120,17 +120,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "42d9bef934ca10a3",
+  "active": "35361ec967ecd5c3",
   "lastOpenFiles": [
-    "ajay.jpeg",
+    "_index.md",
     "Welcome! 👋.md",
+    "RT/Intro.md",
+    "ajay.jpeg",
     "Real-Time Operating System.md",
     "Real-Time Embedded Systems Specialization.md",
     "RT/Schedulers.md",
     "RT/threads.md",
-    "RT/Intro.md",
     "RTOS-Shedule.md",
-    "templates/post.md",
-    "RT-Theory and Analysis.md"
+    "templates/post.md"
   ]
 }
