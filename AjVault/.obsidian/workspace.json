@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RT/Intro.md",
+                "file": "Welcome! 👋.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,12 +120,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "fa7a4d769a72cc6e",
+  "active": "c3b037679591d342",
   "lastOpenFiles": [
+    "RT/Intro.md",
     "Welcome! 👋.md",
     "ajayg_cv.pdf",
     "_index.md",
-    "RT/Intro.md",
     "ajay.jpeg",
     "Real-Time Operating System.md",
     "Real-Time Embedded Systems Specialization.md",
