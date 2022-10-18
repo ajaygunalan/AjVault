@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "507dd2763fffa4d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "a7a8721ce50b1905",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf8d50882040501f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome! 👋.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "35361ec967ecd5c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome! 👋.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c2b4d8dbd952d7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "efe8ca74603050f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7795a6315781ade3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "RT/Intro.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fa7a4d769a72cc6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42d9bef934ca10a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "why real time",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243.5
+  },
+  "right": {
+    "id": "f807f68ff3e01ed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d934ae55f7cb7ca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb3743b874510675",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Welcome! 👋.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "512066225e8b8e7e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 110.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "bf8d50882040501f",
+  "lastOpenFiles": [
+    "Real-Time Operating System.md",
+    "Real-Time Embedded Systems Specialization.md",
+    "RT/Schedulers.md",
+    "RT/threads.md",
+    "RT/Intro.md",
+    "Welcome! 👋.md",
+    "RTOS-Shedule.md",
+    "templates/post.md",
+    "RT-Theory and Analysis.md"
+  ]
+}
