@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a7a8721ce50b1905",
+        "id": "8ae660de63df904d",
         "type": "tabs",
         "children": [
           {
-            "id": "35361ec967ecd5c3",
+            "id": "c3b037679591d342",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ".",
+                "query": "welcom",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome! 👋.md",
+                "file": "RT/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,17 +120,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "35361ec967ecd5c3",
+  "active": "fa7a4d769a72cc6e",
   "lastOpenFiles": [
-    "_index.md",
     "Welcome! 👋.md",
+    "ajayg_cv.pdf",
+    "_index.md",
     "RT/Intro.md",
     "ajay.jpeg",
     "Real-Time Operating System.md",
     "Real-Time Embedded Systems Specialization.md",
     "RT/Schedulers.md",
     "RT/threads.md",
-    "RTOS-Shedule.md",
-    "templates/post.md"
+    "RTOS-Shedule.md"
   ]
 }

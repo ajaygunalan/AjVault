@@ -10,8 +10,9 @@ I'm a **robotics software engineer** who loves to develop efficient software for
 
 Right now, I’m a Ph.D. student advised by [Dr. Leonardo De Mattos](https://www.iit.it/people/leonardo-demattos) in the [Biomedical Robotics Lab](https://advr.iit.it/index.php/research/biomedical-robotics) at the [Italian Institute of Technology](https://iit.it/). My current research focuses on the development of endoscopic imaging sensor for surgical robots. My previous experiences include developing  [[medical device]], [[humanoid]], [[legged robot]], and [[tele-robotics]].
 
-### Mail Me
- `ajay dot gunalan at pm dot me`    
+### Details
+ `ajay dot gunalan at pm dot me`   
+ [CV](https://ajaygunalan.com/assets/ajayg_cv.pdf) 
   
 
 ### Active Projects
