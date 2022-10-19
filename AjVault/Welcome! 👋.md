@@ -1,6 +1,6 @@
 ![[ajay.jpeg]]
 
-This is my digital garden, a.k.a personal knowledge management system. 
+This is my digital garden, a.k.a personal knowledge management system
 
 ### About Me
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8ae660de63df904d",
+        "id": "ca1a804684b3bb22",
         "type": "tabs",
         "children": [
           {
-            "id": "c3b037679591d342",
+            "id": "4018ab57581fa3f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,11 +70,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 292
   },
   "right": {
     "id": "f807f68ff3e01ed4",
@@ -120,17 +120,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c3b037679591d342",
+  "active": "4018ab57581fa3f6",
   "lastOpenFiles": [
-    "RT/Intro.md",
-    "Welcome! 👋.md",
+    "Algorithmic Thinking-Peak Finding.md",
+    "PCB 1.png",
+    "ROS.md",
+    "Integration of cutsom sanner with ThorLabs OCT Imaging setup.md",
+    "Image-Guided Laser Surgery.md",
     "ajayg_cv.pdf",
-    "_index.md",
-    "ajay.jpeg",
-    "Real-Time Operating System.md",
-    "Real-Time Embedded Systems Specialization.md",
-    "RT/Schedulers.md",
-    "RT/threads.md",
-    "RTOS-Shedule.md"
+    "Tailored Sensing.md",
+    "Welcome! 👋.md",
+    "Endoscopy Imaging Sensor.md",
+    "Scanning Fiber Endoscope.md"
   ]
 }
