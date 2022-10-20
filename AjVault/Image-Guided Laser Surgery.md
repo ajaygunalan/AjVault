@@ -5,4 +5,3 @@
 5.Develop a ROS node to publish to CALM system.
 
 ![[Pasted image 20221014163259.png]]
-![[Pasted image 20221014163319.png]]

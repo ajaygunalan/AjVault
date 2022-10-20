@@ -71,7 +71,7 @@
 - You have computer vision, image processing,
 
 
-9. # SWE - Senior Engineer (Embedded Systems), WTE  (Apple)
+###### 9. SWE - Senior Engineer (Embedded Systems), WTE  (Apple)
 - Experience in developing embedded real-time software  
 - Fundamental knowledge and understanding of embedded processors and real-time OS concepts  
 - In depth knowledge of embedded systems (core, cache, memory, bus, interrupts, sleep/wake, clock, power control, etc)  
@@ -98,3 +98,28 @@
 - Embedded Linux Systems / Yocto Project
 - Experience with DevOps practices and tools: Version control, automated builds and testing, CI/CD with Gitlab, Jenkins, etc.
 - Good German and English language skillsLeidenschaft für Robotik
+
+
+###### 12. Senior software developer robotics by https://www.intermodalics.eu/
+Roles & Responsibilities
+
+-   The Senior software developer robotics is a generalist robotics engineer that can develop reusable and efficient algorithms and architectures, leveraging existing libraries and open-source where possible.
+-   You apply and integrate software components to different kinds of assets or robotic platforms
+-   You mentor junior engineers via pairing, design review, and code review
+
+Apply for this position if you
+-   Share our passion for the interdisciplinary engineering challenges involved with robotics today.
+-   Have a ‘can-do’ mentality to solve and demonstrate hands-on robotics software projects.
+-   Love interacting with people around the globe to help and build robotics technology for a wide variety of industries.
+-   Feel at ease joining a passionate technical discussion & love working in team.
+
+You’re bringing us…
+-   MSc or PhD in Computer Science or Robotics
+-   Fluent on Linux systems and an experienced C++ programmer and have Python knowledge
+-   5+ years of experience developing software architectures and algorithms on robotics
+-   You take ownership of a given mission and the tasks to achieve that mission
+-   You take initiative to identify and solve important problems, coordinating with others on cross-cutting technical issues
+-   Analytical mindset and eager to learn
+-   You can work independently while being a team player with good reporting skills
+-   English Language proficiency (written & verbal)
+

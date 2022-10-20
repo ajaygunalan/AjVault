@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "aaff76eb23f64623",
+        "id": "ff4ce596778c68e4",
         "type": "tabs",
         "children": [
           {
-            "id": "44b86fc4fa1e9181",
+            "id": "b7df53d9b6a7ab19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Scanning Fiber Endoscope.md",
-                "mode": "source",
+                "file": "Tailored Sensing.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -32,18 +32,6 @@
         "id": "efe8ca74603050f4",
         "type": "tabs",
         "children": [
-          {
-            "id": "7795a6315781ade3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RT/Intro.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
           {
             "id": "fa7a4d769a72cc6e",
             "type": "leaf",
@@ -69,12 +57,25 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "4483b0d326df1466",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba61f44378ad67ac",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 292
+    "width": 200
   },
   "right": {
     "id": "f807f68ff3e01ed4",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scanning Fiber Endoscope.md",
+                "file": "Tailored Sensing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,17 +121,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "44b86fc4fa1e9181",
+  "active": "b7df53d9b6a7ab19",
   "lastOpenFiles": [
-    "Endoscopy Imaging Sensor.md",
     "Welcome! 👋.md",
-    "Scanning Fiber Endoscope.md",
     "RT/Intro.md",
-    "Algorithmic Thinking-Peak Finding.md",
-    "PCB 1.png",
-    "ROS.md",
-    "Integration of cutsom sanner with ThorLabs OCT Imaging setup.md",
+    "Home.md",
+    "Scanning Fiber Endoscope.md",
+    "Tailored Sensing.md",
+    "Jobs.md",
+    "Endoscopy Imaging Sensor.md",
     "Image-Guided Laser Surgery.md",
-    "ajayg_cv.pdf"
+    "Algorithmic Thinking-Peak Finding.md",
+    "PCB 1.png"
   ]
 }
