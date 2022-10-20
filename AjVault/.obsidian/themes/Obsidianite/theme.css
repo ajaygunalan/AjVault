@@ -197,7 +197,6 @@ body .markdown-preview-section div {
   font-size: var(--default-font-size, 16px) !important;
 }
 
-
 /* Enlarge image on hover by ajay from Ubuntu Theme */
 .markdown-preview-view img {
   display: block;
