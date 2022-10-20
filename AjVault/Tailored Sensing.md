@@ -37,6 +37,7 @@ $$𝑥= Ψ_{r}𝑎$$(9)
 
 ![[Pasted image 20221011145807.png]]
 
+%%
 ### To Realize on Hardware
 
 1. Build custom eigen basis or principal components $(Ψ_r)$ from our training data using techniques such as SVD.
@@ -51,19 +52,18 @@ Requirements:
 $$𝑦= C_{opt} 𝑥 $$(5)
 Requirements:
 	- CM/LSM should be able to follow the  sample only along the points defined by $C_{opt}$
-
+%%
 
 ### 4 Papers
 
 1.  [An inertia-free beam scanning device for single-wavelength 2PE-STED nanoscopy](https://iopscience.iop.org/article/10.1088/1361-6463/ab8852)
 - Fast Image acquisition by custom scan pattern using Acousto-Optic Deflectors.
 ---
-
 2. [Fast Inertia-Free Volumetric Light-Sheet Microscope](https://pubs.acs.org/doi/full/10.1021/acsphotonics.7b00382)
 - Fast Image acquisition by custom scan pattern using Acousto-Optic Deflectors.
 ---
 3. [A robust and versatile platform for image scanning microscopy enabling super-resolution FLIM](https://www.nature.com/articles/s41592-018-0291-9)
--
+- 
 ---
 4. [Volumetric Lissajous confocal microscopy with tunable spatiotemporal resolution](https://opg.optica.org/boe/fulltext.cfm?uri=boe-11-11-6293&id=441078)
 -
@@ -71,7 +71,4 @@ Requirements:
 
 
 
-
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>
 
