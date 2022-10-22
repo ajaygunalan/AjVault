@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Welcome! 👋",
+      "path": "Welcome! 👋.md"
+    },
+    {
       "basename": "Real-Time Operating System",
       "path": "Real-Time Operating System.md"
+    },
+    {
+      "basename": "Schedulers",
+      "path": "RT/Schedulers.md"
+    },
+    {
+      "basename": "Cyclic Executive",
+      "path": "RT/Cyclic Executive.md"
+    },
+    {
+      "basename": "Multiprocessor",
+      "path": "RT/Multiprocessor.md"
     },
     {
       "basename": "Real-Time Embedded Systems Specialization",
@@ -17,10 +33,6 @@
       "path": "RT/Rate-monotonic scheduling.md"
     },
     {
-      "basename": "Schedulers",
-      "path": "RT/Schedulers.md"
-    },
-    {
       "basename": "fault-tolerance",
       "path": "RT/fault-tolerance.md"
     },
@@ -31,10 +43,6 @@
     {
       "basename": "Intro",
       "path": "RT/Intro.md"
-    },
-    {
-      "basename": "Welcome! 👋",
-      "path": "Welcome! 👋.md"
     },
     {
       "basename": "Scanning Fiber Endoscope",

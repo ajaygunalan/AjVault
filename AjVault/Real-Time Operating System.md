@@ -1,7 +1,7 @@
 
 ### Concepts
 
-[[RT/Intro]], [[RT/threads]], [[RT/fault-tolerance]], [[RT/syslog]], [[RT/Rate-monotonic scheduling]], [[RT/SMP]], [[RT/AMP]], [[RT/Cyclic Executive]], [[RT/Schedulers]]
+[[RT/Intro]], [[RT/threads]], [[RT/fault-tolerance]], [[RT/syslog]], [[RT/Rate-monotonic scheduling]], [[RT/Multiprocessor]], [[RT/Cyclic Executive]], [[RT/Schedulers]]
 
 ### Books
 
@@ -13,6 +13,7 @@
 ### Course
 
 1. [[Real-Time Embedded Systems Specialization]] by Sam Siewert, CU Boulder
-2.  Real-Time Systems by Rajib Mall and Durga Prasad Mohapatra, NPTEL
+	 - After this course. Linux Driver Development, Linux Kernel Module Development
+1.  Real-Time Systems by Rajib Mall and Durga Prasad Mohapatra, NPTEL
 	- [Course WebPage](https://nptel.ac.in/courses/106105229), [YouTube](https://www.youtube.com/playlist?list=PL-dIBMwXD0RU02jhjGU6eoWvdM-31LPqM)
 
