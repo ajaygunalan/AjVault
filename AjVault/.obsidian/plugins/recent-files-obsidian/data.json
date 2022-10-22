@@ -1,16 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Welcome! 👋",
-      "path": "Welcome! 👋.md"
+      "basename": "Real-Time Operating System",
+      "path": "Real-Time Operating System.md"
     },
     {
-      "basename": "Tailored Sensing",
-      "path": "Tailored Sensing.md"
+      "basename": "Real-Time Embedded Systems Specialization",
+      "path": "Real-Time Embedded Systems Specialization.md"
+    },
+    {
+      "basename": "syslog",
+      "path": "RT/syslog.md"
+    },
+    {
+      "basename": "Rate-monotonic scheduling",
+      "path": "RT/Rate-monotonic scheduling.md"
+    },
+    {
+      "basename": "Schedulers",
+      "path": "RT/Schedulers.md"
+    },
+    {
+      "basename": "fault-tolerance",
+      "path": "RT/fault-tolerance.md"
+    },
+    {
+      "basename": "threads",
+      "path": "RT/threads.md"
     },
     {
       "basename": "Intro",
       "path": "RT/Intro.md"
+    },
+    {
+      "basename": "Welcome! 👋",
+      "path": "Welcome! 👋.md"
+    },
+    {
+      "basename": "Scanning Fiber Endoscope",
+      "path": "Scanning Fiber Endoscope.md"
+    },
+    {
+      "basename": "Numerical Aperture",
+      "path": "Numerical Aperture.md"
+    },
+    {
+      "basename": "Endoscopy Imaging Sensor",
+      "path": "Endoscopy Imaging Sensor.md"
+    },
+    {
+      "basename": "Electromagnetic coils",
+      "path": "Electromagnetic coils.md"
+    },
+    {
+      "basename": "Tailored Sensing",
+      "path": "Tailored Sensing.md"
     }
   ],
   "omittedPaths": [],

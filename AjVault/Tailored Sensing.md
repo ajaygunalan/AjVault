@@ -57,17 +57,14 @@ Requirements:
 ### 4 Papers
 
 1.  [An inertia-free beam scanning device for single-wavelength 2PE-STED nanoscopy](https://iopscience.iop.org/article/10.1088/1361-6463/ab8852)
-- Fast Image acquisition by custom scan pattern using Acousto-Optic Deflectors.
----
+	- Fast Image acquisition by custom scan pattern using Acousto-Optic Deflectors.
 2. [Fast Inertia-Free Volumetric Light-Sheet Microscope](https://pubs.acs.org/doi/full/10.1021/acsphotonics.7b00382)
-- Fast Image acquisition by custom scan pattern using Acousto-Optic Deflectors.
----
+	- Fast Image acquisition by custom scan pattern using Acousto-Optic Deflectors.
 3. [A robust and versatile platform for image scanning microscopy enabling super-resolution FLIM](https://www.nature.com/articles/s41592-018-0291-9)
-- 
----
+	- Increase the pinhole size to 1 AU to have high SNR and low resolution. The low resolution is overcome by computational (de-convolution) combining the images on the SPAD array detector to produce high SNR and resolution images. 
 4. [Volumetric Lissajous confocal microscopy with tunable spatiotemporal resolution](https://opg.optica.org/boe/fulltext.cfm?uri=boe-11-11-6293&id=441078)
--
----
+	- imaging fast phenomena sacrifices either spatial or temporal resolution. 
+
 
 
 

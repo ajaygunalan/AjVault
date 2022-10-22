@@ -1,7 +1,3 @@
----
-title: "Real-Time Systems"
----
-
 
 ### Concepts
 
@@ -17,8 +13,6 @@ title: "Real-Time Systems"
 ### Course
 
 1. [[Real-Time Embedded Systems Specialization]] by Sam Siewert, CU Boulder
-2. Real-Time Systems by Rajib Mall and Durga Prasad Mohapatra, NPTEL
+2.  Real-Time Systems by Rajib Mall and Durga Prasad Mohapatra, NPTEL
+	- [Course WebPage](https://nptel.ac.in/courses/106105229), [YouTube](https://www.youtube.com/playlist?list=PL-dIBMwXD0RU02jhjGU6eoWvdM-31LPqM)
 
-
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>

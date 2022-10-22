@@ -1,6 +1,3 @@
----
-title: "threads"
----
 
 ### thread
 When you run two simple executables, you create two processes that the OS independently schedules. Processes are also independently scheduled by OS. But,  they exist within a process by duplicating only the bare essential resources that enable them to exist as executable code [ref](https://hpc-tutorials.llnl.gov/posix/what_is_a_thread/).
@@ -242,6 +239,3 @@ int main (int argc, char *argv[])
 Link: [code](https://github.com/ajaygunalan/notes/tree/hugo/content/code/incDecThread), [ref](https://www.coursera.org/learn/real-time-embedded-systems-concepts-practices/resources/EVDh5)
 
 
-
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>

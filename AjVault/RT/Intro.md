@@ -1,6 +1,3 @@
----
-title: "Why real time"
----
 
 
 ### Real-Time Embedded System Programming 
