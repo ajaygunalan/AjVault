@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Real-Time Operating System",
+      "path": "Real-Time Operating System.md"
+    },
+    {
+      "basename": "Reentrant Function",
+      "path": "RT/Reentrant Function.md"
+    },
+    {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
     },
     {
-      "basename": "Real-Time Operating System",
-      "path": "Real-Time Operating System.md"
+      "basename": "Multiprocessor",
+      "path": "RT/Multiprocessor.md"
+    },
+    {
+      "basename": "PhD Kanban",
+      "path": "PhD Kanban.md"
+    },
+    {
+      "basename": "Endoscopy Imaging Sensor",
+      "path": "Endoscopy Imaging Sensor.md"
+    },
+    {
+      "basename": "Numerical Aperture",
+      "path": "Numerical Aperture.md"
+    },
+    {
+      "basename": "Image-Guided Laser Surgery",
+      "path": "Image-Guided Laser Surgery.md"
     },
     {
       "basename": "Schedulers",
@@ -15,10 +39,6 @@
     {
       "basename": "Cyclic Executive",
       "path": "RT/Cyclic Executive.md"
-    },
-    {
-      "basename": "Multiprocessor",
-      "path": "RT/Multiprocessor.md"
     },
     {
       "basename": "Real-Time Embedded Systems Specialization",
@@ -47,14 +67,6 @@
     {
       "basename": "Scanning Fiber Endoscope",
       "path": "Scanning Fiber Endoscope.md"
-    },
-    {
-      "basename": "Numerical Aperture",
-      "path": "Numerical Aperture.md"
-    },
-    {
-      "basename": "Endoscopy Imaging Sensor",
-      "path": "Endoscopy Imaging Sensor.md"
     },
     {
       "basename": "Electromagnetic coils",

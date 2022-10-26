@@ -3,6 +3,8 @@
 
 [[RT/Intro]], [[RT/threads]], [[RT/fault-tolerance]], [[RT/syslog]], [[RT/Rate-monotonic scheduling]], [[RT/Multiprocessor]], [[RT/Cyclic Executive]], [[RT/Schedulers]]
 
+Finish 2.7 & [[RT/Reentrant Function]] 
+
 ### Books
 
 1. Mastering Embedded Linux Programming by Frank Vasquez and Chris Simmonds
