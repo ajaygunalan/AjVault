@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "PhD Kanban",
+      "path": "PhD Kanban.md"
+    },
+    {
+      "basename": "Welcome! 👋",
+      "path": "Welcome! 👋.md"
+    },
+    {
+      "basename": "Endoscopy Imaging Sensor",
+      "path": "Endoscopy Imaging Sensor.md"
+    },
+    {
+      "basename": "Scanning Fiber Endoscope",
+      "path": "Scanning Fiber Endoscope.md"
+    },
+    {
       "basename": "Data Structures and Algorithms",
       "path": "Data Structures and Algorithms.md"
     },
     {
       "basename": "Heaps and Heap Sort",
       "path": "Heaps and Heap Sort.md"
-    },
-    {
-      "basename": "Welcome! 👋",
-      "path": "Welcome! 👋.md"
     },
     {
       "basename": "Real-Time Operating System",
@@ -23,14 +35,6 @@
     {
       "basename": "Multiprocessor",
       "path": "RT/Multiprocessor.md"
-    },
-    {
-      "basename": "PhD Kanban",
-      "path": "PhD Kanban.md"
-    },
-    {
-      "basename": "Endoscopy Imaging Sensor",
-      "path": "Endoscopy Imaging Sensor.md"
     },
     {
       "basename": "Numerical Aperture",
@@ -71,10 +75,6 @@
     {
       "basename": "Intro",
       "path": "RT/Intro.md"
-    },
-    {
-      "basename": "Scanning Fiber Endoscope",
-      "path": "Scanning Fiber Endoscope.md"
     },
     {
       "basename": "Electromagnetic coils",

@@ -49,5 +49,7 @@ I have done a few tasks using my hobby grade skills, but they may not be optimal
 ### Random 
 [[Surgical-Robots]], [[Surgical-Topics]], [[Food]], [[Gym]], [[Jobs]], [[Finance]], [[Other-Blogs]]
 
+![[Capture.png]]
+
 
 
