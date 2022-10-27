@@ -6,7 +6,9 @@ title: "Data Structures and Algorithms"
 
 These are the 160/160 problems I solved in [AlgoExpert.io](https://www.algoexpert.io/) in both C++ and Python3. 
 
-[[Arrays]], [[Sorting]], Binary Search Tress, Binary Tress, Dynamic Programming, Famous Algorithm, Graphs, Greedy Algorithms, Heaps, Linked List, Recursion, Searching, Stacks, Strings, Tries.
+[[Arrays]], [[Sorting]], Dynamic Programming, Famous Algorithm, Graphs, Greedy Algorithms, Linked List, Recursion, Searching, Strings, Tries.
+
+[[Binary Search Tress]], [[Binary Tress]], [[Heaps]], [[Stacks]]
 
 Link: [GitHub](https://github.com/ajaygunalan/notes/tree/hugo/code/das)
 
@@ -17,7 +19,7 @@ Link: [GitHub](https://github.com/ajaygunalan/notes/tree/hugo/code/das)
 ## MIT Course 
 [[Algorithmic Thinking-Peak Finding]], [[Sorting and Trees-Event Simulation]], [[Hashing: Genome Comparison]], [[Numerics RSA Encryption]], [[Graphs: Rubiks Cube]], [[Shortest Path]], [[Dynamic Programming: Image Compression]], [[Advanced Topics]]
 
-[[Heaps and Heap Sort]]
+
 
 
 Links: [YouTube Playlist](https://www.youtube.com/playlist?list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb), [Course WebPage](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-fall-2011/)

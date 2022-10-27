@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7baed67ab1dec398",
+        "id": "05c0f3babb10b4ed",
         "type": "tabs",
         "children": [
           {
-            "id": "cdfe72d994a31c1c",
+            "id": "24896e76a8c10278",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "PhD Kanban.md"
+                "file": "Heaps.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -90,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PhD Kanban.md",
+                "file": "Heaps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PhD Kanban.md"
+                "file": "Heaps.md"
               }
             }
           },
@@ -138,20 +140,17 @@
     "width": 110.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "cdfe72d994a31c1c",
+  "active": "24896e76a8c10278",
   "lastOpenFiles": [
-    "Welcome! 👋.md",
-    "Success.md",
-    "Scanning Fiber Endoscope.md",
-    "Endoscopy Imaging Sensor.md",
     "Data Structures and Algorithms.md",
+    "Heaps.md",
     "Heaps and Heap Sort.md",
+    "Welcome! 👋.md",
+    "RT/flynn's taxonomy.md",
     "Real-Time Operating System.md",
     "RT/Reentrant Function.md",
-    "RT/Multiprocessor.md",
-    "PhD Kanban.md"
+    "global and static variable.md",
+    "RT/ARM.md",
+    "Success.md"
   ]
 }

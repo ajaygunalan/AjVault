@@ -1,11 +1,11 @@
 
 ### Concepts
 
-[[RT/Intro]], [[RT/threads]], [[RT/fault-tolerance]], [[RT/syslog]], [[RT/Rate-monotonic scheduling]], [[RT/Multiprocessor]], [[RT/Cyclic Executive]], [[RT/Schedulers]]
+[[RT/Intro]], [[RT/threads]], [[RT/fault-tolerance]], [[RT/syslog]], [[RT/Rate-monotonic scheduling]], [[RT/Multiprocessor]], [[RT/Cyclic Executive]], [[RT/Schedulers]], [[RT/ARM]], [[RT/Reentrant Function]]
 
-To Do:
 
-Finish 2.7 & [[RT/Reentrant Function]] 
+**To Do:**
+[[global and static variable]] [[RT/flynn's taxonomy]]
 
 ### Books
 
