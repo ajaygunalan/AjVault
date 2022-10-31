@@ -13,6 +13,3 @@ title: "std-vectors"
 Ref: [Chenro](https://www.youtube.com/watch?v=PocJ5jXv8No&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=46). Next video: [Optimisimg Vectors](https://www.youtube.com/watch?v=HcESuwmlHEY&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=47) depends on [Copying & Copy Constrcutor](https://www.youtube.com/watch?v=BvR1Pgzzr38&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=44https://www.youtube.com/watch?v=BvR1Pgzzr38&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb&index=44).
 
 
-
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>

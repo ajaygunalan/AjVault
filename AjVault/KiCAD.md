@@ -25,6 +25,3 @@ Extend the features of [RPi AD/DA Expansion Board](https://www.waveshare.com/wik
 
 
 
-
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>

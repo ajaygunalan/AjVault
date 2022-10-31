@@ -8,6 +8,3 @@ MPC uses optimization in the control loop to predict the correct action values. 
 ### Projects
 1. [Trajectory tracking by PID control using IMU data](https://www.youtube.com/watch?v=zxzQhBU0WqY)
 2. [[Impedance controller of single actuator]]
-
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>

@@ -4,8 +4,10 @@
 [[RT/Intro]], [[RT/threads]], [[RT/fault-tolerance]], [[RT/syslog]], [[RT/Rate-monotonic scheduling]], [[RT/Multiprocessor]], [[RT/Cyclic Executive]], [[RT/Schedulers]], [[RT/ARM]], [[RT/Reentrant Function]]
 
 
+[GitHub Repo](https://github.com/ajaygunalan/rtos)
+
 **To Do:**
-[[global and static variable]] [[RT/flynn's taxonomy]]
+[[RT/flynn's taxonomy]]
 
 ### Books
 

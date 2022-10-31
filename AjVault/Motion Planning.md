@@ -102,6 +102,3 @@ The main idea is to pick a point in the C-space randomly and check whether a pat
 
 
 ### References 
-
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>

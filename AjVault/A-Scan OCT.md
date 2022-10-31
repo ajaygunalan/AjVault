@@ -23,5 +23,3 @@ title: "A-Scan OCT"
 | 12    | Wideband Fiber Optic Coupler | TW1300R2A2  |
 
 
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>

@@ -38,5 +38,3 @@ title: "Other-Blog"
 33. [MIT Robotics Webinar](https://robotics.mit.edu/robotics-seminar)
 34. [CMU Robotics Webinar](https://www.ri.cmu.edu/event/ri-seminar-matthew-johnson-roberson-cmu-2022-02-04/)
 
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>

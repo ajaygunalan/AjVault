@@ -1,32 +1,31 @@
-###### 1. Software Engineer - Linux Embedded Systems (Oculus)
-
+##### 1. Software Engineer - Linux Embedded Systems (Oculus)
 -  Linux system programming, Kernel, Device Drivers, Embedded Systems and/or protocol design (specification and implementation)
 -   hardware sensor data access and control (e.g. cameras, IMUs), Android internals, frameworks services or Native libraries, Android SDK, Android NDK, Android JNI, Android IPC mechanisms
 -   real-time low-latency sensor processing / control, developing performance optimisations for mobile devices, linux kernel-level and userspace device drivers, ARM based processors and microcontrollers and various communications protocols such as I2C, UART, SPI, USB, MIPI, I2S, et. or GPU-based development and optimisation techniques
 -   resource constrained systems and system resource monitoring (profiling, instrumentation, telemetry) or performance optimisations
 
 
-###### 2. Software Engineer - Camera (Meta)
+##### 2. Software Engineer - Camera (Meta)
 -   camera APIs, media processing, and understanding of Video and Image Capture pipeline for embedded devices.
 -   1+ years experience in Image Processing and Computational Photography, including but not limited to low-light capture, HDR, Depth estimation, video stabilization, denoising, demosaicing, and new camera formats
 -   1+ years experience of Video and Image Capture pipeline for embedded devices
 -   1+ years experience working on camera hardware, including sensors, lens, DSP, computer vision processing units
 -   1+ years experience with any of: auto exposure and auto white balance algorithms, software control of Image Signal Processors, image sensor drivers, and MIPI/CSI protocol
 
-###### 3. Software Engineer C++/PLC (Modis)
+##### 3. Software Engineer C++/PLC (Modis)
 -   5+ years of experience as software developer preferably for software simulators used to test other software or real time machine control software
 -   Strong experience in C++ coding and Structured Text Coding with a PLC environment in combined with at least one other object-oriented language
 -   Experience with the Linux operating system
 -   Experience with B&R Automation PLC environment
 
 
-###### 4. C++ Software Engineer for 3D laser scanning product (Darwin)
+##### 4. C++ Software Engineer for 3D laser scanning product (Darwin)
 -   Strong proficiency in software development using languages such as C++ and Python
 -   Solid software engineering background (design patterns, clean code, TDD)
 -   System-level design and architecture are a big plus
 -   Embedded development skills (Yocto, OS internals, hardware integration) are beneficial
 
-###### 5.  Senior Embedded Software Engineer (Verity)
+##### 5.  Senior Embedded Software Engineer (Verity)
 -   At least 3 years of professional hands-on experience in designing and developing industrial-grade embedded software
 -   Strong commitment to high coding and design/architecture standards and best practices
 -   Experience in developing Linux-based embedded systems
@@ -37,7 +36,7 @@
 -   Knowledge of Yocto Project
 -   Understanding of real-time operating systems
 
-###### 6. Robotics Software Engineer (Rapyuta)
+##### 6. Robotics Software Engineer (Rapyuta)
 - Real-time communication links and tradeoffs with bandwidth, latency, and reliability.
 - multithreading and concurrency
 - network protocols from data link through application layer
@@ -48,15 +47,14 @@
 - software development life cycle
 - Subject matter expertise in one of Control and Dynamical Systems, Machine Learning, or Computer Vision
 
-###### 7. Lead Robotics Platform Software Engineer (Dyson)
+##### 7. Lead Robotics Platform Software Engineer (Dyson)
 - Excellent knowledge and hands-on experience in Linux tool-chain, Yocto build system, board bring up and embedded Linux kernel/driver porting for system integration.
 - Experience in one or more of the following areas: BSP/Board Support Package, Operating Systems, Linux kernel and device driver, Bootloader, Power Management, V4L2.
 - Experience in configuration and use of sensor devices over I2C, SPI, UART with DMA
 - Experience in sensors/camera/BT/Wifi modules integration and calibration is a plus.
 - Familiar with STL, boost C++ libraries, design patterns and able to enforce it in day-to-day tasks.
 
-###### 8. C++ SE Self Driving Car (Bosch)
-
+##### 8. C++ SE Self Driving Car (Bosch)
 - Programming Languages: C++
 - Target – CPU: ARM Cortex A family or similar
 - Target – Hardware Accelerators: Automotive GPUs, etc.
@@ -71,7 +69,7 @@
 - You have computer vision, image processing,
 
 
-###### 9. SWE - Senior Engineer (Embedded Systems), WTE  (Apple)
+##### 9. SWE - Senior Engineer (Embedded Systems), WTE  (Apple)
 - Experience in developing embedded real-time software  
 - Fundamental knowledge and understanding of embedded processors and real-time OS concepts  
 - In depth knowledge of embedded systems (core, cache, memory, bus, interrupts, sleep/wake, clock, power control, etc)  
@@ -82,12 +80,12 @@
 - Strong experience with on target debugging for embedded systems (e.g.: with LLDB or T32)  
 
 
-10. SE
+ ##### 10. SE
 -   experience with at least one of the following: medical imaging and image processing (VTK/ITK preferred), computer vision (OpenCV preferred), and computer-aided design
 -   Experience with Linux operating system and Docker images
 -   Experience with Matlab
 
-11. Robotics Software Developer/Engineer by United Robotics Group
+##### 11. Robotics Software Developer/Engineer by United Robotics Group
 
 - Robotics enthusiast who enjoys innovation and working as part of an agile team
 - Degree in computer science, engineering, mechatronics or a related field
@@ -100,9 +98,8 @@
 - Good German and English language skillsLeidenschaft für Robotik
 
 
-###### 12. Senior software developer robotics by https://www.intermodalics.eu/
+##### 12. Senior software developer robotics by https://www.intermodalics.eu/
 Roles & Responsibilities
-
 -   The Senior software developer robotics is a generalist robotics engineer that can develop reusable and efficient algorithms and architectures, leveraging existing libraries and open-source where possible.
 -   You apply and integrate software components to different kinds of assets or robotic platforms
 -   You mentor junior engineers via pairing, design review, and code review

@@ -12,5 +12,3 @@ My primary task was developing real-time audio, video, and point cloud (PCL) str
 
 Then, I interfaced the gas sensor, temperature sensor, mic, and thermal camera with Nvidia Jetson and experimented with beam forming on the XMOS Microphone array using the [ODAS](https://github.com/introlab/odas) library. 
 
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>

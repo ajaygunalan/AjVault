@@ -59,6 +59,3 @@ Bias voltages often originate from a stable power source that is either linear (
 
 
 
-
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>

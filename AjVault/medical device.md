@@ -47,8 +47,5 @@ Being a finalist of IICDC 2016, We received funding for our startup [Rekindle Au
 
 
 
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>
-<br>
 
 

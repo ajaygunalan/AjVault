@@ -23,5 +23,3 @@ status: start from 1.40 [lec15](https://www.youtube.com/watch?v=rjSnztlsgn8), [l
 
 
 
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>

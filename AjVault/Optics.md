@@ -21,5 +21,3 @@ Other Notable Courses:
 4. [Fiber Optics](https://nptel.ac.in/courses/115107095)
 5. [Basics of Optical Alignment](https://www.youtube.com/playlist?list=PLh5cDpn282vaCtqzjg6laUaR-CtzghltB)
 
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>

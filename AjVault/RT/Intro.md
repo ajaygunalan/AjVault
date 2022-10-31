@@ -90,6 +90,3 @@ When it comes to a General Purpose Computers, having an OS to increase the throu
 ### Why ChibiOS ###
 
 Microcontroller manufacturers provide their own software libraries to use their product. However, ChibiOS has more functionalities which can be used instead of you developing everything from scratch saving time, effort and cost. In competitive with ChibiOS there are others too, but ChibiOS is open-source, portable, real-time and lightweight. The reason I started with ChibiOS is beacuse Benjamin Veddar uses it for his open source BLDC driver, [VESC](http://vedder.se/2015/01/vesc-open-source-esc/).
-
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>*

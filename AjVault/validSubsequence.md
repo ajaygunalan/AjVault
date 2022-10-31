@@ -91,5 +91,3 @@ print "Array is :", array, "\n sequence is :", sequence
 print "Is it a valid Subsequence: ", isValidSubsequence(array, sequence)
 ```
 
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>

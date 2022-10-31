@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "Heaps",
-      "path": "Heaps.md"
+      "basename": "Real-Time Operating System",
+      "path": "Real-Time Operating System.md"
     },
     {
       "basename": "Data Structures and Algorithms",
@@ -13,8 +13,128 @@
       "path": "Welcome! 👋.md"
     },
     {
-      "basename": "Real-Time Operating System",
-      "path": "Real-Time Operating System.md"
+      "basename": "Algorithmic Thinking-Peak Finding",
+      "path": "Algorithmic Thinking-Peak Finding.md"
+    },
+    {
+      "basename": "Surgical-Robots",
+      "path": "Surgical-Robots.md"
+    },
+    {
+      "basename": "Sorting",
+      "path": "Sorting.md"
+    },
+    {
+      "basename": "Surgical-Topics",
+      "path": "Surgical-Topics.md"
+    },
+    {
+      "basename": "tele-robotics",
+      "path": "tele-robotics.md"
+    },
+    {
+      "basename": "validSubsequence",
+      "path": "validSubsequence.md"
+    },
+    {
+      "basename": "std-vectors",
+      "path": "std-vectors.md"
+    },
+    {
+      "basename": "Signal Processing",
+      "path": "Signal Processing.md"
+    },
+    {
+      "basename": "Sensor Conditioning Circuits",
+      "path": "Sensor Conditioning Circuits.md"
+    },
+    {
+      "basename": "Optics",
+      "path": "Optics.md"
+    },
+    {
+      "basename": "ROS",
+      "path": "ROS.md"
+    },
+    {
+      "basename": "op-amps",
+      "path": "electronics/op-amps.md"
+    },
+    {
+      "basename": "Motion Planning",
+      "path": "Motion Planning.md"
+    },
+    {
+      "basename": "medical device",
+      "path": "medical device.md"
+    },
+    {
+      "basename": "legged robot",
+      "path": "legged robot.md"
+    },
+    {
+      "basename": "Intro",
+      "path": "RT/Intro.md"
+    },
+    {
+      "basename": "Other-Blogs",
+      "path": "Other-Blogs.md"
+    },
+    {
+      "basename": "post",
+      "path": "templates/post.md"
+    },
+    {
+      "basename": "KiCAD",
+      "path": "KiCAD.md"
+    },
+    {
+      "basename": "insertionSort",
+      "path": "insertionSort.md"
+    },
+    {
+      "basename": "Controls",
+      "path": "Controls.md"
+    },
+    {
+      "basename": "humanoid",
+      "path": "humanoid.md"
+    },
+    {
+      "basename": "Communication-Protocols",
+      "path": "Communication-Protocols.md"
+    },
+    {
+      "basename": "Basic Terminology",
+      "path": "Basic Terminology.md"
+    },
+    {
+      "basename": "Arrays",
+      "path": "Arrays.md"
+    },
+    {
+      "basename": "Actuators for dexterous and agile robots",
+      "path": "Actuators for dexterous and agile robots.md"
+    },
+    {
+      "basename": "A-Scan OCT",
+      "path": "A-Scan OCT.md"
+    },
+    {
+      "basename": "Jobs",
+      "path": "Jobs.md"
+    },
+    {
+      "basename": "Binary Search Trees",
+      "path": "Binary Search Trees.md"
+    },
+    {
+      "basename": "smooth derivative",
+      "path": "smooth derivative.md"
+    },
+    {
+      "basename": "Heaps",
+      "path": "Heaps.md"
     },
     {
       "basename": "flynn's taxonomy",
@@ -79,22 +199,6 @@
     {
       "basename": "fault-tolerance",
       "path": "RT/fault-tolerance.md"
-    },
-    {
-      "basename": "threads",
-      "path": "RT/threads.md"
-    },
-    {
-      "basename": "Intro",
-      "path": "RT/Intro.md"
-    },
-    {
-      "basename": "Electromagnetic coils",
-      "path": "Electromagnetic coils.md"
-    },
-    {
-      "basename": "Tailored Sensing",
-      "path": "Tailored Sensing.md"
     }
   ],
   "omittedPaths": [],

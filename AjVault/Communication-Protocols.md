@@ -37,6 +37,3 @@ I think, unless you are developeing a piece of code for one of the layers, You c
 - [ ] EtherCAT
 - [ ] Some project
 
-
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>

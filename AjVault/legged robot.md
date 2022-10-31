@@ -115,6 +115,3 @@ Team Members: [Shounak Bhattachary](https://sites.google.com/view/shounakoffice/
 
 
 ![[stcohTeam.jpg]]
-
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>
