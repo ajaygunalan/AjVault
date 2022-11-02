@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Jobs",
+      "path": "Jobs.md"
+    },
+    {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
     },
@@ -179,10 +183,6 @@
     {
       "basename": "A-Scan OCT",
       "path": "A-Scan OCT.md"
-    },
-    {
-      "basename": "Jobs",
-      "path": "Jobs.md"
     },
     {
       "basename": "Binary Search Trees",

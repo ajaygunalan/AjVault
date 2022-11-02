@@ -79,13 +79,7 @@
 - Excellent in C/C++ skills  
 - Strong experience with on target debugging for embedded systems (e.g.: with LLDB or T32)  
 
-
- ##### 10. SE
--   experience with at least one of the following: medical imaging and image processing (VTK/ITK preferred), computer vision (OpenCV preferred), and computer-aided design
--   Experience with Linux operating system and Docker images
--   Experience with Matlab
-
-##### 11. Robotics Software Developer/Engineer by United Robotics Group
+##### 10. Robotics Software Developer/Engineer by United Robotics Group
 
 - Robotics enthusiast who enjoys innovation and working as part of an agile team
 - Degree in computer science, engineering, mechatronics or a related field
@@ -98,7 +92,7 @@
 - Good German and English language skillsLeidenschaft für Robotik
 
 
-##### 12. Senior software developer robotics by https://www.intermodalics.eu/
+##### 11. Senior software developer robotics by https://www.intermodalics.eu/
 Roles & Responsibilities
 -   The Senior software developer robotics is a generalist robotics engineer that can develop reusable and efficient algorithms and architectures, leveraging existing libraries and open-source where possible.
 -   You apply and integrate software components to different kinds of assets or robotic platforms
@@ -119,4 +113,31 @@ You’re bringing us…
 -   Analytical mindset and eager to learn
 -   You can work independently while being a team player with good reporting skills
 -   English Language proficiency (written & verbal)
+
+##### 12. Application Engineers by ApexAi
+
+You will develop, deploy, and support software and provide support to local, domestic, and international customers while cooperating closely with our internal development team to create a quality product. In addition, you will have various opportunities to contribute features to the core products. You will gain deep technical knowledge about Apex.OS and Apex.Middleware. If you love to code in C++ and enjoy working with others, this is the perfect role for you!
+
+This role is located in our Berlin, Munich, or Stuttgart offices. It can also be filled remotely within Germany. The candidate can also be located in Gothenburg, Sweden. Work authorization in the respective country is required.
+
+**What You'll Do—Responsibilities**
+-   Apply your excellent problem solving and C++ development skills towards developing functions, applications, and solutions for automotive and smart machine applications
+-   Roll out Apex.AI software to customers and provide technical support
+
+You Have
+-   A B.S. or higher degree in a technical field
+-   3+ years or more of C++ software development experience
+-   Proficient presentation and communication skills in English
+-   Excellent troubleshooting skills
+-   Experience with git, GitLab or similar tools
+-   Software and embedded system experience is a must
+-   Self-motivated, comfortable operating without direct supervision
+
+Great to Have
+-   Experience in relevant domains, such as automotive, aerospace, industrial, is a strong plus
+-   Understanding of OS and network concepts (UDP, Multicast, etc.) or messaging systems (DDS, ROS, etc.) or real-time systems or automotive software architectures (such as AUTOSAR)
+-   Previous experience in technical professional services or sales
+-   Customer training experience
+
+
 

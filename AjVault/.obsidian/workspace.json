@@ -4,16 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f60d9f9eb096ca6f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Welcome! 👋.md",
-            "mode": "source",
-            "source": true
+        "id": "7723faad43f2b392",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2dd617aa55771e94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jobs.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -87,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome! 👋.md",
+                "file": "Jobs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome! 👋.md"
+                "file": "Jobs.md"
               }
             }
           },
@@ -133,10 +139,10 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "f60d9f9eb096ca6f",
+  "active": "2dd617aa55771e94",
   "lastOpenFiles": [
-    "Food/Diet.md",
     "Welcome! 👋.md",
+    "Food/Diet.md",
     "Food.md",
     "Food/Sprouts Salads.md",
     "Food/Recepie/main/Palak Tofu.md",
