@@ -1,0 +1,1 @@
+<iframe src="https://www.youtube.com/embed/WKXbvhkzBUo" title="Flynn's Taxonomy of Parallel Machines - Georgia Tech - HPCA: Part 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

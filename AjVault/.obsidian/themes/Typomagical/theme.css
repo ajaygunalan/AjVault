@@ -25,6 +25,22 @@ body.type-scale-none {
   --h1-size: var(--font-text-size);
 }
 
+/* Enlarge image on hover by ajay from Ubuntu Theme */
+.markdown-preview-view img {
+  display: block;
+  margin-top: 20pt;
+  margin-bottom: 20pt;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; /*experiment with values*/
+  transition: transform 0.25s ease;
+}
+
+.markdown-preview-view img:hover {
+  -webkit-transform: scale(2); /* experiment with values */
+  transform: scale(2);
+}
+
 body.type-scale-slight {
   --h6-size: 1rem;
   --h5-size: clamp(1rem, 12vw - 3.7rem, 1.1rem);

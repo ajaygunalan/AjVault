@@ -43,13 +43,18 @@ I have done a few tasks using my hobby grade skills, but they may not be optimal
 
 - [[Sensor Conditioning Circuits]]
 - [[Motion Control Drivers]]
-- [[MEMS]]
+- [[MEMS/MEMS]]
 - [[Optics]]
 
 ### Random 
-[[Surgical-Robots]], [[Surgical-Topics]], [[Food]], [[Gym]], [[Jobs]], [[Finance]], [[Other-Blogs]]
+[[Surgical-Robots]], [[Surgical-Topics]], [[Food/Diet]], [[Gym]], [[Jobs]], [[Finance]], [[Other-Blogs]]
 
 ![[Capture.png]]
+
+### To Do
+- Solve week-1 problems in [[Data Structures and Algorithms#^8690cc]]
+- Need to finish assignment and quiz in week 1 of [[Real-Time Embedded Systems Specialization]]
+
 
 
 

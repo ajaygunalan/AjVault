@@ -1,12 +1,6 @@
-## Medical Terms
 
-#### Biopsy
+[[Medical/Biopsy]]
 
- Alternate to random biopsy is targeted biopsy which can be:
--  excisional biopsy
-	-  excise is taking something out.  an excisional biopsy removes the entire tumor is studied in the lab.
--  incisional biopsy
-	-  To incise means cutting into some tissue. An incisional biopsy cuts out a piece of the tumor but does not remove it completely
 
 
 ####  Histology
@@ -53,19 +47,19 @@ Skeletal, Cardiac, Smooth
 #### Cancer
 - dysplasia
 	- dys -> abnormal; plasia -> cell;
-	-  ![[761240-571.jpg]]
+	-  ![[Medical/Attachments/761240-571.jpg]]
 - malignant tumor [src](https://www.youtube.com/watch?v=Fq-ugrt_H-E) ^1c4e16
 	- carcinoma
 		- oma means tumor, growth, swelling
 		- carciono means crab. The tumor grabs surrounds cell like a crab
-		- epithelial tissue.  [[Medical Terms#^9b2131]] ^3dc934
+		- epithelial tissue.  [[Medical/Medical Terms#^9b2131]] ^3dc934
 		- solid tumors
 		- squamous cell carcinoma
 			- squama: scale- like, plate-like 
 			- originates from squamous epithelium.
 	- sarcoma
 		- sarx -> flesh. 
-		- connective tissue.  [[Medical Terms#^10105d]]
+		- connective tissue.  [[Medical/Medical Terms#^10105d]]
 		- solid tumors
 	- melanoma
 		- melan -> pigmented blac ink.  
@@ -84,9 +78,9 @@ Skeletal, Cardiac, Smooth
 - Are benign tumor and dysplasia same? If not, what's the difference?
 	- benign tumors are stressed cells whose effect are irreversible
 	- dysplasia are stressed cells but the effect are reversible.
-	- ![[Benign-vs.-Malignant-Dysplasia-Pathway-Cancer 1.png]]
-	- ![[Dyslpasia-Cancer-Pathway-Malignant-Metastasis.png]]
-	- ![[Difference-betwen-benign-and-malignant.png]]
+	- ![[Medical/Attachments/Benign-vs.-Malignant-Dysplasia-Pathway-Cancer 1.png]]
+	- ![[Medical/Attachments/Dyslpasia-Cancer-Pathway-Malignant-Metastasis.png]]
+	- ![[Medical/Attachments/Difference-betwen-benign-and-malignant.png]]
 - What is the difference between malignant tumor and benign tumor?
 	- Malignant cells have the ability to invade tissue and metastasize** (spread to other sites) while benign tumors do not. However, malignant cancers don’t always invade and metastasize. [src](http://www.stomponstep1.com/dysplasia-difference-between-benign-and-malignant/)
 - What is the difference between carcinoma and melanoma ? (Both are in skin right?)
@@ -108,7 +102,7 @@ Skeletal, Cardiac, Smooth
 	- <iframe width="320" height="175" src="https://www.youtube.com/embed/kfkFTw3sBXQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - functions for glottic phonation
-##### [[Voice Disorders#3 layers of vocal fold|3 layers of vocal fold]]
+##### [[Medical/Voice Disorders#3 layers of vocal fold|3 layers of vocal fold]]
 ###### cover
 epithelium and superficial lamina propria (SLP)
 ###### transition zone (vocal ligament)
@@ -122,7 +116,7 @@ thyroarytenoid muscle
 ^9186fd
 
 - [Nice endoscopic video](https://www.youtube.com/watch?v=N6K35fvBjn4&t=230s)
-- Larynx ([[Voice Disorders#^d70ee6|voice box]]) ^b23707
+- Larynx ([[Medical/Voice Disorders#^d70ee6|voice box]]) ^b23707
 	- Etymology
 		- Larynx -> the upper windpipe
 	- Functions
@@ -198,13 +192,13 @@ To conclude, we would like to highlight a few critical things that you must take
 #### Dumpster
 Barrett's esophagus
 
-It is a condition in which there is an abnormal change in the [[Medical Terms#^60e38a|mucosal]] cells  lining the lower portion of the [[Medical Terms#^8acae9|esophagus]], from normal stratified squamous epithelium to simple columnar epithelium ([[Medical Terms#^9b2131|epithelial]]) with interspersed [[Medical Terms#^ac42d7|goblet cells]] that are normally present only in the small intestine and large intestine. This change is considered to be a premalignant condition because it is associated with a high incidence of further transition to esophageal adenocarcinoma, an often-deadly cancer.
+It is a condition in which there is an abnormal change in the [[Medical/Medical Terms#^60e38a|mucosal]] cells  lining the lower portion of the [[Medical/Medical Terms#^8acae9|esophagus]], from normal stratified squamous epithelium to simple columnar epithelium ([[Medical/Medical Terms#^9b2131|epithelial]]) with interspersed [[Medical/Medical Terms#^ac42d7|goblet cells]] that are normally present only in the small intestine and large intestine. This change is considered to be a premalignant condition because it is associated with a high incidence of further transition to esophageal adenocarcinoma, an often-deadly cancer.
 
 
 It is diagnosed by endoscopy: 
 	- observing the characteristic appearance of this condition by direct inspection of the lower esophagus.
 	- followed by microscopic examination of tissue from the affected area obtained from biopsy.
 
-[[Medical Terms#Biopsy|biopsy]]
+[[Medical/Medical Terms#Biopsy|biopsy]]
 
 <iframe width="320" height="175" src="https://www.youtube.com/watch?v=P2pLJfWUjc8?start=57&end=270" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

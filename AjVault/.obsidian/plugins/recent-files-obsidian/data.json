@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Welcome! 👋",
+      "path": "Welcome! 👋.md"
+    },
+    {
+      "basename": "Diet",
+      "path": "Food/Diet.md"
+    },
+    {
+      "basename": "Sprouts Salads",
+      "path": "Food/Sprouts Salads.md"
+    },
+    {
+      "basename": "Palak Tofu",
+      "path": "Food/Recepie/main/Palak Tofu.md"
+    },
+    {
+      "basename": "Real-Time Embedded Systems Specialization",
+      "path": "Real-Time Embedded Systems Specialization.md"
+    },
+    {
       "basename": "Real-Time Operating System",
       "path": "Real-Time Operating System.md"
     },
@@ -9,8 +29,48 @@
       "path": "Data Structures and Algorithms.md"
     },
     {
-      "basename": "Welcome! 👋",
-      "path": "Welcome! 👋.md"
+      "basename": "Medical Terms",
+      "path": "Medical/Medical Terms.md"
+    },
+    {
+      "basename": "Biopsy",
+      "path": "Medical/Biopsy.md"
+    },
+    {
+      "basename": "Schedulers",
+      "path": "RT/Schedulers.md"
+    },
+    {
+      "basename": "Least Laxity First",
+      "path": "RT/Least Laxity First.md"
+    },
+    {
+      "basename": "Earliest Deadline First",
+      "path": "RT/Earliest Deadline First.md"
+    },
+    {
+      "basename": "Deadline Monotonic",
+      "path": "RT/Deadline Monotonic.md"
+    },
+    {
+      "basename": "Rate Monotonic",
+      "path": "RT/Rate Monotonic.md"
+    },
+    {
+      "basename": "DM",
+      "path": "RT/DM.md"
+    },
+    {
+      "basename": "RM",
+      "path": "RT/RM.md"
+    },
+    {
+      "basename": "SCHED_FIFO",
+      "path": "SCHED_FIFO.md"
+    },
+    {
+      "basename": "flynn's taxonomy",
+      "path": "RT/flynn's taxonomy.md"
     },
     {
       "basename": "Algorithmic Thinking-Peak Finding",
@@ -135,70 +195,6 @@
     {
       "basename": "Heaps",
       "path": "Heaps.md"
-    },
-    {
-      "basename": "flynn's taxonomy",
-      "path": "RT/flynn's taxonomy.md"
-    },
-    {
-      "basename": "Reentrant Function",
-      "path": "RT/Reentrant Function.md"
-    },
-    {
-      "basename": "global and static variable",
-      "path": "global and static variable.md"
-    },
-    {
-      "basename": "ARM",
-      "path": "RT/ARM.md"
-    },
-    {
-      "basename": "PhD Kanban",
-      "path": "PhD Kanban.md"
-    },
-    {
-      "basename": "Endoscopy Imaging Sensor",
-      "path": "Endoscopy Imaging Sensor.md"
-    },
-    {
-      "basename": "Scanning Fiber Endoscope",
-      "path": "Scanning Fiber Endoscope.md"
-    },
-    {
-      "basename": "Multiprocessor",
-      "path": "RT/Multiprocessor.md"
-    },
-    {
-      "basename": "Numerical Aperture",
-      "path": "Numerical Aperture.md"
-    },
-    {
-      "basename": "Image-Guided Laser Surgery",
-      "path": "Image-Guided Laser Surgery.md"
-    },
-    {
-      "basename": "Schedulers",
-      "path": "RT/Schedulers.md"
-    },
-    {
-      "basename": "Cyclic Executive",
-      "path": "RT/Cyclic Executive.md"
-    },
-    {
-      "basename": "Real-Time Embedded Systems Specialization",
-      "path": "Real-Time Embedded Systems Specialization.md"
-    },
-    {
-      "basename": "syslog",
-      "path": "RT/syslog.md"
-    },
-    {
-      "basename": "Rate-monotonic scheduling",
-      "path": "RT/Rate-monotonic scheduling.md"
-    },
-    {
-      "basename": "fault-tolerance",
-      "path": "RT/fault-tolerance.md"
     }
   ],
   "omittedPaths": [],

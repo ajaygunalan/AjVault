@@ -22,10 +22,10 @@ But, we can draw our processes with crayons. Hence, the phrase “crayon enginee
 ##### wafer
 ###### popular wafer & how are they classified?
 The most popular wafer are single-crystal-silicon wafers. They are classified by the orientation of the surface relative to the crystalline axes and also by doping level, n-type or p-type.
-###### crystal structure image from ([[Senturia2001Microsystem#^4a6547|Senturia2001Microsystem, pp 58]])
-![[fcc.png]] 
-###### wafer image from ([[Maluf2002Introduction#^6980c3|Maluf2002Introduction, pp 38]])
-![[wafer.png]]
+###### crystal structure image from ([[MEMS/Source Notes/Senturia2001Microsystem#^4a6547|Senturia2001Microsystem, pp 58]])
+![[MEMS/Attachments/fcc.png]] 
+###### wafer image from ([[MEMS/Source Notes/Maluf2002Introduction#^6980c3|Maluf2002Introduction, pp 38]])
+![[MEMS/Attachments/wafer.png]]
 ###### [100]
 A direction in crystal coordinates
 ###### 〈100〉
@@ -40,29 +40,29 @@ The angle between {100} and {111} planes is of particular importance in micromac
 ##### Machines at IIT fab lab
 ###### Yellow room  (250 $m^{2}$)
 - Its yellow because of the UV filters; The UV rays may affect devices. 
-- [[MEMS#^4507fa|Electron Beam Lithography]]
-- [[MEMS#^122ddb|Maskless Optical Lithography]]
-- [[MEMS#^b6e5be|Mask aligner]]
-- [[MEMS#^726fd2|Nano imprinter]]
-- [[MEMS|AFM]]
+- [[MEMS/MEMS#^4507fa|Electron Beam Lithography]]
+- [[MEMS/MEMS#^122ddb|Maskless Optical Lithography]]
+- [[MEMS/MEMS#^b6e5be|Mask aligner]]
+- [[MEMS/MEMS#^726fd2|Nano imprinter]]
+- [[MEMS/MEMS|AFM]]
 ###### White room  (250 $m^{2}$)
 - ISO 7
-- [[MEMS#Swiss Army Knife|Swiss army Knife]]
-- [[MEMS#^844c7e|ICP-RIE]]
-- [[MEMS#^80369f|Chemical Vapor Deposition]]
-	- [[MEMS#^983f67|Atomic Layer Deposition]]
-	- [[MEMS#^5df09b|Plasma Enhanced Chemical Vapor Deposition]]
-- [[MEMS#^80369f|Physical Vapor Deposition]]
-	- [[MEMS#^da5178|Evaporator]]  ^a6b6b1
-	- [[MEMS#^278018|Sputtering]] ^0dcad3
+- [[MEMS/MEMS#Swiss Army Knife|Swiss army Knife]]
+- [[MEMS/MEMS#^844c7e|ICP-RIE]]
+- [[MEMS/MEMS#^80369f|Chemical Vapor Deposition]]
+	- [[MEMS/MEMS#^983f67|Atomic Layer Deposition]]
+	- [[MEMS/MEMS#^5df09b|Plasma Enhanced Chemical Vapor Deposition]]
+- [[MEMS/MEMS#^80369f|Physical Vapor Deposition]]
+	- [[MEMS/MEMS#^da5178|Evaporator]]  ^a6b6b1
+	- [[MEMS/MEMS#^278018|Sputtering]] ^0dcad3
 ###### Dressing room
 ISO 8
 
 #### Lithography
 
 ######  Basic MEMS workflow
-- image from [[Maluf2002Introduction]]
-	- ![[basic_mems_workflow.png|450x300]]
+- image from [[MEMS/Source Notes/Maluf2002Introduction]]
+	- ![[MEMS/Attachments/basic_mems_workflow.png|450x300]]
 
  ```mermaid
 graph TB; 
@@ -127,20 +127,20 @@ uses aqueous solutions (acid or base) to etch. Both surfaces of the subrate are 
 - large amount of chemicals
 - safety
 - poor process control
-#####  [[Maluf2002Introduction#Dry etching|dry etching]] 
-[[Maluf2002Introduction#^d65c67|a.k.a plasma etching]] is where charged ions are used to remove the material. These charged ions are formed formed the plasma. [[Etching.pdf#page=23|What is plasma? How is it produced?]]
-[[Senturia2001Microsystem#^5d6812|Two outcomes of plasma?]] [video](https://www.youtube.com/watch?v=jPyiImPYUr8&list=PLTkAyZQDGrLbJouUD9Zgkd8HMGmjYInDB&index=56).
+#####  [[MEMS/Source Notes/Maluf2002Introduction#Dry etching|dry etching]] 
+[[MEMS/Source Notes/Maluf2002Introduction#^d65c67|a.k.a plasma etching]] is where charged ions are used to remove the material. These charged ions are formed formed the plasma. [[MEMS/Attachments/Etching.pdf#page=23|What is plasma? How is it produced?]]
+[[MEMS/Source Notes/Senturia2001Microsystem#^5d6812|Two outcomes of plasma?]] [video](https://www.youtube.com/watch?v=jPyiImPYUr8&list=PLTkAyZQDGrLbJouUD9Zgkd8HMGmjYInDB&index=56).
 
-- [[Etching.pdf#page=22|ion milling vs plasma etching vs RIE]]
-	- A plasma produces both **ions** and **free radicals**. These ions remove material by physical collision ([[Senturia2001Microsystem#What is Maluf2002Introduction Ion Milling ion milling focused ion beam milling|ion milling]]) . The free radicals remove material by chemical reaction ([[Maluf2002Introduction#Difference between Maluf2002Introduction d65c67 plasma etching and RIE|plasma etching]]) and combination of these two is *RIE*.
+- [[MEMS/Attachments/Etching.pdf#page=22|ion milling vs plasma etching vs RIE]]
+	- A plasma produces both **ions** and **free radicals**. These ions remove material by physical collision ([[MEMS/Source Notes/Senturia2001Microsystem#What is Maluf2002Introduction Ion Milling ion milling focused ion beam milling|ion milling]]) . The free radicals remove material by chemical reaction ([[MEMS/Source Notes/Maluf2002Introduction#Difference between Maluf2002Introduction d65c67 plasma etching and RIE|plasma etching]]) and combination of these two is *RIE*.
 
-- [[Maluf2002Introduction#ICP-RIE|Inductively coupled plasma reactive ion etching]] ^844c7e
+- [[MEMS/Source Notes/Maluf2002Introduction#ICP-RIE|Inductively coupled plasma reactive ion etching]] ^844c7e
 	- ICP-RIE Sentech SI 500.
-	- see the [[Nano-Photonic_Devices(1).pdf#page=18|this pdf]] for details such as gas, size of holder, ICP generator and RF source.
+	- see the [[MEMS/Attachments/Nano-Photonic_Devices(1).pdf#page=18|this pdf]] for details such as gas, size of holder, ICP generator and RF source.
 - Need for DIRE?
-	- [[Maluf2002Introduction#Difference between Maluf2002Introduction d65c67 plasma etching and RIE|plasma etching]] produces deep trenches with tapered angles. We overcome this by alternating between std. plasma etch and deposition of a polymer as shown in gif:
+	- [[MEMS/Source Notes/Maluf2002Introduction#Difference between Maluf2002Introduction d65c67 plasma etching and RIE|plasma etching]] produces deep trenches with tapered angles. We overcome this by alternating between std. plasma etch and deposition of a polymer as shown in gif:
 	 - gif
-		 - ![[bosch_process.gif|250x300]]
+		 - ![[MEMS/Attachments/bosch_process.gif|250x300]]
  
  
  
@@ -157,7 +157,7 @@ uses aqueous solutions (acid or base) to etch. Both surfaces of the subrate are 
 #### Deposition
 
 ##### PVD vs CVD? ^80369f
-In [[Senturia2001Microsystem#^935ab2|PVD]] PVD, the material to be deposited is in solid state which is vaporized by *ions* ([[#^0dcad3|sputtering]]), or *thermally* ([[#^a6b6b1|evaporator]]) whereas in CVD, we already have the material to deposited in gaseous form. Due to the presence of gas, CVD has multi-directional deposition leading to conformal deposition. 
+In [[MEMS/Source Notes/Senturia2001Microsystem#^935ab2|PVD]] PVD, the material to be deposited is in solid state which is vaporized by *ions* ([[#^0dcad3|sputtering]]), or *thermally* ([[#^a6b6b1|evaporator]]) whereas in CVD, we already have the material to deposited in gaseous form. Due to the presence of gas, CVD has multi-directional deposition leading to conformal deposition. 
 - Src Video
 	- <iframe width="320" height="175" src="https://www.youtube.com/embed/7UPstHIQNZ4?start=55&end=452" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ###### Atomic Layer Deposition ^983f67
@@ -166,19 +166,19 @@ In [[Senturia2001Microsystem#^935ab2|PVD]] PVD, the material to be deposited is 
 - STS (now SPTS)/ LPX PRO CVD
 - How it works? ^566d6f
 
-###### [[Maluf2002Introduction#Sputter|sputtering]] ^278018
+###### [[MEMS/Source Notes/Maluf2002Introduction#Sputter|sputtering]] ^278018
 -  Kenosistec 500 CONFOCAL
 -  we have one big sputter which has four chambers
 -  due to these four chambers we can do alloy also.
 -  this not possible if wehave single sputter
-######  [[Maluf2002Introduction#Evaporation|evaporator]] ^da5178
+######  [[MEMS/Source Notes/Maluf2002Introduction#Evaporation|evaporator]] ^da5178
 - K. J. Lesker PVD 75
 - We have both thermal and e-beam evaporator
 - Nickel might react with crucible hence used in e-beam evaporator
 - Si can't be  thermally evaporated.
 - Also we have one custom machine evaporator 
-- [[Senturia2001Microsystem#^935ab2|used for?]]
-###### [[Maluf2002Introduction#CVD vs Sputtering|Difference between CVD and Sputtering?]]
+- [[MEMS/Source Notes/Senturia2001Microsystem#^935ab2|used for?]]
+###### [[MEMS/Source Notes/Maluf2002Introduction#CVD vs Sputtering|Difference between CVD and Sputtering?]]
 ###### Plasma Enhanced Chemical  Vapor Deposition (CVD)
 - STS (now SPTS)/ LPX PRO CVD
 - Gases
@@ -205,16 +205,16 @@ In [[Senturia2001Microsystem#^935ab2|PVD]] PVD, the material to be deposited is 
 - Cons
 	- It can't hold the usual 4 inch wafer. Need to break into smaller dice.
 #### Morphological & Spectroscopical characterization
-[[Nano-Photonic_Devices(1).pdf#page=22|Microscopes]]
+[[MEMS/Attachments/Nano-Photonic_Devices(1).pdf#page=22|Microscopes]]
 
 #### To Do
 
-- [ ] [[MEMS#^ef29f8|Atomic Layer Deposition]]
+- [ ] [[MEMS/MEMS#^ef29f8|Atomic Layer Deposition]]
 	- Need to mention its number here
-- [ ] [[MEMS#^566d6f|Plasma Enhanced Chemical Vapor Deposition]]
+- [ ] [[MEMS/MEMS#^566d6f|Plasma Enhanced Chemical Vapor Deposition]]
 
 #### Attachments
-[[Nano-Photonic_Devices(1).pdf]]
+[[MEMS/Attachments/Nano-Photonic_Devices(1).pdf]]
 
 
 Psititve peel of is easy

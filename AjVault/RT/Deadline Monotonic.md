@@ -1,0 +1,1 @@
+Assigns the highest priority to the services with the shortest deadline relative to release. 

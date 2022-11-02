@@ -1,13 +1,12 @@
 
 ### Concepts
 
-[[RT/Intro]], [[RT/threads]], [[RT/fault-tolerance]], [[RT/syslog]], [[RT/Rate-monotonic scheduling]], [[RT/Multiprocessor]], [[RT/Cyclic Executive]], [[RT/Schedulers]], [[RT/ARM]], [[RT/Reentrant Function]]
+[[RT/Intro]], [[RT/threads]], [[RT/fault-tolerance]], [[RT/syslog]], , [[RT/Multiprocessor]], [[RT/Cyclic Executive]], [[RT/Schedulers]], [[RT/ARM]], [[RT/Reentrant Function]], [[RT/flynn's taxonomy]], [[RT/Schedulers]]
 
 
 [GitHub Repo](https://github.com/ajaygunalan/rtos)
 
-**To Do:**
-[[RT/flynn's taxonomy]]
+
 
 ### Books
 

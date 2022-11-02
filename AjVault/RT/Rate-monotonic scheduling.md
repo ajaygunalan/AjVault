@@ -1,1 +1,0 @@
-[Geeks-for Geeks](https://www.geeksforgeeks.org/rate-monotonic-scheduling/)

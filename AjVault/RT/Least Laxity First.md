@@ -1,0 +1,1 @@
+The LLF policy assigns highest priority to the service that has the least difference between remaining execution time and its deadline—a measure of which service deadline is most pressing. The idea is that laxity may vary based upon execution rates, whereas the EDF assignment is not at all influenced by execution rate.

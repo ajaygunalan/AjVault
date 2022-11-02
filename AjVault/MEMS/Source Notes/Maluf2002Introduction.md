@@ -49,17 +49,17 @@
 - [p.66](zotero://open-pdf/library/items/6EC8SMNE?page=66)
 > "Dry etching involves the use of reactant gases, usually in a low-pressure plasma, but nonplasma gas-phase etching is also used to a small degree. It can be isotropic or vertical. The equipment for dry etching is specialized and requires the plumbing of ultra-clean pipes to bring highpurity reactant gases into the vacuum chamber." 
 
- ![[etch_comapre.png|300x200]]
+ ![[MEMS/Source Notes/Attachments/etch_comapre.png|300x200]]
 > "Schematic illustration of cross-sectional trench profiles resulting from four different types of etch methods." ([p.67](zotero://open-pdf/library/items/6EC8SMNE?page=67))
 
-- [[Maluf2002Introduction#Dry etching|dry etching]] is also known as ______ etching ^d65c67
+- [[MEMS/Source Notes/Maluf2002Introduction#Dry etching|dry etching]] is also known as ______ etching ^d65c67
 	- > "Plasma (or dry) etching" ([p.72](zotero://open-pdf/library/items/6EC8SMNE?page=72))
 
 - What are reactive species?
 	- "The reactive species (neutrals and ions) are formed by the collision of molecules in a reactant gas (e.g., SF , CF , Cl , CClF , NF ) with a cloud of energetic electrons excited by an RF electric field." ([Maluf 2002:300](zotero://open-pdf/library/items/6EC8SMNE?page=72)) 
 	^f2e17b
 
-##### Difference between [[Maluf2002Introduction#^d65c67|plasma etching]]  and RIE?
+##### Difference between [[MEMS/Source Notes/Maluf2002Introduction#^d65c67|plasma etching]]  and RIE?
 
 ^64f649
 
