@@ -139,5 +139,54 @@ Great to Have
 -   Previous experience in technical professional services or sales
 -   Customer training experience
 
+##### 13. # Robotics Application Engineer by Sevensense
+
+At Sevensense we push the frontiers of mobile robotics. Our mission is to build the eyes and brain for the robots of the future! Equipped with our technology, mobile machines can autonomously navigate in dynamic and crowded environments. Thus, we enable new robotic applications in industrial places like warehouses and production plants as well as public venues like airports, supermarkets, and train stations.  
+  
+We are looking for a passionate individual to join our Robotics Systems team and contribute by integrating our core technology into new machines, transforming them into smart robots that solve real-world tasks. You will work in close contact with our customers and play the crucial role of integrating our products into their new vehicles, developing custom adaptations when required, and providing them with aftersale support. You will work closely with both Sevensense’s sales and the specialized tech teams and help develop and establish the processes needed to scale our integration and customer support efforts which are key for the ongoing company expansion phase.  
+  
+**Tasks**
+-   Deploy our autonomy kit in new robots such as autonomous forklifts and cleaning machines.
+-   Develop specific software solutions to bridge the gap between the customer needs and our product specifications.
+-   Contribute to our customer support efforts by addressing their inquiries, providing solutions, and working out such issues together with the development teams.
+-   Develop and establish processes needed to scale product integration and customer support.
+-   Represent Sevensense towards its industrial clients and collaborate closely with them to maximize their value.  
+
+**Requirements**
+-   Master's or Bachelor's degree in Robotics, Computer Science, Electrical Engineering or equivalent professional experience with a focus on robotic systems.
+-   Well organized, independent and self-motivated person.
+-   Proven hands-on ability in setting up and deploying software on autonomous systems.
+-   Experience with C++, Python, Ubuntu and ROS.
+-   Good communication skills - both verbally and in writing. Previous experience working with customers is a plus.
+-   Team player who is excited about working in a dynamic startup environment.
+- 
+##### 14. Rust Developer for Embedded Robotics by Sevensense
+
+We are looking for a dedicated individual to join our team as a Rust developer for embedded systems that drive autonomous robotic systems. As a member of a versatile and highly skilled team, you will develop, integrate and validate features and tools for our infrastructure on and around the robots. It powers a rapidly growing number of robots in the field, orchestrating their initialization and their application layer, making sure they receive the right software updates, can transmit crucial data to the cloud and allows developers and customers to obtain operational insights through high-quality tooling.
+
+  
+
+The ideal candidate should demonstrate teamwork, proactivity, and autonomy and have a strong desire for solving exciting and challenging problems.
+
+  
+
+**Your mission**
+
+-   Develop tools and features for the embedded robotics infrastructure of Sevensense using Rust, Docker, Linux, and cloud technologies.
+-   Produce and maintain modern, high-quality Rust and Python code and participate in code reviews and software design discussions.
+-   Deploy cutting-edge infrastructure tools on the AI-ready, ARM64 System-on-a-Chip (SoC) that will power thousands of robots in the market.
+-   Collaborate with a team of open-minded, skilled and motivated software engineers and Linux experts in an environment of learning and support.
+
+  
+
+**Your story**
+
+-   Degree in Computer Science or equivalent professional experience
+-   2+ years of experience working as a software engineer, ideally close to the system or involving Linux.
+-   Strong skills in C++ or Rust (preferred) programming. The latter can and must be learned on-the-job if only C++ experience is there. Python experience is beneficial.
+-   Desire and proven capability to work both autonomously and as part of a team.
+-   Team player who is excited about working in a dynamic startup environment.
+-   Valuable experience includes Cloud technologies; Rust backend & (Postgres) SQL; Typescript + react frontend; Systemd + writing unit files; Embedded Linux configuration; Yocto; Advanced IPv4 networking.
+
 
 

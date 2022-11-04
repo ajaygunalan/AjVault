@@ -22,3 +22,7 @@
 1.  Real-Time Systems by Rajib Mall and Durga Prasad Mohapatra, NPTEL
 	- [Course WebPage](https://nptel.ac.in/courses/106105229), [YouTube](https://www.youtube.com/playlist?list=PL-dIBMwXD0RU02jhjGU6eoWvdM-31LPqM)
 
+### Blog
+
+1.  [Real-time programming with Linux (2022)](https://shuhaowu.com/blogseries.html#rt-linux-programming)
+

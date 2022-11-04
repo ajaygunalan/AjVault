@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7723faad43f2b392",
+        "id": "812f855f6a82da1f",
         "type": "tabs",
         "children": [
           {
-            "id": "2dd617aa55771e94",
+            "id": "0e00dc8173b0f724",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jobs.md",
+                "file": "Data Structures and Algorithms.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jobs.md",
+                "file": "Data Structures and Algorithms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jobs.md"
+                "file": "Data Structures and Algorithms.md"
               }
             }
           },
@@ -139,17 +139,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "2dd617aa55771e94",
+  "active": "0e00dc8173b0f724",
   "lastOpenFiles": [
     "Welcome! 👋.md",
+    "Scanning Fiber Endoscope.md",
+    "Endoscopy Imaging Sensor.md",
     "Food/Diet.md",
     "Food.md",
     "Food/Sprouts Salads.md",
     "Food/Recepie/main/Palak Tofu.md",
     "Real-Time Embedded Systems Specialization.md",
     "Real-Time Operating System.md",
-    "RT-Project.md",
-    "Data Structures and Algorithms.md",
-    "Medical/Medical Terms.md"
+    "RT-Project.md"
   ]
 }

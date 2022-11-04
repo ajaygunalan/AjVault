@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Jobs",
-      "path": "Jobs.md"
+      "basename": "Data Structures and Algorithms",
+      "path": "Data Structures and Algorithms.md"
     },
     {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
+    },
+    {
+      "basename": "Real-Time Operating System",
+      "path": "Real-Time Operating System.md"
+    },
+    {
+      "basename": "Jobs",
+      "path": "Jobs.md"
+    },
+    {
+      "basename": "Scanning Fiber Endoscope",
+      "path": "Scanning Fiber Endoscope.md"
+    },
+    {
+      "basename": "Endoscopy Imaging Sensor",
+      "path": "Endoscopy Imaging Sensor.md"
     },
     {
       "basename": "Diet",
@@ -23,14 +39,6 @@
     {
       "basename": "Real-Time Embedded Systems Specialization",
       "path": "Real-Time Embedded Systems Specialization.md"
-    },
-    {
-      "basename": "Real-Time Operating System",
-      "path": "Real-Time Operating System.md"
-    },
-    {
-      "basename": "Data Structures and Algorithms",
-      "path": "Data Structures and Algorithms.md"
     },
     {
       "basename": "Medical Terms",
@@ -191,10 +199,6 @@
     {
       "basename": "smooth derivative",
       "path": "smooth derivative.md"
-    },
-    {
-      "basename": "Heaps",
-      "path": "Heaps.md"
     }
   ],
   "omittedPaths": [],
