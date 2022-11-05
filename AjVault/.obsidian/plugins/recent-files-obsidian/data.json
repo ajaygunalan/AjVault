@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Stacks",
+      "path": "DSA/Stacks.md"
+    },
+    {
       "basename": "Data Structures and Algorithms",
       "path": "Data Structures and Algorithms.md"
     },
     {
+      "basename": "Algorithmic Complexity",
+      "path": "DSA/Algorithmic Complexity.md"
+    },
+    {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
+    },
+    {
+      "basename": "Heaps",
+      "path": "DSA/Heaps.md"
+    },
+    {
+      "basename": "Binary Search Trees",
+      "path": "DSA/Binary Search Trees.md"
+    },
+    {
+      "basename": "Sorting",
+      "path": "DSA/Sorting.md"
+    },
+    {
+      "basename": "Arrays",
+      "path": "DSA/Arrays.md"
     },
     {
       "basename": "Real-Time Operating System",
@@ -85,16 +109,8 @@
       "path": "RT/flynn's taxonomy.md"
     },
     {
-      "basename": "Algorithmic Thinking-Peak Finding",
-      "path": "Algorithmic Thinking-Peak Finding.md"
-    },
-    {
       "basename": "Surgical-Robots",
       "path": "Surgical-Robots.md"
-    },
-    {
-      "basename": "Sorting",
-      "path": "Sorting.md"
     },
     {
       "basename": "Surgical-Topics",
@@ -181,24 +197,8 @@
       "path": "Basic Terminology.md"
     },
     {
-      "basename": "Arrays",
-      "path": "Arrays.md"
-    },
-    {
       "basename": "Actuators for dexterous and agile robots",
       "path": "Actuators for dexterous and agile robots.md"
-    },
-    {
-      "basename": "A-Scan OCT",
-      "path": "A-Scan OCT.md"
-    },
-    {
-      "basename": "Binary Search Trees",
-      "path": "Binary Search Trees.md"
-    },
-    {
-      "basename": "smooth derivative",
-      "path": "smooth derivative.md"
     }
   ],
   "omittedPaths": [],
