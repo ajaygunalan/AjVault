@@ -9,6 +9,10 @@
       "path": "Data Structures and Algorithms.md"
     },
     {
+      "basename": "Linked List",
+      "path": "DSA/Linked List.md"
+    },
+    {
       "basename": "Algorithmic Complexity",
       "path": "DSA/Algorithmic Complexity.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Basic Terminology",
       "path": "Basic Terminology.md"
-    },
-    {
-      "basename": "Actuators for dexterous and agile robots",
-      "path": "Actuators for dexterous and agile robots.md"
     }
   ],
   "omittedPaths": [],
