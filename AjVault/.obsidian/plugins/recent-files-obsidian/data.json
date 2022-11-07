@@ -5,12 +5,12 @@
       "path": "DSA/Stacks.md"
     },
     {
-      "basename": "Arrays",
-      "path": "DSA/Arrays.md"
-    },
-    {
       "basename": "Data Structures and Algorithms",
       "path": "Data Structures and Algorithms.md"
+    },
+    {
+      "basename": "Arrays",
+      "path": "DSA/Arrays.md"
     },
     {
       "basename": "Linked List",
