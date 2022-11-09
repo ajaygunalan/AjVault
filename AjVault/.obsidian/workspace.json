@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b09ccc757a5676aa",
+        "id": "5855ea6f033ca871",
         "type": "tabs",
         "children": [
           {
-            "id": "1a609f15024f7b19",
+            "id": "91c0651daea32f1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Stacks.md",
+                "file": "Welcome! 👋.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Stacks.md",
+                "file": "Welcome! 👋.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Stacks.md"
+                "file": "Welcome! 👋.md"
               }
             }
           },
@@ -139,17 +139,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "1a609f15024f7b19",
+  "active": "91c0651daea32f1b",
   "lastOpenFiles": [
+    "Image-Guided Laser Surgery.md",
+    "Measuring size of objects.md",
+    "Welcome! 👋.md",
     "Data Structures and Algorithms.md",
     "DSA/Stacks.md",
     "DSA/Arrays.md",
     "DSA/Linked List.md",
     "DSA/Algorithmic Complexity.md",
-    "Welcome! 👋.md",
     "DSA/Heaps.md",
-    "DSA/Binary Search Trees.md",
-    "DSA/Sorting.md",
-    "Scanning Fiber Endoscope.md"
+    "DSA/Binary Search Trees.md"
   ]
 }

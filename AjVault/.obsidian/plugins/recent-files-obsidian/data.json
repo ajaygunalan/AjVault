@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Welcome! 👋",
+      "path": "Welcome! 👋.md"
+    },
+    {
+      "basename": "Image-Guided Laser Surgery",
+      "path": "Image-Guided Laser Surgery.md"
+    },
+    {
+      "basename": "Measuring size of objects",
+      "path": "Measuring size of objects.md"
+    },
+    {
+      "basename": "MDPI",
+      "path": "MDPI.md"
+    },
+    {
+      "basename": "Cover Letter",
+      "path": "Cover Letter.md"
+    },
+    {
       "basename": "Stacks",
       "path": "DSA/Stacks.md"
     },
@@ -19,10 +39,6 @@
     {
       "basename": "Algorithmic Complexity",
       "path": "DSA/Algorithmic Complexity.md"
-    },
-    {
-      "basename": "Welcome! 👋",
-      "path": "Welcome! 👋.md"
     },
     {
       "basename": "Heaps",
@@ -183,22 +199,6 @@
     {
       "basename": "insertionSort",
       "path": "insertionSort.md"
-    },
-    {
-      "basename": "Controls",
-      "path": "Controls.md"
-    },
-    {
-      "basename": "humanoid",
-      "path": "humanoid.md"
-    },
-    {
-      "basename": "Communication-Protocols",
-      "path": "Communication-Protocols.md"
-    },
-    {
-      "basename": "Basic Terminology",
-      "path": "Basic Terminology.md"
     }
   ],
   "omittedPaths": [],

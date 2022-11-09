@@ -47,11 +47,16 @@ I have done a few tasks using my hobby grade skills, but they may not be optimal
 - [[Optics]]
 
 ### Random 
-[[Surgical-Robots]], [[Surgical-Topics]], [[Food/Diet]], [[Gym]], [[Jobs]], [[Finance]], [[Other-Blogs]]
+[[Surgical-Robots]], [[Surgical-Topics]], [[Food/Diet]], [[Gym]], [[Jobs]], [[Finance]], [[Other-Blogs]],
+
+[[MDPI]]
+
+
 
 ![[Capture.png]]
 
 ### To Do
+- [[Measuring size of objects]]
 - Solve week-1 problems in [[Data Structures and Algorithms#^8690cc]]
 - Need to finish assignment and quiz in week 1 of [[Real-Time Embedded Systems Specialization]]
 
