@@ -5,6 +5,10 @@
       "path": "Welcome! 👋.md"
     },
     {
+      "basename": "Gym",
+      "path": "Gym.md"
+    },
+    {
       "basename": "Image-Guided Laser Surgery",
       "path": "Image-Guided Laser Surgery.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "KiCAD",
       "path": "KiCAD.md"
-    },
-    {
-      "basename": "insertionSort",
-      "path": "insertionSort.md"
     }
   ],
   "omittedPaths": [],
