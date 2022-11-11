@@ -16,7 +16,7 @@ Right now, I’m a Ph.D. student advised by [Dr. Leonardo De Mattos](https://ww
 #### Details
 - [CV](https://ajaygunalan.github.io/assets/ajayg_cv.pdf) 
 - [ajay.gunalan@pm.me](mailto:ajay.gunalan@pm.me)
-- [+393203496112](tel:+393203496112)
+- [+39 320 349 6112](tel:+393203496112)
 
 ### Active Projects
 - [[Endoscopy Imaging Sensor]]

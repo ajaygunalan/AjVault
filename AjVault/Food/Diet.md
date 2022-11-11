@@ -10,6 +10,7 @@
 | 7    | [[Mush. Stroganoff  Pasta]] |
 | 8    | [[Soya Briyani]]            |
 | 9    | [[Tofu Chuka]]              |
+| 10   | [[Food/Mushroom Risotto]]   | 
 
 ### Plan
 

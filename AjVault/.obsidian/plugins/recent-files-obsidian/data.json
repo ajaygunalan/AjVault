@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Welcome! 👋",
-      "path": "Welcome! 👋.md"
-    },
-    {
-      "basename": "Gym",
-      "path": "Gym.md"
-    },
-    {
       "basename": "Image-Guided Laser Surgery",
       "path": "Image-Guided Laser Surgery.md"
     },
     {
-      "basename": "Measuring size of objects",
-      "path": "Measuring size of objects.md"
+      "basename": "Welcome! 👋",
+      "path": "Welcome! 👋.md"
+    },
+    {
+      "basename": "Other-Blogs",
+      "path": "Other-Blogs.md"
+    },
+    {
+      "basename": "Diet",
+      "path": "Food/Diet.md"
+    },
+    {
+      "basename": "Mushroom Risotto",
+      "path": "Food/Mushroom Risotto.md"
+    },
+    {
+      "basename": "Hong Kong Noodles",
+      "path": "Food/Recepie/main/Hong Kong Noodles.md"
+    },
+    {
+      "basename": "Gym",
+      "path": "Gym.md"
     },
     {
       "basename": "MDPI",
@@ -71,10 +83,6 @@
     {
       "basename": "Endoscopy Imaging Sensor",
       "path": "Endoscopy Imaging Sensor.md"
-    },
-    {
-      "basename": "Diet",
-      "path": "Food/Diet.md"
     },
     {
       "basename": "Sprouts Salads",
@@ -187,18 +195,6 @@
     {
       "basename": "Intro",
       "path": "RT/Intro.md"
-    },
-    {
-      "basename": "Other-Blogs",
-      "path": "Other-Blogs.md"
-    },
-    {
-      "basename": "post",
-      "path": "templates/post.md"
-    },
-    {
-      "basename": "KiCAD",
-      "path": "KiCAD.md"
     }
   ],
   "omittedPaths": [],
