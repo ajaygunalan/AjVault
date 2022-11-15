@@ -1,6 +1,4 @@
----
-title: "Tailored Sensing"
----
+
 ### Objective
 To minimize OCT data acquisition time and storage requirements of data. We propose using the tailored sensing framework in OCT and determining its potential feasibility. Tailored Sensing is the extension of compressing when the data to be measured has known prior information. Compressed Sensing recovers a high-dimensional signal using random measurements on a universal basis, such as Fourier transform, wavelet, shearlets, and curvelets. However, if the information is available about the type of signal (such as the image of a human face), it is possible to design optimized sensing locations that are tailored for the particular signals of interest. Moreover, in compressive sensing, real-time reconstruction of the image is difficult due to expensive computational algorithms like orthogonal match pursuit, etc. But, in tailored sensing, PCA/Eigen basis is already computed. Thus, real-time construction is possible, which is very crucial in a surgical scenario.
 

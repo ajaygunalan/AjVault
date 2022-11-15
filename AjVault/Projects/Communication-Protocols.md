@@ -1,8 +1,5 @@
 
 
----
-title: "Communication-Protocols"
----
 
  ## Knowledge on how motors work and their limitations ##
 

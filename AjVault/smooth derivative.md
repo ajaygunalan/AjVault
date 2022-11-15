@@ -1,4 +1,4 @@
-![[1 1.png]]
+![[Misclleanous/1 1.png]]
 
 How can we implement a smooth derivative in C?  
   

@@ -1,7 +1,3 @@
----
-title: "legged robot"
----
-
 
 ### Quadruped Robot 
 

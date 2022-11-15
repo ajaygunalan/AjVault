@@ -1,6 +1,3 @@
----
-title: "Surgical-Topics"
----
 
 1. Ultrasound guided hysteroscopy 
 2. Intraoperative guidance, 

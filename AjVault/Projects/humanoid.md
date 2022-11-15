@@ -1,13 +1,11 @@
----
-title: "humanoid"
----
+
 
 
 ## Humanoid
 
 The task was to develop a [service robot](https://www.youtube.com/watch?v=5vjY1c8N1rk) at [Asimov Robotics](https://www.asimovrobotics.com/) for private bank in India.
 
-  ![[asimov.jpg]]
+  ![[Projects/asimov.jpg]]
 
 The hardware was built by using [Dynamixel servos](http://www.robotis.us/dynamixel/), [Hokuyo laser](https://www.hokuyo-aut.jp/search/index.php?cate01=1), and [Intel-NUC](https://www.intel.com/content/www/us/en/products/boards-kits/nuc.html). The software was architectured using ROS [smach](http://wiki.ros.org/smach). Users can interact with the robot through the screen at the front and based upon the user query, the robot would do a particular task. The task consists of some gestures and navigation. Gestures were performed by simple record and playback, while navigation was done using [amcl](http://wiki.ros.org/amcl) package. During my six month stay, the various tasks I did are:
 

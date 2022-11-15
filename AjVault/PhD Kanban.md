@@ -4,13 +4,13 @@ kanban-plugin: basic
 
 ---
 
-## [[Endoscopy Imaging Sensor]]
+## [[Projects/Endoscopy Imaging Sensor]]
 
 - [ ] Optics simulation [raytracing](https://pypi.org/project/raytracing/#description)
-- [ ] Purchase of [[Scanning Fiber Endoscope]]
+- [ ] Purchase of [[Projects/Scanning Fiber Endoscope]]
 
 
-## [[Tailored Sensing]]
+## [[Projects/Tailored Sensing]]
 
 - [ ] 1.  A quick survey on the biological sample used for compressive sensing in confocal laser microscopy so as to narrow down our sample.
 - [ ] 2.  Generate a dataset in CLSM and apply CS/Data-Driven CS to understand the optimal points and image restoration for the given sample.
@@ -19,7 +19,7 @@ kanban-plugin: basic
 - [ ] 5.  All this is done on std. CLSM. Then, We could apply it on the custom hardware using the SPAD array if needed.
 
 
-## [[Image-Guided Laser Surgery]]]
+## [[Projects/Image-Guided Laser Surgery]]]
 
 - [ ] 1.Experimental setup verification of CALM and OCT (manually)
 - [ ] 2.Realtime time B-scan Data acquisition

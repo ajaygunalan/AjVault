@@ -1,200 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Image-Guided Laser Surgery",
-      "path": "Image-Guided Laser Surgery.md"
-    },
-    {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
-    },
-    {
-      "basename": "Other-Blogs",
-      "path": "Other-Blogs.md"
-    },
-    {
-      "basename": "Diet",
-      "path": "Food/Diet.md"
-    },
-    {
-      "basename": "Mushroom Risotto",
-      "path": "Food/Mushroom Risotto.md"
-    },
-    {
-      "basename": "Hong Kong Noodles",
-      "path": "Food/Recepie/main/Hong Kong Noodles.md"
-    },
-    {
-      "basename": "Gym",
-      "path": "Gym.md"
-    },
-    {
-      "basename": "MDPI",
-      "path": "MDPI.md"
-    },
-    {
-      "basename": "Cover Letter",
-      "path": "Cover Letter.md"
-    },
-    {
-      "basename": "Stacks",
-      "path": "DSA/Stacks.md"
-    },
-    {
-      "basename": "Data Structures and Algorithms",
-      "path": "Data Structures and Algorithms.md"
-    },
-    {
-      "basename": "Arrays",
-      "path": "DSA/Arrays.md"
-    },
-    {
-      "basename": "Linked List",
-      "path": "DSA/Linked List.md"
-    },
-    {
-      "basename": "Algorithmic Complexity",
-      "path": "DSA/Algorithmic Complexity.md"
-    },
-    {
-      "basename": "Heaps",
-      "path": "DSA/Heaps.md"
-    },
-    {
-      "basename": "Binary Search Trees",
-      "path": "DSA/Binary Search Trees.md"
-    },
-    {
-      "basename": "Sorting",
-      "path": "DSA/Sorting.md"
-    },
-    {
-      "basename": "Real-Time Operating System",
-      "path": "Real-Time Operating System.md"
-    },
-    {
-      "basename": "Jobs",
-      "path": "Jobs.md"
-    },
-    {
-      "basename": "Scanning Fiber Endoscope",
-      "path": "Scanning Fiber Endoscope.md"
-    },
-    {
-      "basename": "Endoscopy Imaging Sensor",
-      "path": "Endoscopy Imaging Sensor.md"
-    },
-    {
-      "basename": "Sprouts Salads",
-      "path": "Food/Sprouts Salads.md"
-    },
-    {
-      "basename": "Palak Tofu",
-      "path": "Food/Recepie/main/Palak Tofu.md"
-    },
-    {
-      "basename": "Real-Time Embedded Systems Specialization",
-      "path": "Real-Time Embedded Systems Specialization.md"
-    },
-    {
-      "basename": "Medical Terms",
-      "path": "Medical/Medical Terms.md"
-    },
-    {
-      "basename": "Biopsy",
-      "path": "Medical/Biopsy.md"
-    },
-    {
-      "basename": "Schedulers",
-      "path": "RT/Schedulers.md"
-    },
-    {
-      "basename": "Least Laxity First",
-      "path": "RT/Least Laxity First.md"
-    },
-    {
-      "basename": "Earliest Deadline First",
-      "path": "RT/Earliest Deadline First.md"
-    },
-    {
-      "basename": "Deadline Monotonic",
-      "path": "RT/Deadline Monotonic.md"
-    },
-    {
-      "basename": "Rate Monotonic",
-      "path": "RT/Rate Monotonic.md"
-    },
-    {
-      "basename": "DM",
-      "path": "RT/DM.md"
-    },
-    {
-      "basename": "RM",
-      "path": "RT/RM.md"
-    },
-    {
-      "basename": "SCHED_FIFO",
-      "path": "SCHED_FIFO.md"
-    },
-    {
-      "basename": "flynn's taxonomy",
-      "path": "RT/flynn's taxonomy.md"
-    },
-    {
-      "basename": "Surgical-Robots",
-      "path": "Surgical-Robots.md"
-    },
-    {
-      "basename": "Surgical-Topics",
-      "path": "Surgical-Topics.md"
-    },
-    {
-      "basename": "tele-robotics",
-      "path": "tele-robotics.md"
-    },
-    {
-      "basename": "validSubsequence",
-      "path": "validSubsequence.md"
-    },
-    {
-      "basename": "std-vectors",
-      "path": "std-vectors.md"
-    },
-    {
-      "basename": "Signal Processing",
-      "path": "Signal Processing.md"
-    },
-    {
-      "basename": "Sensor Conditioning Circuits",
-      "path": "Sensor Conditioning Circuits.md"
-    },
-    {
-      "basename": "Optics",
-      "path": "Optics.md"
-    },
-    {
-      "basename": "ROS",
-      "path": "ROS.md"
-    },
-    {
-      "basename": "op-amps",
-      "path": "electronics/op-amps.md"
     },
     {
       "basename": "Motion Planning",
       "path": "Motion Planning.md"
     },
     {
+      "basename": "Motor Drive",
+      "path": "Motor Drive.md"
+    },
+    {
+      "basename": "Motion Control Drivers",
+      "path": "Electronics/Motion Control Drivers.md"
+    },
+    {
       "basename": "medical device",
-      "path": "medical device.md"
+      "path": "Projects/medical device.md"
+    },
+    {
+      "basename": "MDPI",
+      "path": "temp/MDPI.md"
     },
     {
       "basename": "legged robot",
-      "path": "legged robot.md"
+      "path": "Projects/legged robot.md"
     },
     {
-      "basename": "Intro",
-      "path": "RT/Intro.md"
+      "basename": "KiCAD",
+      "path": "skills/KiCAD.md"
+    },
+    {
+      "basename": "Jobs",
+      "path": "Misclleanous/Jobs.md"
+    },
+    {
+      "basename": "Integration of cutsom sanner with ThorLabs OCT Imaging setup",
+      "path": "Projects/Integration of cutsom sanner with ThorLabs OCT Imaging setup.md"
+    },
+    {
+      "basename": "insertionSort",
+      "path": "temp/insertionSort.md"
+    },
+    {
+      "basename": "Image-Guided Laser Surgery",
+      "path": "Projects/Image-Guided Laser Surgery.md"
+    },
+    {
+      "basename": "humanoid",
+      "path": "Projects/humanoid.md"
+    },
+    {
+      "basename": "hamming distance",
+      "path": "Projects/hamming distance.md"
+    },
+    {
+      "basename": "Finance",
+      "path": "Misclleanous/Finance.md"
+    },
+    {
+      "basename": "Endoscopy Imaging Sensor",
+      "path": "Projects/Endoscopy Imaging Sensor.md"
+    },
+    {
+      "basename": "Electromagnetic coils",
+      "path": "Projects/Electromagnetic coils.md"
+    },
+    {
+      "basename": "Descriptors",
+      "path": "Projects/Descriptors.md"
+    },
+    {
+      "basename": "Controls",
+      "path": "skills/Controls.md"
+    },
+    {
+      "basename": "Communication-Protocols",
+      "path": "Projects/Communication-Protocols.md"
+    },
+    {
+      "basename": "Data Structures and Algorithms",
+      "path": "Projects/Data Structures and Algorithms.md"
+    },
+    {
+      "basename": "Cover Letter",
+      "path": "temp/Cover Letter.md"
+    },
+    {
+      "basename": "Capture",
+      "path": "Misclleanous/Capture.png"
+    },
+    {
+      "basename": "Binary descriptors",
+      "path": "Projects/Binary descriptors.md"
+    },
+    {
+      "basename": "basicCircuitNew",
+      "path": "Electronics/basicCircuitNew.gif"
+    },
+    {
+      "basename": "axialMag",
+      "path": "Projects/axialMag.jpeg"
+    },
+    {
+      "basename": "asimov",
+      "path": "Projects/asimov.jpg"
+    },
+    {
+      "basename": "ajay",
+      "path": "Misclleanous/ajay.jpeg"
+    },
+    {
+      "basename": "aj",
+      "path": "Misclleanous/aj.jpg"
+    },
+    {
+      "basename": "A-Scan OCT",
+      "path": "Projects/A-Scan OCT.md"
+    },
+    {
+      "basename": "2",
+      "path": "Misclleanous/2.jpeg"
+    },
+    {
+      "basename": "1 1",
+      "path": "Misclleanous/1 1.png"
+    },
+    {
+      "basename": "ROS",
+      "path": "ROS.md"
+    },
+    {
+      "basename": "Scanning Fiber Endoscope",
+      "path": "Projects/Scanning Fiber Endoscope.md"
+    },
+    {
+      "basename": "SCHED_FIFO",
+      "path": "RT/SCHED_FIFO.md"
+    },
+    {
+      "basename": "smooth derivative",
+      "path": "smooth derivative.md"
+    },
+    {
+      "basename": "Sensor Conditioning Circuits",
+      "path": "Electronics/Sensor Conditioning Circuits.md"
+    },
+    {
+      "basename": "Tolerance, Limits and Fits",
+      "path": "Tolerance, Limits and Fits.md"
+    },
+    {
+      "basename": "Surgical-Topics",
+      "path": "Misclleanous/Surgical-Topics.md"
+    },
+    {
+      "basename": "Surgical-Robots",
+      "path": "Misclleanous/Surgical-Robots.md"
+    },
+    {
+      "basename": "std-vectors",
+      "path": "DSA/std-vectors.md"
+    },
+    {
+      "basename": "Tailored Sensing",
+      "path": "Projects/Tailored Sensing.md"
+    },
+    {
+      "basename": "tele-robotics",
+      "path": "Projects/tele-robotics.md"
+    },
+    {
+      "basename": "Types-of-Fits",
+      "path": "Types-of-Fits.webp"
+    },
+    {
+      "basename": "validSubsequence",
+      "path": "DSA/validSubsequence.md"
+    },
+    {
+      "basename": "Actuators for dexterous and agile robots",
+      "path": "Projects/Actuators for dexterous and agile robots.md"
+    },
+    {
+      "basename": "1",
+      "path": "Electronics/1.png"
+    },
+    {
+      "basename": "Binary Search Trees",
+      "path": "DSA/Binary Search Trees.md"
+    },
+    {
+      "basename": "Strings",
+      "path": "DSA/Strings.md"
+    },
+    {
+      "basename": "Heaps",
+      "path": "DSA/Heaps.md"
     }
   ],
   "omittedPaths": [],

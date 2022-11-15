@@ -1,6 +1,4 @@
----
-title: "insertionSort"
----
+
 
 ```python
 def insertionSort(arr):

@@ -3,10 +3,10 @@ This is an excellent course from Univeristy of Genova by [Marco Sartore](https:/
 
 | Modules | Topic                                       |
 | ------- | ------------------------------------------- |
-| 1       | [[electronics/op-amps]] (Work in progress!) | 
+| 1       | [[Electronics/op-amps]] (Work in progress!) | 
 | 2       | DAC/ADC                                     |
 | 3       | Std. building blocks                        |
-| 4       | [[KiCAD]]                                   |
+| 4       | [[skills/KiCAD]]                                   |
 
 status: start from 1.40 [lec15](https://www.youtube.com/watch?v=rjSnztlsgn8), [lec16](https://www.youtube.com/watch?v=obVsXB6gpQ4&feature=youtu.be)
 

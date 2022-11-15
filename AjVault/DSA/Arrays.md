@@ -1,11 +1,9 @@
----
-title: "Arrays"
----
 
 
-### Concepts
-[[std-vectors]]
+### Dynamic Array
+- C++:  [[DSA/std-vectors]]
+- Python: list 
 
 ### Easy
-[[validSubsequence]], [[twoNumSum]], [[sortedSqArray]], [[tournamentWinner]], [[NonConstructibleChange]]
+[[DSA/validSubsequence]], [[twoNumSum]], [[sortedSqArray]], [[tournamentWinner]], [[NonConstructibleChange]]
 

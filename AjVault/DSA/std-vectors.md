@@ -1,6 +1,4 @@
----
-title: "std-vectors"
----
+
 
 ### std::vectors
 - These are arrays whose size can change. Thus, dynamic array.

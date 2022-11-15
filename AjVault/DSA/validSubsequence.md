@@ -1,6 +1,3 @@
----
-title: "Valid Subsequence"
----
 
 
 A subsequence is a set of numbers appearing in the same order as the main array. 
@@ -8,7 +5,7 @@ Example:
 array = [5, 1, 22, 25, 6, -1, 8, 10]
 seq = [1, 6, -1, 10]
 ### Concepts:
-[[std-vectors]], 
+[[DSA/std-vectors]], 
 ### Code
  
 ```C++

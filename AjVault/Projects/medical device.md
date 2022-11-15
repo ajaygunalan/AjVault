@@ -1,7 +1,4 @@
 
----
-title: "Medical Devices"
----
 
 
 #### Problem Statement

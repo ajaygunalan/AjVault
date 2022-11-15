@@ -7,4 +7,4 @@ title: "Sorting"
 
 
 ### Easy
-[[bubbleSort]], [[insertionSort]], [[selectionSort]]
+[[bubbleSort]], [[temp/insertionSort]], [[selectionSort]]

@@ -1,6 +1,3 @@
----
-title: "tele robotics"
----
 
 A part of the team developing a user interface team in virtual reality for tele-operated robots.
 

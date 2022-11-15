@@ -16,7 +16,7 @@ Ignoring the overhead of:
 Variations on EDF have been proposed that intend to improve the determinism of the system given variations, including [[RT/Least Laxity First]]. 
 
 ### Linux Options
-[[SCHED_FIFO]]
+[[RT/SCHED_FIFO]]
 
 
 

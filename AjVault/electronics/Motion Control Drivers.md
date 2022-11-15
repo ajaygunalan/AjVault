@@ -1,6 +1,6 @@
 
 
-[[Motor Drive Intro]], [[Actuators for dexterous and agile robots]]
+[[Motor Drive]], [[Projects/Actuators for dexterous and agile robots]]
 
 ### Upcoming Course
 

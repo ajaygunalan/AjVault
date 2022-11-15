@@ -12,7 +12,7 @@
 | [Focusing lens](https://www.thorlabs.com/thorproduct.cfm?partnumber=LA1074-C)                                    | $f=y$ $mm$; $\varnothing=12.7$ $mm$                                                  | 2                   |
 | [[Ring Magnet]]                                                                                                  | $\varnothing_i=0.25$ $mm$; $\varnothing_o=2$ $mm$; $h=2$ $mm$                       | No                  |
 | Scanning Range                                                                                                   | $a$ $*$ $a$ $mm^2$                                                                  |                     |
-| [[Electromagnetic coils ]]   (150-160 Turns)                                                                     | [35 AWG Enamelled copper wire](https://it.rs-online.com/web/p/fili-di-rame/7790696) | 1                   |
+| [[Projects/Electromagnetic coils ]]   (150-160 Turns)                                                                     | [35 AWG Enamelled copper wire](https://it.rs-online.com/web/p/fili-di-rame/7790696) | 1                   |
 
 Major Suppliers: [MISUMI](https://us.misumi-ec.com/). [RS IT](https://it.rs-online.com/web/), [Farnell](https://it.farnell.com/)
 

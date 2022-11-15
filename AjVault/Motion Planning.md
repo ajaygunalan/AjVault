@@ -1,6 +1,3 @@
----
-title: "Motion Planning"
----
 
 ### Introduction 
 

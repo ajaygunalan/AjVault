@@ -1,7 +1,4 @@
 
----
-title: "Surgical-Robots"
----
 
 I try to maintain a list of surgical robotics startup.
 

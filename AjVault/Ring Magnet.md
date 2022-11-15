@@ -3,7 +3,7 @@
 
 #### Axially Magnetized PM
 Used for SFE because same values for bending in both directions. You do not need rotation here.
-![[axialMag.jpeg]]
+![[Projects/axialMag.jpeg]]
 
 #### Radially Magnetized PM
 Used for freelance microswimmers, where you need to rotate them. If used in SFE, then different values for both directions.
