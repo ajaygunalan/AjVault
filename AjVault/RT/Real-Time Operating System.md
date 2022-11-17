@@ -17,7 +17,7 @@
 
 ### Course
 
-1. [[Real-Time Embedded Systems Specialization]] by Sam Siewert, CU Boulder
+1. [[RT/Real-Time Embedded Systems Specialization]] by Sam Siewert, CU Boulder
 	 - After this course. Linux Driver Development, Linux Kernel Module Development
 1.  Real-Time Systems by Rajib Mall and Durga Prasad Mohapatra, NPTEL
 	- [Course WebPage](https://nptel.ac.in/courses/106105229), [YouTube](https://www.youtube.com/playlist?list=PL-dIBMwXD0RU02jhjGU6eoWvdM-31LPqM)

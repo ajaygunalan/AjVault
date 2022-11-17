@@ -33,7 +33,7 @@ $$𝑥= Ψ_{r}𝑎$$(9)
 
 [GitHub Link](https://github.com/ajaygunalan/fastCS/blob/main/ContiTailored.m)
 
-![[Pasted image 20221011145807.png]]
+![[Projects/Pasted image 20221011145807.png]]
 
 %%
 ### To Realize on Hardware

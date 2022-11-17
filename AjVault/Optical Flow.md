@@ -1,1 +1,0 @@
-[Optical Flow Columbia Univ by Prof. Shree K. Nayar](https://www.youtube.com/playlist?list=PL2zRqk16wsdoYzrWStffqBAoUY8XdvatV)

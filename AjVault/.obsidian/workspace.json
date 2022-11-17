@@ -4,22 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "f5486936426d037f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "55ef7109dde87086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome! 👋.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
+        "id": "24c8741f0e200045",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -31,7 +21,7 @@
       {
         "id": "efe8ca74603050f4",
         "type": "tabs",
-        "dimension": 56.41304347826088,
+        "dimension": 61.19565217391304,
         "children": [
           {
             "id": "fa7a4d769a72cc6e",
@@ -63,7 +53,7 @@
       {
         "id": "4483b0d326df1466",
         "type": "tabs",
-        "dimension": 43.58695652173912,
+        "dimension": 38.80434782608695,
         "children": [
           {
             "id": "ba61f44378ad67ac",
@@ -77,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 306.5
   },
   "right": {
     "id": "f807f68ff3e01ed4",
@@ -93,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome! 👋.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,9 +106,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome! 👋.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,17 +126,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "55ef7109dde87086",
+  "active": "fa7a4d769a72cc6e",
   "lastOpenFiles": [
-    "Motor Drive.md",
-    "Electronics/Motion Control Drivers.md",
     "Projects/medical device.md",
-    "temp/MDPI.md",
-    "Projects/legged robot.md",
-    "skills/KiCAD.md",
-    "Misclleanous/Jobs.md",
-    "Projects/Integration of cutsom sanner with ThorLabs OCT Imaging setup.md",
-    "temp/insertionSort.md",
-    "Projects/Image-Guided Laser Surgery.md"
+    "Welcome! 👋.md",
+    "Misclleanous/Tolerance, Limits and Fits.md",
+    "Misclleanous/smooth derivative.md",
+    "PhD Kanban.md",
+    "skills/ROS.md",
+    "Projects/stoch.gif",
+    "Projects/Ring Magnet.md",
+    "Projects/Types-of-Fits.webp",
+    "Projects/stoch2leg 1.gif"
   ]
 }

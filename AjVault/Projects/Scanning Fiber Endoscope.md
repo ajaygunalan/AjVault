@@ -10,7 +10,7 @@
 | **Plano-Convex Lens** with [NBK-7](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=6973&tabname=N-BK7) |                                                                                     |                     |
 | [Collimating lens](https://www.thorlabs.com/thorproduct.cfm?partnumber=LA1540-C)                                 | $f=x$ $mm$; $\varnothing=12.7$ $mm$                                                 | 2                   |
 | [Focusing lens](https://www.thorlabs.com/thorproduct.cfm?partnumber=LA1074-C)                                    | $f=y$ $mm$; $\varnothing=12.7$ $mm$                                                  | 2                   |
-| [[Ring Magnet]]                                                                                                  | $\varnothing_i=0.25$ $mm$; $\varnothing_o=2$ $mm$; $h=2$ $mm$                       | No                  |
+| [[Projects/Ring Magnet]]                                                                                                  | $\varnothing_i=0.25$ $mm$; $\varnothing_o=2$ $mm$; $h=2$ $mm$                       | No                  |
 | Scanning Range                                                                                                   | $a$ $*$ $a$ $mm^2$                                                                  |                     |
 | [[Projects/Electromagnetic coils ]]   (150-160 Turns)                                                                     | [35 AWG Enamelled copper wire](https://it.rs-online.com/web/p/fili-di-rame/7790696) | 1                   |
 

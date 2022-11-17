@@ -1,6 +1,4 @@
----
-title: "Optics"
----
+
 
 Main Course Links: [Optical Engineering](https://www.youtube.com/playlist?list=PL-dIBMwXD0RVeYglPt75J1oi61l0ia-Vs), [Optics Simulation](https://www.youtube.com/playlist?list=PL-dIBMwXD0RW8y8MSXD8JF6ENnA938Juk)
 

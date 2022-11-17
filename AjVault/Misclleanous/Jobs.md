@@ -162,25 +162,17 @@ We are looking for a passionate individual to join our Robotics Systems team and
 - 
 ##### 14. Rust Developer for Embedded Robotics by Sevensense
 
-We are looking for a dedicated individual to join our team as a Rust developer for embedded systems that drive autonomous robotic systems. As a member of a versatile and highly skilled team, you will develop, integrate and validate features and tools for our infrastructure on and around the robots. It powers a rapidly growing number of robots in the field, orchestrating their initialization and their application layer, making sure they receive the right software updates, can transmit crucial data to the cloud and allows developers and customers to obtain operational insights through high-quality tooling.
-
-  
+We are looking for a dedicated individual to join our team as a Rust developer for embedded systems that drive autonomous robotic systems. As a member of a versatile and highly skilled team, you will develop, integrate and validate features and tools for our infrastructure on and around the robots. It powers a rapidly growing number of robots in the field, orchestrating their initialization and their application layer, making sure they receive the right software updates, can transmit crucial data to the cloud and allows developers and customers to obtain operational insights through high-quality tooling.  
 
 The ideal candidate should demonstrate teamwork, proactivity, and autonomy and have a strong desire for solving exciting and challenging problems.
 
-  
-
 **Your mission**
-
 -   Develop tools and features for the embedded robotics infrastructure of Sevensense using Rust, Docker, Linux, and cloud technologies.
 -   Produce and maintain modern, high-quality Rust and Python code and participate in code reviews and software design discussions.
 -   Deploy cutting-edge infrastructure tools on the AI-ready, ARM64 System-on-a-Chip (SoC) that will power thousands of robots in the market.
 -   Collaborate with a team of open-minded, skilled and motivated software engineers and Linux experts in an environment of learning and support.
 
-  
-
 **Your story**
-
 -   Degree in Computer Science or equivalent professional experience
 -   2+ years of experience working as a software engineer, ideally close to the system or involving Linux.
 -   Strong skills in C++ or Rust (preferred) programming. The latter can and must be learned on-the-job if only C++ experience is there. Python experience is beneficial.
@@ -188,5 +180,25 @@ The ideal candidate should demonstrate teamwork, proactivity, and autonomy and h
 -   Team player who is excited about working in a dynamic startup environment.
 -   Valuable experience includes Cloud technologies; Rust backend & (Postgres) SQL; Typescript + react frontend; Systemd + writing unit files; Embedded Linux configuration; Yocto; Advanced IPv4 networking.
 
+##### 15. Robotics Software Engineer by [Noah Medical](https://www.linkedin.com/company/noahmed/life/)
+The engineer will play a key role in the design and development of the real-time C++ software infrastructure for the R&I motion control solutions for our next generation Robotic System. They will work closely with control software, systems and instrument engineers as well as engineers from other groups to implement architecture decisions and lead and influence device software solutions based on product and user requirements.
 
+We are looking for a candidate who has done it all, who enjoys and thrives working in a small start-up team on exciting engineering projects, and is ambitious, self-motivated, curious and passionate about revolutionizing the world of medical robotics.
 
+**Responsibilities**:
+-   Designs and develops quality real-time multi-threaded software in C++ for motion control systems over EtherCAT supporting synchronous as well as asynchronous device communication protocols
+-   Designs and develops event driven state machine based software modules with motion control hardware interfaces and clean software APIs for a distributed multi-platform system
+-   Works and collaborates multi-functionally with product, systems, mechanical and clinical engineers in person and remotely to design and develop robust applications for the robotic platform
+-   Provides excellent communication of technical and project level issues as they arise to support the needs of the entire R&I team
+-   Integrates, tests and debugs real-time software solutions deployed on systems and bench setups
+-   Proficiency in building test automation setups in Python
+-   Leads, receives, and provides continuous Code Reviews in peer-reviewed source code development using git and web-based platforms
+
+**Requirements:**
+-   Bachelor's degree in Computer Science, Electrical Engineering or equivalent
+-   Strong background and experience (3+ years) in building robust real-time motion control applications interfacing distributed multi-platform software systems (C++, QNX)
+-   Strong understanding of state-machine based design and event driven architectures preferably in robotic endoscope articulation control
+-   Experience with the EtherCAT master stack development for the motion control robotic system that provides jitter free real-time control
+-   Excellent verbal and written communication and documentation skills
+-   Proficiency in multi-platform C++ development on QNX, Linux, Windows
+-   Experience with rapid prototyping and building test automation setups in Python.

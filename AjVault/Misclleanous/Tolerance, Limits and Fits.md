@@ -9,7 +9,7 @@
 - For hole  of 40+/- 0.1 mm; MML = 39.9 mm; LML = 40.1 mm
 
 ## [Fits](https://www.enggarena.net/types-of-fits/#main)
-![[Types-of-Fits.webp]]
+![[Projects/Types-of-Fits.webp]]
 ### Allowance
 An allowance is an intentional difference between the maximum material limits of mating parts.
 It is minimum clearance (positive allowance) in case of clearance fits and maximum interference (negative allowance) in case of interference fit between mating parts

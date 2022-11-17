@@ -1,7 +1,7 @@
 ### Basic
 
 ![[Electronics/basicCircuitNew.gif]]
-![[opamp.svg]]
+![[Electronics/opamp.svg]]
 
 Tips
 1. Make sure connectors/vie comparabale to track width.

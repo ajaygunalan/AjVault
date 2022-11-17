@@ -1,52 +1,172 @@
 {
   "recentFiles": [
     {
-      "basename": "Welcome! 👋",
-      "path": "Welcome! 👋.md"
-    },
-    {
-      "basename": "Motion Planning",
-      "path": "Motion Planning.md"
-    },
-    {
-      "basename": "Motor Drive",
-      "path": "Motor Drive.md"
-    },
-    {
-      "basename": "Motion Control Drivers",
-      "path": "Electronics/Motion Control Drivers.md"
-    },
-    {
       "basename": "medical device",
       "path": "Projects/medical device.md"
     },
     {
-      "basename": "MDPI",
-      "path": "temp/MDPI.md"
+      "basename": "Welcome! 👋",
+      "path": "Welcome! 👋.md"
+    },
+    {
+      "basename": "Tolerance, Limits and Fits",
+      "path": "Misclleanous/Tolerance, Limits and Fits.md"
+    },
+    {
+      "basename": "smooth derivative",
+      "path": "Misclleanous/smooth derivative.md"
+    },
+    {
+      "basename": "PhD Kanban",
+      "path": "PhD Kanban.md"
+    },
+    {
+      "basename": "ROS",
+      "path": "skills/ROS.md"
+    },
+    {
+      "basename": "stoch",
+      "path": "Projects/stoch.gif"
+    },
+    {
+      "basename": "Ring Magnet",
+      "path": "Projects/Ring Magnet.md"
+    },
+    {
+      "basename": "Types-of-Fits",
+      "path": "Projects/Types-of-Fits.webp"
+    },
+    {
+      "basename": "stoch2leg 1",
+      "path": "Projects/stoch2leg 1.gif"
+    },
+    {
+      "basename": "stoch2leg",
+      "path": "Projects/stoch2leg.gif"
+    },
+    {
+      "basename": "stcohTeam",
+      "path": "Projects/stcohTeam.jpg"
+    },
+    {
+      "basename": "Real-Time Operating System",
+      "path": "RT/Real-Time Operating System.md"
+    },
+    {
+      "basename": "Real-Time Embedded Systems Specialization",
+      "path": "RT/Real-Time Embedded Systems Specialization.md"
+    },
+    {
+      "basename": "ragMag",
+      "path": "Projects/ragMag.png"
+    },
+    {
+      "basename": "PCB",
+      "path": "Projects/PCB.png"
+    },
+    {
+      "basename": "Pasted image 20221014163319",
+      "path": "Projects/Pasted image 20221014163319.png"
+    },
+    {
+      "basename": "Pasted image 20221014163259",
+      "path": "Projects/Pasted image 20221014163259.png"
+    },
+    {
+      "basename": "Pasted image 20221014145253",
+      "path": "Projects/Pasted image 20221014145253.png"
+    },
+    {
+      "basename": "Pasted image 20221011145807",
+      "path": "Projects/Pasted image 20221011145807.png"
+    },
+    {
+      "basename": "Optics",
+      "path": "Projects/Optics.md"
+    },
+    {
+      "basename": "opamp",
+      "path": "Electronics/opamp.svg"
+    },
+    {
+      "basename": "Motor Drive",
+      "path": "Electronics/Motor Drive.md"
+    },
+    {
+      "basename": "Motion Planning",
+      "path": "Projects/Motion Planning.md"
+    },
+    {
+      "basename": "Kim2007Twoaxis",
+      "path": "MEMS/Source Notes/Kim2007Twoaxis.md"
+    },
+    {
+      "basename": "Arrays",
+      "path": "DSA/Arrays.md"
+    },
+    {
+      "basename": "validSubsequence",
+      "path": "DSA/validSubsequence.md"
+    },
+    {
+      "basename": "Diet",
+      "path": "Food/Diet.md"
+    },
+    {
+      "basename": "Mushroom Risotto",
+      "path": "Food/Mushroom Risotto.md"
+    },
+    {
+      "basename": "Hong Kong Noodles",
+      "path": "Food/Recepie/main/Hong Kong Noodles.md"
+    },
+    {
+      "basename": "Mush. Stroganoff  Pasta",
+      "path": "Food/Recepie/main/Mush. Stroganoff  Pasta.md"
+    },
+    {
+      "basename": "Electronics",
+      "path": "Electronics/Electronics.md"
     },
     {
       "basename": "legged robot",
       "path": "Projects/legged robot.md"
     },
     {
-      "basename": "KiCAD",
-      "path": "skills/KiCAD.md"
+      "basename": "Integration of cutsom sanner with ThorLabs OCT Imaging setup",
+      "path": "Projects/Integration of cutsom sanner with ThorLabs OCT Imaging setup.md"
+    },
+    {
+      "basename": "Endoscopy Imaging Sensor",
+      "path": "Projects/Endoscopy Imaging Sensor.md"
     },
     {
       "basename": "Jobs",
       "path": "Misclleanous/Jobs.md"
     },
     {
-      "basename": "Integration of cutsom sanner with ThorLabs OCT Imaging setup",
-      "path": "Projects/Integration of cutsom sanner with ThorLabs OCT Imaging setup.md"
+      "basename": "Image-Guided Laser Surgery",
+      "path": "Projects/Image-Guided Laser Surgery.md"
+    },
+    {
+      "basename": "Gym",
+      "path": "Misclleanous/Gym.md"
+    },
+    {
+      "basename": "Motion Control Drivers",
+      "path": "Electronics/Motion Control Drivers.md"
+    },
+    {
+      "basename": "MDPI",
+      "path": "temp/MDPI.md"
+    },
+    {
+      "basename": "KiCAD",
+      "path": "skills/KiCAD.md"
     },
     {
       "basename": "insertionSort",
       "path": "temp/insertionSort.md"
-    },
-    {
-      "basename": "Image-Guided Laser Surgery",
-      "path": "Projects/Image-Guided Laser Surgery.md"
     },
     {
       "basename": "humanoid",
@@ -59,10 +179,6 @@
     {
       "basename": "Finance",
       "path": "Misclleanous/Finance.md"
-    },
-    {
-      "basename": "Endoscopy Imaging Sensor",
-      "path": "Projects/Endoscopy Imaging Sensor.md"
     },
     {
       "basename": "Electromagnetic coils",
@@ -79,126 +195,6 @@
     {
       "basename": "Communication-Protocols",
       "path": "Projects/Communication-Protocols.md"
-    },
-    {
-      "basename": "Data Structures and Algorithms",
-      "path": "Projects/Data Structures and Algorithms.md"
-    },
-    {
-      "basename": "Cover Letter",
-      "path": "temp/Cover Letter.md"
-    },
-    {
-      "basename": "Capture",
-      "path": "Misclleanous/Capture.png"
-    },
-    {
-      "basename": "Binary descriptors",
-      "path": "Projects/Binary descriptors.md"
-    },
-    {
-      "basename": "basicCircuitNew",
-      "path": "Electronics/basicCircuitNew.gif"
-    },
-    {
-      "basename": "axialMag",
-      "path": "Projects/axialMag.jpeg"
-    },
-    {
-      "basename": "asimov",
-      "path": "Projects/asimov.jpg"
-    },
-    {
-      "basename": "ajay",
-      "path": "Misclleanous/ajay.jpeg"
-    },
-    {
-      "basename": "aj",
-      "path": "Misclleanous/aj.jpg"
-    },
-    {
-      "basename": "A-Scan OCT",
-      "path": "Projects/A-Scan OCT.md"
-    },
-    {
-      "basename": "2",
-      "path": "Misclleanous/2.jpeg"
-    },
-    {
-      "basename": "1 1",
-      "path": "Misclleanous/1 1.png"
-    },
-    {
-      "basename": "ROS",
-      "path": "ROS.md"
-    },
-    {
-      "basename": "Scanning Fiber Endoscope",
-      "path": "Projects/Scanning Fiber Endoscope.md"
-    },
-    {
-      "basename": "SCHED_FIFO",
-      "path": "RT/SCHED_FIFO.md"
-    },
-    {
-      "basename": "smooth derivative",
-      "path": "smooth derivative.md"
-    },
-    {
-      "basename": "Sensor Conditioning Circuits",
-      "path": "Electronics/Sensor Conditioning Circuits.md"
-    },
-    {
-      "basename": "Tolerance, Limits and Fits",
-      "path": "Tolerance, Limits and Fits.md"
-    },
-    {
-      "basename": "Surgical-Topics",
-      "path": "Misclleanous/Surgical-Topics.md"
-    },
-    {
-      "basename": "Surgical-Robots",
-      "path": "Misclleanous/Surgical-Robots.md"
-    },
-    {
-      "basename": "std-vectors",
-      "path": "DSA/std-vectors.md"
-    },
-    {
-      "basename": "Tailored Sensing",
-      "path": "Projects/Tailored Sensing.md"
-    },
-    {
-      "basename": "tele-robotics",
-      "path": "Projects/tele-robotics.md"
-    },
-    {
-      "basename": "Types-of-Fits",
-      "path": "Types-of-Fits.webp"
-    },
-    {
-      "basename": "validSubsequence",
-      "path": "DSA/validSubsequence.md"
-    },
-    {
-      "basename": "Actuators for dexterous and agile robots",
-      "path": "Projects/Actuators for dexterous and agile robots.md"
-    },
-    {
-      "basename": "1",
-      "path": "Electronics/1.png"
-    },
-    {
-      "basename": "Binary Search Trees",
-      "path": "DSA/Binary Search Trees.md"
-    },
-    {
-      "basename": "Strings",
-      "path": "DSA/Strings.md"
-    },
-    {
-      "basename": "Heaps",
-      "path": "DSA/Heaps.md"
     }
   ],
   "omittedPaths": [],

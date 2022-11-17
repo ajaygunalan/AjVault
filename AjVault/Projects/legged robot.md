@@ -3,7 +3,7 @@
 
 The goal was to develop a robust, all terrain, legged robot.
 
-![[stoch.gif]]
+![[Projects/stoch.gif]]
 
 
 
@@ -98,7 +98,7 @@ Well, the handcrafted may or may not be optimal, but the generated gaits were ce
 
 ### Version 2.0 
 
-![[stoch2leg.gif]]
+![[Projects/stoch2leg.gif]]
 
 
 As mentioned earlier stoch 1.0 was too fragile. It had a lot of issues, so we wanted to have a robust hardware, "Stoch 2.0". Soon more details would be updated on Stoch 2.0.
@@ -110,4 +110,4 @@ As mentioned earlier stoch 1.0 was too fragile. It had a lot of issues, so we wa
 Team Members: [Shounak Bhattachary](https://sites.google.com/view/shounakoffice/home), [Dhaivat Dholakiya](https://sites.google.com/view/dhaivatdh/home), [Abhik Singla](https://sites.google.com/view/abhiksingla/home) and [myself](https://ajaygunalan.github.io/). Principal Investigators: [Dr. Shishir N. Y. Kolathaya](https://shishirny.github.io/),  [Prof. Bharadwaj Amrutur](http://www.cense.iisc.ac.in/bharadwaj-amrutur). I would like to specially thank **Shishir** and **Prof. Bharadwaj**, for giving me a wonderful oppourtinity to work in this project.
 
 
-![[stcohTeam.jpg]]
+![[Projects/stcohTeam.jpg]]

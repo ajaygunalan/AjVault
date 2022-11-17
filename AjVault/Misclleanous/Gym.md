@@ -1,4 +1,22 @@
-I need to work out atleast 2 compund exe in day
-3 days a week
+| Upper Body | A        |
+| ---------- | -------- |
+| Push       | Push Up  |
+| Pull       | Pull Ups |
 
-Feeling lazyyyyyyyyyyyyyyyyyy!!!!!!!
+| Lower Body | A                  |
+| ---------- | ------------------ |
+| Squat      | Barbell Squat      |
+| Hinge      | Barbell Hip Thrust |
+
+| Upper Body | B                       |
+| ---------- | ----------------------- |
+| Push       | Barbell Over Head Press |
+| Pull       | Barbell Row             |
+
+
+| Lower Body | B                |
+| ---------- | ---------------- |
+| Squat      | Barbell Lunge    |
+| Hinge      | Barbell Deadlift |
+
+Reference:[Athlean-X](https://www.youtube.com/watch?v=R6gZoAzAhCg&t=493s)

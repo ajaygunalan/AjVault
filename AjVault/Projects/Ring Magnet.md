@@ -7,7 +7,7 @@ Used for SFE because same values for bending in both directions. You do not need
 
 #### Radially Magnetized PM
 Used for freelance microswimmers, where you need to rotate them. If used in SFE, then different values for both directions.
-![[ragMag.png]]
+![[Projects/ragMag.png]]
 
 Purchased from Vega Technik
 
@@ -16,6 +16,6 @@ Purchased from Vega Technik
 	2. [# Can I measure the grade of a magnet?](https://www.youtube.com/watch?v=q9YkbTwFRkk)
 
 
-[[Tolerance, Limits and Fits]] for buying magnets.
+[[Misclleanous/Tolerance, Limits and Fits]] for buying magnets.
 
 
