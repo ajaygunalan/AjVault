@@ -2,13 +2,13 @@
 These are the 160/160 problems I solved in [AlgoExpert.io](https://www.algoexpert.io/) in both C++ and Python3. 
 
 
-[[DSA/Algorithmic Complexity]], [[DSA/Arrays]], [[DSA/Sorting]], Dynamic Programming, Famous Algorithm, Graphs, Greedy Algorithms, [[DSA/Linked List]], Recursion, Searching, [[DSA/Strings]], Tries, [[DSA/Binary Search Trees]], [[Binary Trees]], [[DSA/Heaps]], [[DSA/Stacks]]
+[[Algorithmic Complexity]], [[Arrays]], [[Sorting]], Dynamic Programming, Famous Algorithm, Graphs, Greedy Algorithms, [[Linked List]], Recursion, Searching, [[Strings]], Tries, [[Binary Search Trees]], [[Binary Trees]], [[Heaps]], [[Stacks]]
 
 [GitHub Repo](https://github.com/ajaygunalan/DSA)
 
 
 
-### Resources
+### Reference
 
 **Blogs**
 1. [How To Approach A Coding Problem ?](https://www.geeksforgeeks.org/how-to-approach-a-coding-problem/)

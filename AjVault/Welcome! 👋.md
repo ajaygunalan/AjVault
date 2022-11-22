@@ -27,8 +27,8 @@ Right now, I’m a Ph.D. student advised by [Dr. Leonardo De Mattos](https://ww
 My core expertise is developing production-grade software for robots. I constantly seek to improve my skills in this, and I care a lot about its beauty and optimal. My quest is to find/architect the the Android equivalence OS for robots. 
 
 - [[Data Structures and Algorithms]]
-- [[RT/Real-Time Operating System]]
-- [[skills/ROS]]
+- [[Real-Time Operating System]]
+- [[ROS]]
 - [[Software Design Patterns]]
 
 ### Toolsets
@@ -58,9 +58,9 @@ I have done a few tasks using my hobby grade skills, but they may not be optimal
 ![[Misclleanous/Capture.png]]
 
 ### To Do
-- [[Measuring size of objects]]
-- Solve week-1 problems in [[Projects/Data Structures and Algorithms#^8690cc]]
-- Need to finish assignment and quiz in week 1 of [[RT/Real-Time Embedded Systems Specialization]]
+- [[Visual Tracking]]
+- Solve [[Binary Search Trees]] construction
+- Nothing[[Real-Time Embedded Systems Specialization]]
 
 
 

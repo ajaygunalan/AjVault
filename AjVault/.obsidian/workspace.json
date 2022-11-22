@@ -4,12 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "24c8741f0e200045",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
+        "id": "497381f286249ad0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "81b6eca369776502",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome! 👋.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 200
   },
   "right": {
     "id": "f807f68ff3e01ed4",
@@ -83,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome! 👋.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +117,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome! 👋.md"
+              }
             }
           },
           {
@@ -124,19 +137,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
-  "active": "fa7a4d769a72cc6e",
+  "active": "81b6eca369776502",
   "lastOpenFiles": [
-    "Projects/medical device.md",
     "Welcome! 👋.md",
-    "Misclleanous/Tolerance, Limits and Fits.md",
-    "Misclleanous/smooth derivative.md",
+    "Untitled.md",
+    "Projects/Visual Tracking.md",
+    "Projects/Data Structures and Algorithms.md",
+    "DSA/Binary Trees.md",
+    "DSA/Binary Search Trees.md",
+    "Projects/Image-Guided Laser Surgery.md",
     "PhD Kanban.md",
-    "skills/ROS.md",
-    "Projects/stoch.gif",
-    "Projects/Ring Magnet.md",
-    "Projects/Types-of-Fits.webp",
-    "Projects/stoch2leg 1.gif"
+    "Projects/humanoid.md",
+    "skills/Tools.md"
   ]
 }

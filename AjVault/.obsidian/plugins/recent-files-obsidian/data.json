@@ -1,12 +1,88 @@
 {
   "recentFiles": [
     {
+      "basename": "Welcome! 👋",
+      "path": "Welcome! 👋.md"
+    },
+    {
+      "basename": "Visual Tracking",
+      "path": "Projects/Visual Tracking.md"
+    },
+    {
+      "basename": "Data Structures and Algorithms",
+      "path": "Projects/Data Structures and Algorithms.md"
+    },
+    {
+      "basename": "Binary Trees",
+      "path": "DSA/Binary Trees.md"
+    },
+    {
+      "basename": "Binary Search Trees",
+      "path": "DSA/Binary Search Trees.md"
+    },
+    {
+      "basename": "Image-Guided Laser Surgery",
+      "path": "Projects/Image-Guided Laser Surgery.md"
+    },
+    {
+      "basename": "PhD Kanban",
+      "path": "PhD Kanban.md"
+    },
+    {
+      "basename": "humanoid",
+      "path": "Projects/humanoid.md"
+    },
+    {
+      "basename": "Tools",
+      "path": "skills/Tools.md"
+    },
+    {
+      "basename": "MoveIt",
+      "path": "skills/MoveIt.md"
+    },
+    {
+      "basename": "OpenCV",
+      "path": "skills/OpenCV.md"
+    },
+    {
+      "basename": "Make",
+      "path": "skills/Make.md"
+    },
+    {
+      "basename": "Matlab",
+      "path": "skills/Matlab.md"
+    },
+    {
+      "basename": "git",
+      "path": "skills/git.md"
+    },
+    {
+      "basename": "CMake",
+      "path": "skills/CMake.md"
+    },
+    {
+      "basename": "ROS",
+      "path": "skills/ROS.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "skills/Linux.md"
+    },
+    {
+      "basename": "Embedded System",
+      "path": "skills/Embedded System.md"
+    },
+    {
+      "basename": "Python",
+      "path": "skills/Python.md"
+    },
+    {
       "basename": "medical device",
       "path": "Projects/medical device.md"
     },
     {
-      "basename": "Welcome! 👋",
-      "path": "Welcome! 👋.md"
+      "basename": "C",
+      "path": "skills/C.md"
     },
     {
       "basename": "Tolerance, Limits and Fits",
@@ -15,14 +91,6 @@
     {
       "basename": "smooth derivative",
       "path": "Misclleanous/smooth derivative.md"
-    },
-    {
-      "basename": "PhD Kanban",
-      "path": "PhD Kanban.md"
-    },
-    {
-      "basename": "ROS",
-      "path": "skills/ROS.md"
     },
     {
       "basename": "stoch",
@@ -127,74 +195,6 @@
     {
       "basename": "Electronics",
       "path": "Electronics/Electronics.md"
-    },
-    {
-      "basename": "legged robot",
-      "path": "Projects/legged robot.md"
-    },
-    {
-      "basename": "Integration of cutsom sanner with ThorLabs OCT Imaging setup",
-      "path": "Projects/Integration of cutsom sanner with ThorLabs OCT Imaging setup.md"
-    },
-    {
-      "basename": "Endoscopy Imaging Sensor",
-      "path": "Projects/Endoscopy Imaging Sensor.md"
-    },
-    {
-      "basename": "Jobs",
-      "path": "Misclleanous/Jobs.md"
-    },
-    {
-      "basename": "Image-Guided Laser Surgery",
-      "path": "Projects/Image-Guided Laser Surgery.md"
-    },
-    {
-      "basename": "Gym",
-      "path": "Misclleanous/Gym.md"
-    },
-    {
-      "basename": "Motion Control Drivers",
-      "path": "Electronics/Motion Control Drivers.md"
-    },
-    {
-      "basename": "MDPI",
-      "path": "temp/MDPI.md"
-    },
-    {
-      "basename": "KiCAD",
-      "path": "skills/KiCAD.md"
-    },
-    {
-      "basename": "insertionSort",
-      "path": "temp/insertionSort.md"
-    },
-    {
-      "basename": "humanoid",
-      "path": "Projects/humanoid.md"
-    },
-    {
-      "basename": "hamming distance",
-      "path": "Projects/hamming distance.md"
-    },
-    {
-      "basename": "Finance",
-      "path": "Misclleanous/Finance.md"
-    },
-    {
-      "basename": "Electromagnetic coils",
-      "path": "Projects/Electromagnetic coils.md"
-    },
-    {
-      "basename": "Descriptors",
-      "path": "Projects/Descriptors.md"
-    },
-    {
-      "basename": "Controls",
-      "path": "skills/Controls.md"
-    },
-    {
-      "basename": "Communication-Protocols",
-      "path": "Projects/Communication-Protocols.md"
     }
   ],
   "omittedPaths": [],
