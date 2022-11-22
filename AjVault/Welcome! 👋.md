@@ -37,7 +37,7 @@ I have a basic understanding of these toolsets. I use these toolsets to deploy r
 - [[Communication-Protocols]]
 - [[Signal Processing]]
 - [[Controls]]
-- [[Projects/Motion Planning]]
+- [[Motion Planning]]
 - [[Optimisation]]
 
 ### Hobby Grade Skills

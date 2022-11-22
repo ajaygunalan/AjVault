@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Visual Tracking",
+      "path": "Projects/Visual Tracking.md"
+    },
+    {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
     },
     {
-      "basename": "Visual Tracking",
-      "path": "Projects/Visual Tracking.md"
+      "basename": "Image-Guided Laser Surgery",
+      "path": "Projects/Image-Guided Laser Surgery.md"
+    },
+    {
+      "basename": "Endoscopy Imaging Sensor",
+      "path": "Projects/Endoscopy Imaging Sensor.md"
     },
     {
       "basename": "Data Structures and Algorithms",
@@ -19,10 +27,6 @@
     {
       "basename": "Binary Search Trees",
       "path": "DSA/Binary Search Trees.md"
-    },
-    {
-      "basename": "Image-Guided Laser Surgery",
-      "path": "Projects/Image-Guided Laser Surgery.md"
     },
     {
       "basename": "PhD Kanban",

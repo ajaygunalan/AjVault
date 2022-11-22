@@ -2,13 +2,20 @@
 Motion of brightness patterns. For practical purposes, optical flow = motion field. $V_{image} = f(r_{obj}, V_{obj})$
 
 **Assumption**
-1. Intensity of a point remain constant
-2. Displacement & time step are small
+1. [[#^91a9d8|BCA]]: Intensity of a point remain constant. 
+2. Displacement & time step are small.
 
-For a single pixel, $I_xu +I_yv+I_t=0$
+For a single pixel, $I_xu +I_yv+I_t=0$ ^99d7c6
 
 ![[ofGraph.png]] 
-$I_x, I_y, I_t$ are computed by finite difference. However, the parallel flow component of $u,v$ can not be computed due to [aperture problem](https://youtu.be/7p4KEsGgleQ). Hence, consider a group of pixel in a window  $W_{nXn}$ giving rise to L-K Solution. 
+$I_x, I_y, I_t$ are computed by finite difference. However, the parallel flow component of $u,v$ can not be computed due to [aperture problem](https://youtu.be/7p4KEsGgleQ). Hence, it is an ill-posed problem.
+
+We get a unique solution (regularize) by additional constraint. The two major methods are (1) Lucas and Kanade; (2) Horn and Schunck. Lucas-Kanade is technically a  [[#^008726|dense]] algorithm, but in practice only works on good feature points, i.e., it’s [[#^ccd19c|sparse]] . Horn and Schunck is a [[#^008726|dense]] method.
+
+
+
+#### Lucas and Kanade
+Velocity in a window $W_{nXn}$ around each point in constant [[#^c08b8c|(9)]].  We calculate the velocity at every point independently.
 
 $$
 \begin{bmatrix}
@@ -31,14 +38,22 @@ $$
     I_t(n,n)   &  I_t(n,n) 
 \end{bmatrix}
 $$
-The $W_{nXn}$  should be a textured region as shown below. In case, of large motions, we can estimate optical flow by using [Resolution Pyramidal or Template Matching](https://www.youtube.com/watch?v=VSSyPskheaE&list=PL2zRqk16wsdoYzrWStffqBAoUY8XdvatV&index=5).
-
+The $W_{nXn}$  should be a textured region as shown below.
 ![[windowOF.png]]
 
-[[#^f0eba4|Sparse]]: Compute flow only for specific features.
-[[#^e2250e|Dense]]: Compute flow for all pixels.
 
-Lucas-Kanade is technically a dense algorithm, but in practice only works on good feature points, i.e., it’s sparse.
+#### Horn and Schunck
+Velocity change is small. i.e., spatial smoothness of the velocity. Unlike the [[#Lucas and Kanade]], here we consider the velocity field. It tends to underestimate [[#^53c450|(10)]].
+
+#### Large Motion
+In case, of large motions, we can estimate optical flow by using [Resolution Pyramidal or Template Matching](https://www.youtube.com/watch?v=VSSyPskheaE&list=PL2zRqk16wsdoYzrWStffqBAoUY8XdvatV&index=5).
+
+### Improvise 
+1. Discontinuity preserving smoothness by dropping quadratic cost Maybe use truncated quadratic cost [[#^33f475|(11)]]. However, it's not convex.
+2.  Use $I(x)-I(x+v)$ instead of Taylor expansion [[#^99d7c6]].
+3. Primal Dual algorithms allow us to model for sharp discontinuity [[#^da071e|(12)]].
+4. 
+
 
 ### Object Tracking
 We have seen that [[#Optical Flow]] is used to track every pixel in an image, whereas Object tracking is to track a specific region. **Change detection** using difference between frames. This is improved by using a Gaussian Mixture Model.  **Tracking** can be done by: (1) Appearance or Histograms template; (2) Features like  SIFT
@@ -59,4 +74,13 @@ We have seen that [[#Optical Flow]] is used to track every pixel in an image, wh
 6. B.D. Lucas, T. Kanade, “An Image Registration Technique with an Application to Stereo Vision”, in Proceedings of Image Understanding Workshop, 1981, pp. 121-130 ^f0eba4
 7. Farnebäck, Gunnar. "Two-frame motion estimation based on polynomial expansion." Scandinavian conference on Image analysis. Springer, Berlin, Heidelberg, 2003 ^e2250e
 8. [Matlab](https://www.mathworks.com/matlabcentral/fileexchange/44400-tutorial-and-toolbox-on-real-time-optical-flow)
+9. https://www.youtube.com/watch?v=I1kw72ld5iw&list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI&index=17 ^c08b8c
+10. https://www.youtube.com/watch?v=aSNYy8vdLyY&list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI&index=18 ^53c450
+11. https://www.youtube.com/watch?v=GgcbVPNd3SI&list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI&index=19 ^33f475
+12. https://youtu.be/GgcbVPNd3SI?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI&t=1150 ^da071e
+
+### Definitions
+- Compute flow only for specific features. ^ccd19c
+- Computes flow for all pixels. ^008726
+- Brightness Constancy Assumption ^91a9d8
 
