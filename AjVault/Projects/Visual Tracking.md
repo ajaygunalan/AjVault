@@ -52,8 +52,11 @@ In case, of large motions, we can estimate optical flow by using [Resolution Pyr
 1. Discontinuity preserving smoothness by dropping quadratic cost Maybe use truncated quadratic cost [[#^33f475|(11)]]. However, it's not convex.
 2.  Use $I(x)-I(x+v)$ instead of Taylor expansion [[#^99d7c6]].
 3. Primal Dual algorithms allow us to model for sharp discontinuity [[#^da071e|(12)]].
-4. 
+4. Quadratic relaxation to decouple data term and regularizer.
+5. Data-dependent regularization which favors flow edges to coincide with image edges.
 
+### Endoscope Images
+1. Need read sec 6. and AEE AAE
 
 ### Object Tracking
 We have seen that [[#Optical Flow]] is used to track every pixel in an image, whereas Object tracking is to track a specific region. **Change detection** using difference between frames. This is improved by using a Gaussian Mixture Model.  **Tracking** can be done by: (1) Appearance or Histograms template; (2) Features like  SIFT
