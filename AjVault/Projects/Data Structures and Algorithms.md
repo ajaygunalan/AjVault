@@ -2,7 +2,7 @@
 These are the 160/160 problems I solved in [AlgoExpert.io](https://www.algoexpert.io/) in both C++ and Python3. 
 
 
-[[Algorithmic Complexity]], [[Arrays]], [[Sorting]], Dynamic Programming, Famous Algorithm, Graphs, Greedy Algorithms, [[Linked List]], Recursion, Searching, [[Strings]], Tries, [[Binary Search Trees]], [[Binary Trees]], [[Heaps]], [[Stacks]]
+[[Algorithmic Complexity]], [[Arrays]], [[Sorting]], Dynamic Programming, Famous Algorithm, Graphs, Greedy Algorithms, [[Linked List]], Recursion, Searching, [[Strings]], Tries, [[Binary Search Trees]], [[Binary Trees]], [[Heaps]], [[Stacks]], [[Queue]]
 
 [GitHub Repo](https://github.com/ajaygunalan/DSA)
 

@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "Welcome! 👋",
-      "path": "Welcome! 👋.md"
-    },
-    {
       "basename": "Visual Tracking",
       "path": "Projects/Visual Tracking.md"
+    },
+    {
+      "basename": "Queue",
+      "path": "DSA/Queue.md"
     },
     {
       "basename": "Image-Guided Laser Surgery",
       "path": "Projects/Image-Guided Laser Surgery.md"
     },
     {
-      "basename": "Endoscopy Imaging Sensor",
-      "path": "Projects/Endoscopy Imaging Sensor.md"
+      "basename": "Welcome! 👋",
+      "path": "Welcome! 👋.md"
+    },
+    {
+      "basename": "queue",
+      "path": "DSA/queue.gif"
+    },
+    {
+      "basename": "Stacks",
+      "path": "DSA/Stacks.md"
     },
     {
       "basename": "Data Structures and Algorithms",
       "path": "Projects/Data Structures and Algorithms.md"
+    },
+    {
+      "basename": "Endoscopy Imaging Sensor",
+      "path": "Projects/Endoscopy Imaging Sensor.md"
     },
     {
       "basename": "Binary Trees",
@@ -187,18 +199,6 @@
     {
       "basename": "Mushroom Risotto",
       "path": "Food/Mushroom Risotto.md"
-    },
-    {
-      "basename": "Hong Kong Noodles",
-      "path": "Food/Recepie/main/Hong Kong Noodles.md"
-    },
-    {
-      "basename": "Mush. Stroganoff  Pasta",
-      "path": "Food/Recepie/main/Mush. Stroganoff  Pasta.md"
-    },
-    {
-      "basename": "Electronics",
-      "path": "Electronics/Electronics.md"
     }
   ],
   "omittedPaths": [],
