@@ -8,6 +8,6 @@
 
 [Measuring size of objects in an image with OpenCV](https://pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/)
 
-[[Descriptors]], [[Binary descriptors]], [[Visual Tracking]]
+[[Descriptors]], [[Visual Tracking]]
 
 

@@ -12,6 +12,12 @@ $I_x, I_y, I_t$ are computed by finite difference. However, the parallel flow co
 
 We get a unique solution (regularize) by additional constraint. The two major methods are (1) Lucas and Kanade; (2) Horn and Schunck. Lucas-Kanade is technically a  [[#^008726|dense]] algorithm, but in practice only works on good feature points, i.e., it’s [[#^ccd19c|sparse]] . Horn and Schunck is a [[#^008726|dense]] method.
 
+A good overview was given by Barron et al. [[#^7d6091]] and by C ́ edras et al [[#^f51560]]. Barron et al. classify the optical flow techniques in four classes: 
+- differential methods
+- region-based matching
+- energy-based techniques
+- phase-based approaches.
+
 
 
 #### Lucas and Kanade
@@ -81,6 +87,8 @@ We have seen that [[#Optical Flow]] is used to track every pixel in an image, wh
 10. https://www.youtube.com/watch?v=aSNYy8vdLyY&list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI&index=18 ^53c450
 11. https://www.youtube.com/watch?v=GgcbVPNd3SI&list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI&index=19 ^33f475
 12. https://youtu.be/GgcbVPNd3SI?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI&t=1150 ^da071e
+13. [Performance of optical flow techniques](https://link.springer.com/article/10.1007/BF01420984) ^7d6091
+14. [Motion-based recognition a survey](https://www.sciencedirect.com/science/article/abs/pii/026288569593154K) ^f51560
 
 ### Definitions
 - Compute flow only for specific features. ^ccd19c

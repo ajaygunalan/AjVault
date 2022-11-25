@@ -1,23 +1,3 @@
-
-/* latin-ext */
-
-/* Enlarge image on hover by ajay from Ubuntu Theme */
-.markdown-preview-view img {
-  display: block;
-  margin-top: 20pt;
-  margin-bottom: 20pt;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%; /*experiment with values*/
-  transition: transform 0.25s ease;
-}
-
-.markdown-preview-view img:hover {
-  -webkit-transform: scale(2); /* experiment with values */
-  transform: scale(2);
-}
-
-
 /** ---------------------------------------------------------------
 **  ██████╗ ██████╗ ███████╗██╗██████╗ ██╗ █████╗ ███╗   ██╗██╗████████╗███████╗
 ** ██╔═══██╗██╔══██╗██╔════╝██║██╔══██╗██║██╔══██╗████╗  ██║██║╚══██╔══╝██╔════╝
@@ -82,7 +62,7 @@
   --text-a: #6bcafb;
   --text-a-hover: #6bcafb;
   --text-mark: #263d92;
-  --pre-code: #252525;
+  --code-background: var(--background-secondary);
   --interactive-accent: rgba(14, 210, 247, 0.5);
   --interactive-accent-hover: rgba(14, 210, 247, 0.8);
   --interactive-before: #5e6565;
@@ -697,6 +677,7 @@ em {
 .markdown-source-view.mod-cm6 .cm-indent::before {
   border-width: 2px;
   border-color: var(--text-accent);
+  margin-left: -1px;
   opacity: 0.35;
   transition: opacity 500ms linear ease-in-out;
 }
@@ -960,7 +941,6 @@ h6 a.tag {
 
 .cm-s-obsidian span.cm-inline-code.cm-formatting-code {
   display: inline-flex;
-  max-width: 0.55rem;
   min-width: 0.55rem;
 }
 
@@ -968,7 +948,7 @@ h6 a.tag {
 | CODE FENCE STYLING
 **--------------------**/
 
-.cm-s-obsidian span.code-block-flair {
+.cm-s-obsidian span.code-block-flair:not(:empty) {
   color: var(--text-accent);
   font-weight: 600;
   text-transform: uppercase;
@@ -1068,6 +1048,10 @@ pre[class$='react']:before {
 
 pre[class$='shell']:before {
   content: 'Shell';
+}
+
+pre[class$='powershell']:before {
+  content: 'PowerShell';
 }
 
 pre[class$='json']:before {

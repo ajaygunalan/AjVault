@@ -1,6 +1,7 @@
 {
-  "baseFontSize": 21,
+  "baseFontSize": 29,
   "theme": "moonstone",
   "accentColor": "",
-  "cssTheme": "Obsidian gruvbox"
+  "cssTheme": "Catppuccin",
+  "nativeMenus": true
 }
