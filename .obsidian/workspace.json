@@ -11,24 +11,15 @@
             "id": "e2b55426b2f120a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1f982417e124b756",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/VisualTracking/Image-Guided Laser Surgery.md",
+                "file": "Welcome! 👋.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "20221011145807",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -67,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4483b0d326df1466",
@@ -102,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/VisualTracking/Image-Guided Laser Surgery.md",
+                "file": "Welcome! 👋.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/VisualTracking/Image-Guided Laser Surgery.md"
+                "file": "Welcome! 👋.md"
               }
             }
           },
@@ -165,17 +157,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1f982417e124b756",
+  "active": "e2b55426b2f120a8",
   "lastOpenFiles": [
+    "References/@pavillon2016.md",
+    "Projects/DataDrivenCompressiveSensing/samples for cs.md",
+    "Projects/DataDrivenCompressiveSensing/Tailored Sensing.md",
+    "Projects/Pasted image 20221011145807.png.md",
     "Welcome! 👋.md",
+    "Projects/VisualTracking/Image-Guided Laser Surgery.md",
     "Horn and Schunck.md",
     "DSA/hash.png",
     "Functional Programming.md",
-    "Projects/UnderactuatedRobotics/Extra.md",
-    "Contact Robotics.md",
-    "CALM.md",
-    "Misclleanous/PKM Setup.md",
-    "Untitled 1.md",
-    "Untitled 2.md"
+    "Projects/UnderactuatedRobotics/Extra.md"
   ]
 }

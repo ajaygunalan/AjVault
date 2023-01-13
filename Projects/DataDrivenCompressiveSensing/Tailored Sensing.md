@@ -31,9 +31,9 @@ $$𝑥= Ψ_{r}𝑎$$(9)
 
 ### Matlab Simulation
 
-[GitHub Link](https://github.com/ajaygunalan/fastCS/blob/main/ContiTailored.m)
+[GitHub Link](https://github.com/ajaygunalan/TailoredSensing)
 
-![[Projects/Pasted image 20221011145807.png]]
+![[face.png]]
 
 %%
 ### To Realize on Hardware

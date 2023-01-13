@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Image-Guided Laser Surgery",
-      "path": "Projects/VisualTracking/Image-Guided Laser Surgery.md"
-    },
-    {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
+    },
+    {
+      "basename": "samples for cs",
+      "path": "Projects/DataDrivenCompressiveSensing/samples for cs.md"
+    },
+    {
+      "basename": "@pavillon2016",
+      "path": "References/@pavillon2016.md"
+    },
+    {
+      "basename": "Tailored Sensing",
+      "path": "Projects/DataDrivenCompressiveSensing/Tailored Sensing.md"
+    },
+    {
+      "basename": "Image-Guided Laser Surgery",
+      "path": "Projects/VisualTracking/Image-Guided Laser Surgery.md"
     },
     {
       "basename": "Extra",
@@ -31,10 +43,6 @@
     {
       "basename": "Other-Blogs",
       "path": "Misclleanous/Other-Blogs.md"
-    },
-    {
-      "basename": "@pavillon2016",
-      "path": "References/@pavillon2016.md"
     },
     {
       "basename": "Jobs",
