@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "507dd2763fffa4d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "29ef7148e7a7c40a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_index.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "c9ea05f6dd221f1e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Electronics and Circuits.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "54c8286f5c638cb4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "KiCAD.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1c2b4d8dbd952d7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "efe8ca74603050f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa7a4d769a72cc6e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "42d9bef934ca10a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5
+  },
+  "right": {
+    "id": "f807f68ff3e01ed4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d934ae55f7cb7ca7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb3743b874510675",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Electronics and Circuits.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "512066225e8b8e7e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 110.5,
+    "collapsed": true
+  },
+  "active": "c9ea05f6dd221f1e",
+  "lastOpenFiles": [
+    "KiCAD.md",
+    "Electronics and Circuits.md",
+    "_index.md",
+    "syslog.md",
+    "RTOS-Shedule.md",
+    "RT-Concepts and Practices.md",
+    "Real-Time Systems.md",
+    "Rate-monotonic scheduling.md",
+    "threads.md",
+    "Heaps and Heap Sort.md"
+  ]
+}

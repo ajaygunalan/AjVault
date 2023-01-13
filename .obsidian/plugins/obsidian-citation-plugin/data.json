@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "csl-json",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "References",
+  "literatureNoteContentTemplate": "\n# {{title}}\n\nLink: [pdf]({{zoteroSelectURI}}), [URL]({{URL}})\n\n### Notes",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "My Library.json"
+}

@@ -1,0 +1,10 @@
+{
+  "baseFontSize": 17,
+  "theme": "moonstone",
+  "accentColor": "",
+  "cssTheme": "WiseLight",
+  "nativeMenus": true,
+  "textFontFamily": "JetBrains Mono",
+  "interfaceFontFamily": "JetBrains Mono",
+  "monospaceFontFamily": "JetBrains Mono"
+}

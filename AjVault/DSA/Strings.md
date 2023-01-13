@@ -1,1 +1,0 @@
-Github repo of stack problems: [Python](https://github.com/ajaygunalan/DSApython/tree/master/strings)
