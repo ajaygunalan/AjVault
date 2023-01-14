@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome! 👋.md",
+                "file": "Blog/The next paradigm shift in robotics.md",
                 "mode": "source",
                 "source": true
               }
@@ -98,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222
+    "width": 421.5
   },
   "right": {
     "id": "f807f68ff3e01ed4",
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome! 👋.md",
+                "file": "Blog/The next paradigm shift in robotics.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome! 👋.md"
+                "file": "Blog/The next paradigm shift in robotics.md"
               }
             }
           },
@@ -179,15 +179,15 @@
   },
   "active": "edb6e11538e1b4ce",
   "lastOpenFiles": [
-    "Projects/DataDrivenCompressiveSensing/Tailored Sensing.md",
-    "References/@hu2021.md",
-    "Welcome! 👋.md",
-    "Projects/VisualTracking/Image-Guided Laser Surgery.md",
-    "Projects/DataDrivenCompressiveSensing/samples for compressive sensing.md",
-    "Projects/DataDrivenCompressiveSensing/sampling strategy.md",
-    "Blog/The next paradigm shift in robotics.md",
-    "Misclleanous/Food/Diet.md",
-    "Blog/Actuators for dexterous and agile robots.md",
-    "Blog/Functional Programming.md"
+    "Blog/DSA/validSubsequence.md",
+    "Blog/DSA/Strings.md",
+    "Blog/DSA/std-vectors.md",
+    "Blog/DSA/Stacks.md",
+    "Blog/DSA/Sorting.md",
+    "Blog/DSA/Queue.md",
+    "Blog/DSA/queue.gif",
+    "Blog/DSA/Linked List.md",
+    "Blog/DSA/Heaps.md",
+    "Blog/DSA/Data Structures and Algorithms.md"
   ]
 }

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "The next paradigm shift in robotics",
+      "path": "Blog/The next paradigm shift in robotics.md"
+    },
+    {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
+    },
+    {
+      "basename": "Algorithms for Walking, Running, Swimming, Flying, and Manipulation",
+      "path": "Blog/UnderactuatedRobotics/Algorithms for Walking, Running, Swimming, Flying, and Manipulation.md"
     },
     {
       "basename": "Tailored Sensing",
@@ -25,10 +33,6 @@
       "path": "Projects/DataDrivenCompressiveSensing/sampling strategy.md"
     },
     {
-      "basename": "The next paradigm shift in robotics",
-      "path": "Blog/The next paradigm shift in robotics.md"
-    },
-    {
       "basename": "Diet",
       "path": "Misclleanous/Food/Diet.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "Functional Programming",
       "path": "Blog/Functional Programming.md"
-    },
-    {
-      "basename": "Data Structures and Algorithms",
-      "path": "Blog/DSA/Data Structures and Algorithms.md"
     },
     {
       "basename": "The next paradigm shift in robotics",

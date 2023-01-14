@@ -22,12 +22,8 @@ Right now, I’m a Ph.D. student advised by [Dr. Leonardo De Mattos](https://ww
 - [[Image-Guided Laser Surgery]]
 
 
-### Skills
-- [Data Structures and Algorithms](https://leetcode.com/ajaygunalan1995/)
-- Top-tier [[Publications]] 
-- [[Algorithms for Walking, Running, Swimming, Flying, and Manipulation]]
-
 ### Blog
 - [[Actuators for dexterous and agile robots]]
 - [[The next paradigm shift in robotics]]
+- [[Algorithms for Walking, Running, Swimming, Flying, and Manipulation]]
 - [[Misclleanous]]
