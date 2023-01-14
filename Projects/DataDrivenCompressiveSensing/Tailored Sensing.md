@@ -36,31 +36,53 @@ $$𝑥= Ψ_{r}𝑎$$(9)
 ![[face.png]]
 
 
-### Next Steps
-1. [[samples for compressive sensing]]
-2. [[sampling strategy]]
+### Literature Review
 
-### Points
-1. Generate a dataset in CLSM and apply CS/Data-Driven CS to understand the optimal points and image restoration for the given sample.
-2. Depending upon the simulation result, apply CS /Data-Driven CS on CLSM using Galvos. Make sure that when using Galvo, we must ensure that the trajectory covers both optimal points and their smoothness. 
+1. [[@zhang2021]]
+2. [[@Yuan2021Compressive]]
+3. Yeast [[@hu2021]]
+4. [[@zhang2020]]
+5. [[@soldevila2019]]
+6. Mouse cerebellum brain [[@soldevila2019]]
+7. Chemical compound [[@zhang2018a]].
+8. [[@woringer2017]]
+9. fungal cells [[@lin2017]]. 
+10. [[@Woringer2017Faster]]
+11. Mouse embryonic fibroblast (MEF) cells [[@pavillon2016]].
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 %%
-### To Realize on Hardware
-
-1. Build custom eigen basis or principal components $(Ψ_r)$ from our training data using techniques such as SVD.
-$$𝑦= C_{opt} Ψ_r 𝑎$$ (4)
-Requirements:
-	- Sample Tissue
-	- CM/LSM
-	- 100 Image properly aligned.
-
-
-2. Measure the signal $𝑥$ using sampling matrix $C_{opt}$ to obtain measure data $𝑦$:
-$$𝑦= C_{opt} 𝑥 $$(5)
-Requirements:
-	- CM/LSM should be able to follow the  sample only along the points defined by $C_{opt}$
-
-
 
 ### 4 Papers
 
