@@ -1,6 +1,4 @@
----
-title: "Actuators for dexterous and agile robots"
----
+
 
 ### What is a robot?
 

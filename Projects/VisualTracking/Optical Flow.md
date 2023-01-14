@@ -6,7 +6,7 @@ Motion of brightness patterns. For practical purposes, optical flow = motion fie
 
 For a single pixel, $I_xu +I_yv+I_t=0$ ^99d7c6
 
-![[ofGraph.png]] 
+![[Projects/00Past/images/ofGraph.png]] 
 $I_x, I_y, I_t$ are computed by finite difference. However, the parallel flow component of $u,v$ can not be computed due to [aperture problem](https://youtu.be/7p4KEsGgleQ). Hence, it is an ill-posed problem.
 
 We get a unique solution (regularize) by additional constraint. The two major methods are (1) [[Lucas and Kanade]]; (2) [[Horn and Schunck]]. [[Lucas and Kanade]] is technically a  [[#^008726|dense]] algorithm, but in practice only works on good feature points, i.e., it’s [[#^ccd19c|sparse]]. [[Horn and Schunck]] is a [[#^008726|dense]] method.

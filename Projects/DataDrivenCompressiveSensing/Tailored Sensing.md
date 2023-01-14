@@ -35,6 +35,15 @@ $$𝑥= Ψ_{r}𝑎$$(9)
 
 ![[face.png]]
 
+
+### Next Steps
+1. [[samples for compressive sensing]]
+2. [[sampling strategy]]
+
+### Points
+1. Generate a dataset in CLSM and apply CS/Data-Driven CS to understand the optimal points and image restoration for the given sample.
+2. Depending upon the simulation result, apply CS /Data-Driven CS on CLSM using Galvos. Make sure that when using Galvo, we must ensure that the trajectory covers both optimal points and their smoothness. 
+
 %%
 ### To Realize on Hardware
 
@@ -50,18 +59,9 @@ Requirements:
 $$𝑦= C_{opt} 𝑥 $$(5)
 Requirements:
 	- CM/LSM should be able to follow the  sample only along the points defined by $C_{opt}$
-%%
 
 
 
-### Next Steps
-1. A quick survey on the biological sample used for compressive sensing in confocal laser microscopy to narrow down our sample. [[samples for cs]]
-2. Generate a dataset in CLSM and apply CS/Data-Driven CS to understand the optimal points and image restoration for the given sample.
-4. Depending upon the simulation result, apply CS /Data-Driven CS on CLSM using Galvos or AOD.
-	1. Preferable: Galvos since there is no need to build an optical setup. OCT also uses galvo.
-	2. AOD needs time to build the optical setup and can be done for two-photon microscopy.
-5. When using Galvo, we must ensure that the trajectory covers both optimal points and their smoothness. 
-6. All this is done on std. CLSM. Then, We could apply it on the custom hardware using the SPAD array if needed.
 ### 4 Papers
 
 1.  [An inertia-free beam scanning device for single-wavelength 2PE-STED nanoscopy](https://iopscience.iop.org/article/10.1088/1361-6463/ab8852)
@@ -72,8 +72,6 @@ Requirements:
 	- Increase the pinhole size to 1 AU to have high SNR and low resolution. The low resolution is overcome by computational (de-convolution) combining the images on the SPAD array detector to produce high SNR and resolution images. 
 4. [Volumetric Lissajous confocal microscopy with tunable spatiotemporal resolution](https://opg.optica.org/boe/fulltext.cfm?uri=boe-11-11-6293&id=441078)
 	- imaging fast phenomena sacrifices either spatial or temporal resolution. 
-
-
-
+%%
 
 

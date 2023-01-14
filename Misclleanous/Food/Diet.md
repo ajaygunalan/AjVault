@@ -1,16 +1,16 @@
 ### Recipes
 | S.No | Meal                        |
 | ---- | --------------------------- |
-| 1    | [[Misclleanous/Food/Recepie/main/Hong Kong Noodles]]       |
-| 2    | [[Misclleanous/Food/Recepie/main/Single Cooker Sambhar]]   |
-| 3    | [[Misclleanous/Food/Recepie/other/Pasta]]                   |
-| 4    | [[Misclleanous/Food/Recepie/main/Palak Tofu]]              |
-| 5    | [[Misclleanous/Food/Recepie/main/Oats]]                    |
-| 6    | [[Misclleanous/Food/Recepie/main/Lentil Chutney]] & Chapa. |
-| 7    | [[Misclleanous/Food/Recepie/main/Mush. Stroganoff  Pasta]] |
+| 1    | [[Hong Kong Noodles]]       |
+| 2    | [[Single Cooker Sambhar]]   |
+| 3    | [[Pasta]]                   |
+| 4    | [[Palak Tofu]]              |
+| 5    | [[Oats]]                    |
+| 6    | [[Lentil Chutney]] & Chapa. |
+| 7    | [[Mush. Stroganoff  Pasta]] |
 | 8    | [[Soya Briyani]]            |
-| 9    | [[Misclleanous/Food/Recepie/other/Tofu Chuka]]              |
-| 10   | [[Misclleanous/Food/Mushroom Risotto]]   | 
+| 9    | [[Tofu Chuka]]              |
+| 10   | [[Mushroom Risotto]]   | 
 
 ### Plan
 
@@ -26,9 +26,9 @@
 
 ### Other
 
-[[Misclleanous/Food/Protien List]]
-[[Misclleanous/Food/Smoothie]]
-[[Misclleanous/Food/Sprouts Salads]]
+[[Protien List]]
+[[Smoothie]]
+[[Sprouts Salads]]
 
 
 

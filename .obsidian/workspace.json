@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "031d834a4b269107",
+        "id": "5638957cce475c41",
         "type": "tabs",
         "children": [
           {
-            "id": "e2b55426b2f120a8",
+            "id": "6b7083bb7e49ec61",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "20221011145807",
+                "query": "shift",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -58,8 +58,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4483b0d326df1466",
@@ -78,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 233
+    "width": 222
   },
   "right": {
     "id": "f807f68ff3e01ed4",
@@ -157,17 +156,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e2b55426b2f120a8",
+  "active": "6b7083bb7e49ec61",
   "lastOpenFiles": [
-    "References/@pavillon2016.md",
-    "Projects/DataDrivenCompressiveSensing/samples for cs.md",
-    "Projects/DataDrivenCompressiveSensing/Tailored Sensing.md",
-    "Projects/Pasted image 20221011145807.png.md",
+    "Blog/The next paradigm shift in robotics.md",
     "Welcome! 👋.md",
-    "Projects/VisualTracking/Image-Guided Laser Surgery.md",
-    "Horn and Schunck.md",
-    "DSA/hash.png",
-    "Functional Programming.md",
-    "Projects/UnderactuatedRobotics/Extra.md"
+    "Misclleanous/Food/Diet.md",
+    "Blog/Actuators for dexterous and agile robots.md",
+    "Blog/Functional Programming.md",
+    "Blog/DSA/Data Structures and Algorithms.md",
+    "The next paradigm shift in robotics.md",
+    "Misclleanous/Misclleanous.md",
+    "Data structures.md",
+    "Medical/Medical Terms.md"
   ]
 }

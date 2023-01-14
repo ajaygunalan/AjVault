@@ -5,48 +5,104 @@
       "path": "Welcome! 👋.md"
     },
     {
-      "basename": "samples for cs",
-      "path": "Projects/DataDrivenCompressiveSensing/samples for cs.md"
+      "basename": "The next paradigm shift in robotics",
+      "path": "Blog/The next paradigm shift in robotics.md"
     },
     {
-      "basename": "@pavillon2016",
-      "path": "References/@pavillon2016.md"
+      "basename": "Diet",
+      "path": "Misclleanous/Food/Diet.md"
     },
     {
-      "basename": "Tailored Sensing",
-      "path": "Projects/DataDrivenCompressiveSensing/Tailored Sensing.md"
+      "basename": "Actuators for dexterous and agile robots",
+      "path": "Blog/Actuators for dexterous and agile robots.md"
     },
     {
-      "basename": "Image-Guided Laser Surgery",
-      "path": "Projects/VisualTracking/Image-Guided Laser Surgery.md"
+      "basename": "Functional Programming",
+      "path": "Blog/Functional Programming.md"
     },
     {
-      "basename": "Extra",
-      "path": "Projects/UnderactuatedRobotics/Extra.md"
+      "basename": "Data Structures and Algorithms",
+      "path": "Blog/DSA/Data Structures and Algorithms.md"
+    },
+    {
+      "basename": "The next paradigm shift in robotics",
+      "path": "The next paradigm shift in robotics.md"
+    },
+    {
+      "basename": "Misclleanous",
+      "path": "Misclleanous/Misclleanous.md"
     },
     {
       "basename": "PKM Setup",
       "path": "Misclleanous/PKM Setup.md"
     },
     {
-      "basename": "UR Index",
-      "path": "Projects/UnderactuatedRobotics/UR Index.md"
-    },
-    {
-      "basename": "Fully-actuated vs Underactuated Systems",
-      "path": "Projects/UnderactuatedRobotics/Fully-actuated vs Underactuated Systems.md"
-    },
-    {
-      "basename": "smooth derivative",
-      "path": "Misclleanous/smooth derivative.md"
-    },
-    {
       "basename": "Other-Blogs",
       "path": "Misclleanous/Other-Blogs.md"
     },
     {
-      "basename": "Jobs",
-      "path": "Misclleanous/Jobs.md"
+      "basename": "Gym",
+      "path": "Misclleanous/Gym.md"
+    },
+    {
+      "basename": "Finance",
+      "path": "Misclleanous/Finance.md"
+    },
+    {
+      "basename": "2",
+      "path": "Misclleanous/images/2.jpeg"
+    },
+    {
+      "basename": "ajay",
+      "path": "Misclleanous/images/ajay.jpeg"
+    },
+    {
+      "basename": "aj",
+      "path": "Misclleanous/images/aj.jpg"
+    },
+    {
+      "basename": "Humanoid",
+      "path": "Projects/00Past/Humanoid.md"
+    },
+    {
+      "basename": "Legged Robot",
+      "path": "Projects/00Past/Legged Robot.md"
+    },
+    {
+      "basename": "Tailored Sensing",
+      "path": "Projects/DataDrivenCompressiveSensing/Tailored Sensing.md"
+    },
+    {
+      "basename": "stoch2leg",
+      "path": "Projects/00Past/images/stoch2leg.gif"
+    },
+    {
+      "basename": "Tele-Robotics",
+      "path": "Projects/00Past/Tele-Robotics.md"
+    },
+    {
+      "basename": "Image-Guided Laser Surgery",
+      "path": "Projects/VisualTracking/Image-Guided Laser Surgery.md"
+    },
+    {
+      "basename": "samples for compressive sensing",
+      "path": "Projects/DataDrivenCompressiveSensing/samples for compressive sensing.md"
+    },
+    {
+      "basename": "@pavillon2016",
+      "path": "References/@pavillon2016.md"
+    },
+    {
+      "basename": "Extra",
+      "path": "Blog/UnderactuatedRobotics/Extra.md"
+    },
+    {
+      "basename": "UR Index",
+      "path": "Blog/UnderactuatedRobotics/UR Index.md"
+    },
+    {
+      "basename": "Fully-actuated vs Underactuated Systems",
+      "path": "Blog/UnderactuatedRobotics/Fully-actuated vs Underactuated Systems.md"
     },
     {
       "basename": "@trinh2019a",
@@ -63,14 +119,6 @@
     {
       "basename": "@muller2011a",
       "path": "References/@muller2011a.md"
-    },
-    {
-      "basename": "Surgical-Robots",
-      "path": "Misclleanous/Surgical-Robots.md"
-    },
-    {
-      "basename": "Gym",
-      "path": "Misclleanous/Gym.md"
     }
   ],
   "omittedPaths": [],
