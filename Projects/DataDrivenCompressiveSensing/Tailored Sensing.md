@@ -38,18 +38,29 @@ $$𝑥= Ψ_{r}𝑎$$(9)
 
 ### Literature Review
 
-1. [[@zhang2021]]
-2. [[@Yuan2021Compressive]]
-3. Yeast [[@hu2021]]
-4. [[@zhang2020]]
-5. [[@soldevila2019]]
-6. Mouse cerebellum brain [[@soldevila2019]]
-7. Chemical compound [[@zhang2018a]].
-8. [[@woringer2017]]
-9. fungal cells [[@lin2017]]. 
-10. [[@Woringer2017Faster]]
-11. Mouse embryonic fibroblast (MEF) cells [[@pavillon2016]].
+Point scanning vs Switching-mask-based single-pixel cameras.
 
+1. [[@Zhang2021Deep]] UC Davis
+They project a pattern on a small block and then sequentially scan and recover using neural network. Showed demo on classical images.
+
+2. [[@Yuan2021Compressive]] - Not Clear
+it excites a sample with an array of foci, randomly interleaves the scattering projection positions at the entrance of an imaging spectrometer, and then compresses multiple coded spectra into single spectral acquisition channels. SIRI randomly displaces the Raman spectra of adjacent foci that would otherwise be smeared on a detector because of their spectral similarities, which is crucial for an unambiguous and high-fidelity hyperspectral reconstruction.
+
+3. [[@Hu2021Fast]] uses BFImages. 
+5. [[@zhang2020]]
+6. [[@soldevila2019]]
+7. Mouse cerebellum brain [[@soldevila2019]]
+8. Chemical compound [[@zhang2018a]].
+9. [[@woringer2017]]
+10. fungal cells [[@lin2017]]. 
+11. [[@Woringer2017Faster]]
+12. Mouse embryonic fibroblast (MEF) cells [[@pavillon2016]].
+
+
+###
+1. https://github.com/Adrian-Markelov/IHT-tutorial
+2. https://github.com/vegarant/cilib
+3. https://github.com/DIPlib/diplib
 
 
 
