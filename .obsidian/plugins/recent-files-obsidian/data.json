@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "The next paradigm shift in robotics",
-      "path": "Blog/The next paradigm shift in robotics.md"
-    },
-    {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
+    },
+    {
+      "basename": "Actuators for dexterous and agile robots",
+      "path": "Blog/Actuators for dexterous and agile robots.md"
+    },
+    {
+      "basename": "Functional Programming",
+      "path": "Blog/Functional Programming.md"
+    },
+    {
+      "basename": "The next paradigm shift in robotics",
+      "path": "Blog/The next paradigm shift in robotics.md"
     },
     {
       "basename": "Algorithms for Walking, Running, Swimming, Flying, and Manipulation",
@@ -35,14 +43,6 @@
     {
       "basename": "Diet",
       "path": "Misclleanous/Food/Diet.md"
-    },
-    {
-      "basename": "Actuators for dexterous and agile robots",
-      "path": "Blog/Actuators for dexterous and agile robots.md"
-    },
-    {
-      "basename": "Functional Programming",
-      "path": "Blog/Functional Programming.md"
     },
     {
       "basename": "The next paradigm shift in robotics",
