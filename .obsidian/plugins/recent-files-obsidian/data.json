@@ -5,20 +5,20 @@
       "path": "Projects/DataDrivenCompressiveSensing/Tailored Sensing.md"
     },
     {
-      "basename": "samples for compressive sensing",
-      "path": "Projects/DataDrivenCompressiveSensing/samples for compressive sensing.md"
-    },
-    {
-      "basename": "sampling strategy",
-      "path": "Projects/DataDrivenCompressiveSensing/sampling strategy.md"
-    },
-    {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
     },
     {
       "basename": "Image-Guided Laser Surgery",
       "path": "Projects/VisualTracking/Image-Guided Laser Surgery.md"
+    },
+    {
+      "basename": "samples for compressive sensing",
+      "path": "Projects/DataDrivenCompressiveSensing/samples for compressive sensing.md"
+    },
+    {
+      "basename": "sampling strategy",
+      "path": "Projects/DataDrivenCompressiveSensing/sampling strategy.md"
     },
     {
       "basename": "The next paradigm shift in robotics",

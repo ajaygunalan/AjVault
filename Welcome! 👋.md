@@ -20,12 +20,13 @@ Right now, I’m a Ph.D. student advised by [Dr. Leonardo De Mattos](https://ww
 - [[Endoscopy Imaging Sensor]]
 - [[Tailored Sensing]]
 - [[Image-Guided Laser Surgery]]
-- [[Algorithms for Walking, Running, Swimming, Flying, and Manipulation]]
+
 
 ### Skills
 - [Data Structures and Algorithms](https://leetcode.com/ajaygunalan1995/)
 - Top-tier [[Publications]] 
 - Demonstrated experience in communication protocols, multi-threading, and low latency.
+- [[Algorithms for Walking, Running, Swimming, Flying, and Manipulation]]
 
 ### Blog
 - [[Actuators for dexterous and agile robots]]
