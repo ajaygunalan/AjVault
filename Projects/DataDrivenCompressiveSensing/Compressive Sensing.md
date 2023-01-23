@@ -7,14 +7,21 @@ To improve the temporal resolution of confocal laser scanning fluorescence micro
 As the resolution of the image increase, the computation gets harder. So, we need methodologies way to solve it.
 
 ### Methodologies
--   Better framing of the optimization problem like PSF
--   multi-resolution
--   context aware 
--  scanning strategy
+- Better framing of the optimization problem like PSF
+- multi-resolution
+- context aware 
+- scanning strategy
+
+### Existing Work
+
+
+
 
 
 ## Prior Data Available
-1.  
+
+![[inverseProb.png]]
+Image from: [[@Bhandari2022Computational]]
 
 
 
