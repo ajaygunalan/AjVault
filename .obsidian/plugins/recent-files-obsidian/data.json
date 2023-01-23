@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Compressive Sensing",
+      "path": "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md"
+    },
+    {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
+    },
+    {
+      "basename": "The next paradigm shift in robotics",
+      "path": "Blog/The next paradigm shift in robotics.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
+    },
+    {
+      "basename": "@Pavillon2016Compressed",
+      "path": "References/@Pavillon2016Compressed.md"
+    },
+    {
+      "basename": "@Lin2017Spectroscopic",
+      "path": "References/@Lin2017Spectroscopic.md"
+    },
+    {
+      "basename": "Image-Guided Laser Surgery",
+      "path": "Projects/VisualTracking/Image-Guided Laser Surgery.md"
+    },
+    {
+      "basename": "@Zhang2018Dynamic",
+      "path": "References/@Zhang2018Dynamic.md"
+    },
+    {
+      "basename": "@Soldevila2019Fast",
+      "path": "References/@Soldevila2019Fast.md"
     },
     {
       "basename": "Actuators for dexterous and agile robots",
@@ -13,24 +45,8 @@
       "path": "Blog/Functional Programming.md"
     },
     {
-      "basename": "The next paradigm shift in robotics",
-      "path": "Blog/The next paradigm shift in robotics.md"
-    },
-    {
       "basename": "Algorithms for Walking, Running, Swimming, Flying, and Manipulation",
       "path": "Blog/UnderactuatedRobotics/Algorithms for Walking, Running, Swimming, Flying, and Manipulation.md"
-    },
-    {
-      "basename": "Tailored Sensing",
-      "path": "Projects/DataDrivenCompressiveSensing/Tailored Sensing.md"
-    },
-    {
-      "basename": "@hu2021",
-      "path": "References/@hu2021.md"
-    },
-    {
-      "basename": "Image-Guided Laser Surgery",
-      "path": "Projects/VisualTracking/Image-Guided Laser Surgery.md"
     },
     {
       "basename": "samples for compressive sensing",
@@ -97,10 +113,6 @@
       "path": "Projects/00Past/Tele-Robotics.md"
     },
     {
-      "basename": "@pavillon2016",
-      "path": "References/@pavillon2016.md"
-    },
-    {
       "basename": "Extra",
       "path": "Blog/UnderactuatedRobotics/Extra.md"
     },
@@ -113,20 +125,8 @@
       "path": "Blog/UnderactuatedRobotics/Fully-actuated vs Underactuated Systems.md"
     },
     {
-      "basename": "@trinh2019a",
-      "path": "References/@trinh2019a.md"
-    },
-    {
-      "basename": "@stein2004a",
-      "path": "References/@stein2004a.md"
-    },
-    {
       "basename": "The next paradigm shift in robotics?",
       "path": "The next paradigm shift in robotics?.md"
-    },
-    {
-      "basename": "@muller2011a",
-      "path": "References/@muller2011a.md"
     }
   ],
   "omittedPaths": [],

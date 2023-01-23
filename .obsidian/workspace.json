@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3df5def03d54ba8f",
+        "id": "03891291630007be",
         "type": "tabs",
         "children": [
           {
-            "id": "368e3f70fd792c05",
+            "id": "a0782bcf6016757a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome! 👋.md",
+                "file": "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.5
+    "width": 241.5
   },
   "right": {
     "id": "f807f68ff3e01ed4",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome! 👋.md",
+                "file": "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome! 👋.md"
+                "file": "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md"
               }
             }
           },
@@ -156,17 +156,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "368e3f70fd792c05",
+  "active": "a0782bcf6016757a",
   "lastOpenFiles": [
-    "Blog/Actuators for dexterous and agile robots.md",
     "Welcome! 👋.md",
-    "Blog/Functional Programming.md",
-    "Blog/DSA/validSubsequence.md",
-    "Blog/DSA/Strings.md",
-    "Blog/DSA/std-vectors.md",
-    "Blog/DSA/Stacks.md",
-    "Blog/DSA/Sorting.md",
-    "Blog/DSA/Queue.md",
-    "Blog/DSA/queue.gif"
+    "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md",
+    "References/@Pavillon2016Compressed.md",
+    "References/@Lin2017Spectroscopic.md",
+    "Projects/VisualTracking/Image-Guided Laser Surgery.md",
+    "@pavillon2016.md",
+    "Blog/The next paradigm shift in robotics.md",
+    "References/@Zhang2018Dynamic.md",
+    "References/@zhang2018a.md",
+    "References/@Soldevila2019Fast.md"
   ]
 }

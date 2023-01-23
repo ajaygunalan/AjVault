@@ -1,7 +1,10 @@
  1. Use of mixed programming styles combining functional, symbolic and oops.
- 2.  RUST, Haskell vs C++, Python?
- 3. Suction cup with tactile feedback and ability to re-grasp and attached to quasi direct-drive [manipulator](https://www.youtube.com/watch?v=Sg1z725Dsd8).
- 4. [Riemannian Motion Policy](https://www.youtube.com/watch?v=kmmhCUXVyy8), [estimation loops](https://www.youtube.com/watch?v=tr6aatJL84A), [dmp](https://www.youtube.com/watch?v=gvTjT1iw_30) [Factor Graphs for Perception and Action](https://www.youtube.com/watch?v=-yCC7mpgL4w) and [Jeffrey Ichnowski - Dynamic Robot Manipulation](https://www.youtube.com/watch?v=LgHC4fohvfU)
+ 2. Suction cup with tactile feedback and ability to re-grasp and attached to low inertia manipulator?
+ 3. [Estimation loops](https://www.youtube.com/watch?v=tr6aatJL84A)
+ 4. [DMP](https://www.youtube.com/watch?v=gvTjT1iw_30)
+ 5. [Factor Graphs for Perception and Action](https://www.youtube.com/watch?v=-yCC7mpgL4w) 
+ 6. [Riemannian Motion Policy](https://www.youtube.com/watch?v=kmmhCUXVyy8)
+ 7. [Dynamic Robot Manipulation](https://www.youtube.com/watch?v=LgHC4fohvfU)
 
 
 ### References

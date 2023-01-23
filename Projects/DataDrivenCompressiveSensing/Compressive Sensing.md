@@ -1,6 +1,43 @@
 
-### Objective
-To minimize OCT data acquisition time and storage requirements of data. We propose using the tailored sensing framework in OCT and determining its potential feasibility. Tailored Sensing is the extension of compressing when the data to be measured has known prior information. Compressed Sensing recovers a high-dimensional signal using random measurements on a universal basis, such as Fourier transform, wavelet, shearlets, and curvelets. However, if the information is available about the type of signal (such as the image of a human face), it is possible to design optimized sensing locations that are tailored for the particular signals of interest. Moreover, in compressive sensing, real-time reconstruction of the image is difficult due to expensive computational algorithms like orthogonal match pursuit, etc. But, in tailored sensing, PCA/Eigen basis is already computed. Thus, real-time construction is possible, which is very crucial in a surgical scenario.
+### To Do
+[[@Sher2019Review]] 
+[[@Kravets2022Progressive]]
+[[@Wang2022Total]]
+[[@Stern2017Optical]]
+
+### Literature Review
+
+Point scanning vs Switching-mask-based single-pixel cameras.
+
+1. [[@Zhang2021Deep]], [[@Zhang2020Compressed]]UC Davis
+They project a pattern on a small block and then sequentially scan and recover using neural network. Showed demo on classical images.
+
+2. [[@Yuan2021Compressive]] - Not Clear
+it excites a sample with an array of foci, randomly interleaves the scattering projection positions at the entrance of an imaging spectrometer, and then compresses multiple coded spectra into single spectral acquisition channels. SIRI randomly displaces the Raman spectra of adjacent foci that would otherwise be smeared on a detector because of their spectral similarities, which is crucial for an unambiguous and high-fidelity hyperspectral reconstruction.
+
+3. [[@Hu2021Fast]] uses BF Images as a mask. Excellent Idea. Yeast Cells
+
+4. [[@Soldevila2019Fast]] Mouse cerebellum brain, Under sample and then use matrix completion algos.
+
+5.  [[@Zhang2018Dynamic]] supervised approach for chemical API
+
+6. [[@Lin2017Spectroscopic]] fungal cells + uniform pseudo-random scanning scheme by designing a three-dimensional (3D) triangular Lissajous trajectory with a high least common multiplier (LCM) for the axis frequencies.
+
+7. [[@Woringer2017Faster]]  for 3D in z-axis and have sample code.
+
+8. Mouse embryonic fibroblast (MEF) cells and used PSF[[@Pavillon2016Compressed]]
+
+9. [[@Chauffert2014Variable]] proposes random walking and travelling salesman problem.
+
+### Issues and Solutions
+1. Can we use Image Pyramids
+2. Fastest way to matrix multiplane stressgen algo and space librararay?
+3. Eigenspace
+
+###
+1. https://github.com/Adrian-Markelov/IHT-tutorial
+2. https://github.com/vegarant/cilib
+3. https://github.com/DIPlib/diplib
 
 ### Compressive Sensing
 The mathematical framework is as follows:
@@ -36,31 +73,12 @@ $$𝑥= Ψ_{r}𝑎$$(9)
 ![[face.png]]
 
 
-### Literature Review
-
-Point scanning vs Switching-mask-based single-pixel cameras.
-
-1. [[@Zhang2021Deep]] UC Davis
-They project a pattern on a small block and then sequentially scan and recover using neural network. Showed demo on classical images.
-
-2. [[@Yuan2021Compressive]] - Not Clear
-it excites a sample with an array of foci, randomly interleaves the scattering projection positions at the entrance of an imaging spectrometer, and then compresses multiple coded spectra into single spectral acquisition channels. SIRI randomly displaces the Raman spectra of adjacent foci that would otherwise be smeared on a detector because of their spectral similarities, which is crucial for an unambiguous and high-fidelity hyperspectral reconstruction.
-
-3. [[@Hu2021Fast]] uses BFImages. 
-5. [[@zhang2020]]
-6. [[@soldevila2019]]
-7. Mouse cerebellum brain [[@soldevila2019]]
-8. Chemical compound [[@zhang2018a]].
-9. [[@woringer2017]]
-10. fungal cells [[@lin2017]]. 
-11. [[@Woringer2017Faster]]
-12. Mouse embryonic fibroblast (MEF) cells [[@pavillon2016]].
 
 
-###
-1. https://github.com/Adrian-Markelov/IHT-tutorial
-2. https://github.com/vegarant/cilib
-3. https://github.com/DIPlib/diplib
+
+
+
+
 
 
 
