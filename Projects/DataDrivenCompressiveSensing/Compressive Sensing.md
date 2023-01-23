@@ -1,3 +1,22 @@
+## No Prior Data
+
+### Goal 
+To improve the temporal resolution of confocal laser scanning fluorescence microscopy by compressive sensing when no prior data is available.
+
+### Key Bottleneck
+As the resolution of the image increase, the computation gets harder. So, we need methodologies way to solve it.
+
+### Methodologies
+-   Better framing of the optimization problem like PSF
+-   multi-resolution
+-   context aware 
+-  scanning strategy
+
+
+## Prior Data Available
+1.  
+
+
 
 ### To Do
 [[@Sher2019Review]] 

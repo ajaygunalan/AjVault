@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "03891291630007be",
+        "id": "de7f858c933a8ec5",
         "type": "tabs",
         "children": [
           {
-            "id": "a0782bcf6016757a",
+            "id": "e9c3266a9be44fcc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -156,17 +156,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a0782bcf6016757a",
+  "active": "e9c3266a9be44fcc",
   "lastOpenFiles": [
-    "Welcome! 👋.md",
+    "References/@Stern2017Optical.md",
     "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md",
+    "Welcome! 👋.md",
     "References/@Pavillon2016Compressed.md",
     "References/@Lin2017Spectroscopic.md",
     "Projects/VisualTracking/Image-Guided Laser Surgery.md",
     "@pavillon2016.md",
     "Blog/The next paradigm shift in robotics.md",
     "References/@Zhang2018Dynamic.md",
-    "References/@zhang2018a.md",
-    "References/@Soldevila2019Fast.md"
+    "References/@zhang2018a.md"
   ]
 }

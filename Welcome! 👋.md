@@ -18,7 +18,7 @@ Right now, I’m a Ph.D. student at the [Italian Institute of Technology](https
 
 ### Projects
 - [[Endoscopy Imaging Sensor]]
-- [[Projects/DataDrivenCompressiveSensing/Compressive Sensing]]
+- [[Compressive Sensing]]
 - [[Image-Guided Laser Surgery]]
 
 
