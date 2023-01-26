@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "65bb5085152f0bd0",
+        "id": "317fc2c3c9b63f57",
         "type": "tabs",
         "children": [
           {
-            "id": "5aaf21568d16a141",
+            "id": "60421b2dfcc2b1b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md",
+                "file": "Welcome! 👋.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md",
+                "file": "Welcome! 👋.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md"
+                "file": "Welcome! 👋.md"
               }
             }
           },
@@ -138,8 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,17 +155,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5aaf21568d16a141",
+  "active": "60421b2dfcc2b1b5",
   "lastOpenFiles": [
-    "References/@Zhang2020Compressed.md",
-    "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md",
     "Welcome! 👋.md",
+    "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md",
+    "References/@NeifeldOptical.md",
+    "Projects/EndoOCT/Endoscopy Imaging Sensor.md",
+    "Projects/EndoOCT/Scanning Fiber Endoscope.md",
+    "References/@Zhang2020Compressed.md",
     "References/@Pavillon2016Compressed.md",
     "References/@Lin2017Spectroscopic.md",
     "Projects/VisualTracking/Image-Guided Laser Surgery.md",
-    "@pavillon2016.md",
-    "Blog/The next paradigm shift in robotics.md",
-    "References/@Zhang2018Dynamic.md",
-    "References/@zhang2018a.md"
+    "@pavillon2016.md"
   ]
 }

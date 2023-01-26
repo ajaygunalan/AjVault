@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Welcome! 👋",
+      "path": "Welcome! 👋.md"
+    },
+    {
       "basename": "Compressive Sensing",
       "path": "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md"
     },
     {
-      "basename": "@Zhang2020Compressed",
-      "path": "References/@Zhang2020Compressed.md"
+      "basename": "@NeifeldOptical",
+      "path": "References/@NeifeldOptical.md"
     },
     {
-      "basename": "Welcome! 👋",
-      "path": "Welcome! 👋.md"
+      "basename": "Endoscopy Imaging Sensor",
+      "path": "Projects/EndoOCT/Endoscopy Imaging Sensor.md"
+    },
+    {
+      "basename": "Scanning Fiber Endoscope",
+      "path": "Projects/EndoOCT/Scanning Fiber Endoscope.md"
+    },
+    {
+      "basename": "@Zhang2020Compressed",
+      "path": "References/@Zhang2020Compressed.md"
     },
     {
       "basename": "@Stern2017Optical",

@@ -1,3 +1,22 @@
+
+
+## Intro
+
+Optimization based CS vs Learning Based CS[[@Zhang2018ISTANet]].
+
+
+
+[[@Marcia2011Compressed]] 
+
+
+
+and [[@Duarte2008Singlepixel]]
+
+Principal Component vs Pesudo-Random [[@NeifeldOptical]].
+
+
+
+
 ## No Prior Data
 
 ### Goal 
