@@ -1,29 +1,31 @@
 
 
 ## Intro
+Compressive sensing enables the sub-Nyquist data acquisition. Typically, it is implemented on hardware using a Digital Micro mirror Device (DMD) or Coded Aperture [[@Marcia2011Compressed]], [[@Duarte2008Singlepixel]]. Further details on optical architecture for compressive sensing can be found at [[@NeifeldOptical]] where the author details about principal components and pseudo-random projections.  Also, they can be further classified as (No prior data) Optimization-based CS vs (prior data)Learning Based CS[[@Zhang2018ISTANet]].
 
-Optimization based CS vs Learning Based CS[[@Zhang2018ISTANet]].
-
-
-
-[[@Marcia2011Compressed]] 
+##  Optimization-based 
+The usage of DMD or Coded aperture is used to implement CS prohibits its application to use in std. laser scanning systems such as confocal microscopy and OCT. Hence, in this work, we focus on a compressive sensing framework that can be applied to std. laser scanning setup with no optical modification.
 
 
+In ref [[@Sher2019Review]], TVAL and 
 
-and [[@Duarte2008Singlepixel]]
+## Relevant work (Interesting work)
+Pavilion et al. in 2016 is the first work to implement on std. Laser scanning system without using DMD and coded aperture. [[@Pavillon2016Compressed]]. They showed that by including the point spread function of the microscope in the optimization, it is possible to extend cs to std. Laser scanning system. (Need to find it cons!)
 
-Principal Component vs Pesudo-Random [[@NeifeldOptical]].
+In 2018, Francis et al. [[@Francis2018Multiresolutionbased]] used a multi-resolution approach where a low-resolution image is used to estimate a compensation term in the regularize term leading to better reconstruction.  However, this work was not implemented on the hardware.
+
+In 2021, Hu et al. showed that we can vary the sampling density using bright field images to get better reconstruction [[@Hu2021Fast]]. (Need to find it cons!)
+
+## Our contribution
+Implement on the hardware by combining PSF ([[@Pavillon2016Compressed]]) + Multi-resolution [[@Francis2018Multiresolutionbased]] + Intelligent sampling [[@Hu2021Fast]]  with the goal of obtaining better and faster reconstruction, enabling faster data acquisition for confocal laser scanning microscope.
 
 
 
 
-## No Prior Data
-
-### Goal 
-To improve the temporal resolution of confocal laser scanning fluorescence microscopy by compressive sensing when no prior data is available.
 
 ### Key Bottleneck
-As the resolution of the image increase, the computation gets harder. So, we need methodologies way to solve it.
+- As the resolution of the image increase, the computation gets harder and the reconstruction suffers. So, we need methodologies way to solve it.
+- 
 
 ### Methodologies
 - Better framing of the optimization problem like PSF

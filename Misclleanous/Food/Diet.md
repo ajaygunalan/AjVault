@@ -14,15 +14,16 @@
 
 ### Plan
 
-| Day     | Meal   |
-| ------- | ------ |
-| Sun     | Meal 1 |
-| Mon/Gym |        |
-| Tue     | Meal 2 |
-| Wed/Gym |        |
-| Thur    | Meal 3 |
-| Fri/Gym |        |
-| Sat     | Random |
+| Food      | Qty      | Protein |
+| --------- | -------- | ------- |
+| Egg       | 4        | 50      |
+| Milk      | 250      | 10      |
+| Tofu      | 200      | 25      |
+| Peanuts   | 100      | 25      |
+| P. Powder | 2 Scoops | 40      |
+| Total     |          | 150     |
+
+
 
 ### Other
 

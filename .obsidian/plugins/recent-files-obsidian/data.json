@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Compressive Sensing",
+      "path": "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md"
+    },
+    {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
     },
     {
-      "basename": "Compressive Sensing",
-      "path": "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md"
+      "basename": "Print",
+      "path": "Print.md"
+    },
+    {
+      "basename": "@Hu2021Fast",
+      "path": "References/@Hu2021Fast.md"
+    },
+    {
+      "basename": "Diet",
+      "path": "Misclleanous/Food/Diet.md"
+    },
+    {
+      "basename": "Misclleanous",
+      "path": "Misclleanous/Misclleanous.md"
     },
     {
       "basename": "@NeifeldOptical",
@@ -77,16 +93,8 @@
       "path": "Projects/DataDrivenCompressiveSensing/sampling strategy.md"
     },
     {
-      "basename": "Diet",
-      "path": "Misclleanous/Food/Diet.md"
-    },
-    {
       "basename": "The next paradigm shift in robotics",
       "path": "The next paradigm shift in robotics.md"
-    },
-    {
-      "basename": "Misclleanous",
-      "path": "Misclleanous/Misclleanous.md"
     },
     {
       "basename": "PKM Setup",
