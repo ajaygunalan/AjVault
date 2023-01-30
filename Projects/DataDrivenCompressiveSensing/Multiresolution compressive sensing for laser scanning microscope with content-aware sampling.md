@@ -1,13 +1,54 @@
 
+## Compressive Sensing
+Compressive sensing enables reconstructing of high-dimensional signal $x$ from low-dimensional measurement $y$.
 
-## Intro
-Compressive sensing enables the sub-Nyquist data acquisition. Typically, it is implemented on hardware using a Digital Micro mirror Device (DMD) or Coded Aperture [[@Marcia2011Compressed]], [[@Duarte2008Singlepixel]]. Further details on optical architecture for compressive sensing can be found at [[@NeifeldOptical]] where the author details about principal components and pseudo-random projections.  Also, they can be further classified as (No prior data) Optimization-based CS vs (prior data)Learning Based CS[[@Zhang2018ISTANet]].
+$$y =A\tilde{x}$$
+
+In general, solving for $\tilde{x}$ is an ill-posed problem i.e, no unique solution, and/or the solution is not robust to small data perturbations [[@EstrelaTotal]]. Thus, to make it  a well-posed problem ,we introduce the regularize term $\phi(x)$.
+
+$$\arg \min_{x} \;\; \phi(x) \;\;\; s.t. Ax=y$$ 
+
+Two of the most popular choices for $\phi(x)$ are  $L_1$ norm and Total Variation ($TV$) norm [[@Farnell2019Total]]. 
+
+1. $L_1$:  $\phi(x) = ||x||_{l_1}$
+
+$$\arg \min_{x} \;\; ||u||_{l_1} \;\;\; s.t. Ax=y $$
+
+Where $u = Hx$ and $H$ is the basis (Wavelets, DCT).
+
+2. $TV$:   $\phi(x) = ||x||_{TV}$
+
+ $$||x||_{TV} =  ||\nabla_xx||+ ||\nabla_yx||=\sum_{i=1}^{n_1}\sum_{j=1}^{n_2} |x_{i+1,j}-x_{i,j}|+ |x_{i,j+1}-x_{i,j}|$$
+
+
+A detailed review of various algorithm in $L_1$ norm and $TV$ norm is provided in ref  [[@Sher2019Review]]. TVAL3  by Chengbo Li et al. based on $TV$ [[@LiEfficient]], [[@ZhangEfficienta]] clears stands out the fastest  because it does not require a sparsifying transformation at every step [[@HowlandCompressive]]. 
+
+
+
+
+Typically, it is implemented in hardware using a Digital Micro mirror Device (DMD) as shown in figure below:
+
+
+![[1.png]]
+
+From: [[@HowlandCompressive]]
+or Coded Aperture [[@Marcia2011Compressed]], [[@Duarte2008Singlepixel]]. Further details on optical architecture for compressive sensing can be found at [[@NeifeldOptical]] where the author details about principal components and pseudo-random projections.  Also, they can be further classified as (No prior data) Optimization-based CS vs (prior data)Learning Based CS[[@Zhang2018ISTANet]].
 
 ##  Optimization-based 
 The usage of DMD or Coded aperture is used to implement CS prohibits its application to use in std. laser scanning systems such as confocal microscopy and OCT. Hence, in this work, we focus on a compressive sensing framework that can be applied to std. laser scanning setup with no optical modification.
 
 
+The comparisons between algorithms for total variation and $L_1$ minimization is detailed in reference [[@Sher2019Review]]. TVAL is nearly three times as fast as NESTA and ten times faster than L1 Magic, so it is the obvious choice for well-conditioned problems. TVAL’s shortcoming lies in situations where the number of measurements is close to the information limit or when there is significant measurement noise, where the quality of reconstruction decreases rapidly.
+
+In this work , we try to address this by combining PSF+intelligent sampling + structure guide.
+
+
 In ref [[@Sher2019Review]], TVAL and 
+
+
+
+
+
 
 ## Relevant work (Interesting work)
 Pavilion et al. in 2016 is the first work to implement on std. Laser scanning system without using DMD and coded aperture. [[@Pavillon2016Compressed]]. They showed that by including the point spread function of the microscope in the optimization, it is possible to extend cs to std. Laser scanning system. (Need to find it cons!)

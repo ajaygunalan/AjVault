@@ -16,7 +16,7 @@ Right now, I’m a Ph.D. student at the [Italian Institute of Technology](https
 
 ### Projects
 - [[Endoscopy Imaging Sensor]]
-- [[Compressive Sensing]]
+- [[Multiresolution compressive sensing for laser scanning microscope with content-aware sampling]]
 - [[Image-Guided Laser Surgery]]
 
 

@@ -4,22 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "ea401c7725640f7e",
+        "id": "f416327bffe00fde",
         "type": "tabs",
         "children": [
           {
-            "id": "baa1d1531fd675f4",
+            "id": "24b8a2623755729d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md",
+                "file": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "7bfd01cdfc21619b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b647899559cbf7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome! 👋.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "fd2f91b238356b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 241.5,
+    "collapsed": true
   },
   "right": {
     "id": "f807f68ff3e01ed4",
@@ -93,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md",
+                "file": "Welcome! 👋.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md"
+                "file": "Welcome! 👋.md"
               }
             }
           },
@@ -138,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,17 +190,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "baa1d1531fd675f4",
+  "active": "1b647899559cbf7c",
   "lastOpenFiles": [
+    "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
     "Welcome! 👋.md",
-    "Projects/DataDrivenCompressiveSensing/Compressive Sensing.md",
+    "Untitled.md",
     "Print.md",
     "References/@Hu2021Fast.md",
     "Misclleanous/Misclleanous.md",
     "References/@NeifeldOptical.md",
     "Projects/EndoOCT/Endoscopy Imaging Sensor.md",
     "Projects/EndoOCT/Scanning Fiber Endoscope.md",
-    "References/@Zhang2020Compressed.md",
-    "References/@Pavillon2016Compressed.md"
+    "References/@Zhang2020Compressed.md"
   ]
 }
