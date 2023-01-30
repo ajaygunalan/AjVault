@@ -1,10 +1,6 @@
 
 ## Compressive Sensing
-Compressive sensing enables reconstructing of high-dimensional signal $x$ from low-dimensional measurement $y$.
-
-$$y =A\tilde{x}$$
-
-In general, solving for $\tilde{x}$ is an ill-posed problem i.e, no unique solution, and/or the solution is not robust to small data perturbations [[@EstrelaTotal]]. Thus, to make it  a well-posed problem ,we introduce the regularize term $\phi(x)$.
+Compressive sensing enables reconstructing of high-dimensional signal $x$ from low-dimensional measurement $y=A\tilde{x}$. In general, solving for $\tilde{x}$ is an ill-posed problem i.e, no unique solution, and/or the solution is not robust to small data perturbations [[@EstrelaTotal]]. Thus, to make it  a well-posed problem ,we introduce the regularize term ($\phi$).
 
 $$\arg \min_{x} \;\; \phi(x) \;\;\; s.t. Ax=y$$ 
 
@@ -21,10 +17,13 @@ Where $u = Hx$ and $H$ is the basis (Wavelets, DCT).
  $$||x||_{TV} =  ||\nabla_xx||+ ||\nabla_yx||=\sum_{i=1}^{n_1}\sum_{j=1}^{n_2} |x_{i+1,j}-x_{i,j}|+ |x_{i,j+1}-x_{i,j}|$$
 
 
-A detailed review of various algorithm in $L_1$ norm and $TV$ norm is provided in ref  [[@Sher2019Review]]. TVAL3  by Chengbo Li et al. based on $TV$ [[@LiEfficient]], [[@ZhangEfficienta]] clears stands out the fastest  because it does not require a sparsifying transformation at every step [[@HowlandCompressive]]. 
+A detailed review of various algorithms for solving $L_1$ norm and $TV$ norm is provided in ref  [[@Sher2019Review]]. Based on this review paper,  We chose TVAL3  due to its fast reconstruction. TVAL3  stand for Total Variation by Augmented Lagrangian [[@LiEfficient]], [[@ZhangEfficienta]]. 
+It is fast because ?
+
+- because it does not require a sparsifying transformation at every step [[@HowlandCompressive]]. 
 
 
-
+### Optical Architecture
 
 Typically, it is implemented in hardware using a Digital Micro mirror Device (DMD) as shown in figure below:
 

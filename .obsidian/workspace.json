@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "24b8a2623755729d",
+            "id": "7bfd01cdfc21619b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,41 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "7bfd01cdfc21619b",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "1b647899559cbf7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome! 👋.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fd2f91b238356b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -127,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome! 👋.md",
+                "file": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome! 👋.md"
+                "file": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md"
               }
             }
           },
@@ -190,10 +157,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1b647899559cbf7c",
+  "active": "7bfd01cdfc21619b",
   "lastOpenFiles": [
-    "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
     "Welcome! 👋.md",
+    "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
     "Untitled.md",
     "Print.md",
     "References/@Hu2021Fast.md",
