@@ -1,23 +1,13 @@
 
 ## Compressive Sensing
-Compressive sensing enables reconstructing of high-dimensional signal $x$ from low-dimensional measurement $y=A\tilde{x}$. In general, solving for $\tilde{x}$ is an ill-posed problem i.e, no unique solution, and/or the solution is not robust to small data perturbations [[@EstrelaTotal]]. Thus, to make it  a well-posed problem ,we introduce the regularize term ($\phi$).
-
-$$\arg \min_{x} \;\; \phi(x) \;\;\; s.t. Ax=y$$ 
-
-Two of the most popular choices for $\phi(x)$ are  $L_1$ norm and Total Variation ($TV$) norm [[@Farnell2019Total]]. 
-
-1. $L_1$:  $\phi(x) = ||x||_{l_1}$
-
-$$\arg \min_{x} \;\; ||u||_{l_1} \;\;\; s.t. Ax=y $$
-
-Where $u = Hx$ and $H$ is the basis (Wavelets, DCT).
-
-2. $TV$:   $\phi(x) = ||x||_{TV}$
-
- $$||x||_{TV} =  ||\nabla_xx||+ ||\nabla_yx||=\sum_{i=1}^{n_1}\sum_{j=1}^{n_2} |x_{i+1,j}-x_{i,j}|+ |x_{i,j+1}-x_{i,j}|$$
+Compressive sensing enables reconstructing of high-dimensional signal $x$ from low-dimensional measurement $y=A\tilde{x}$. In general, solving for $\tilde{x}$ is an ill-posed problem i.e, no unique solution, and/or the solution is not robust to small data perturbations [[@EstrelaTotal]]. Thus, to make it  a well-posed problem ,we introduce the regularize term ($\phi$) and solve as a optimization problem: $$\arg \min_{x} \;\; \phi(x) \;\;\; s.t. Ax=y$$ 
 
 
-A detailed review of various algorithms for solving $L_1$ norm and $TV$ norm is provided in ref  [[@Sher2019Review]]. Based on this review paper,  We chose TVAL3  due to its fast reconstruction. TVAL3  stand for Total Variation by Augmented Lagrangian [[@LiEfficient]], [[@ZhangEfficienta]]. 
+As explained in [[@Farnell2019Total]], Two of the most popular choices for $\phi(x)$ are : (1) $L_1$ norm where $\phi(x) = ||x||_{l_1}$, $u = Hx$ and $H$ is the basis (Wavelets, DCT).  $$\arg \min_{x} \;\; ||u||_{l_1} \;\;\; s.t. Ax=y $$ and  (2) Total Variation ($TV$) norm where  $\phi(x) = ||x||_{TV}$
+ $$||x||_{TV} =  ||\nabla_xx||+ ||\nabla_yx||=\sum_{i=1}^{n_1}\sum_{j=1}^{n_2} |x_{i+1,j}-x_{i,j}|+ |x_{i,j+1}-x_{i,j}|$$  
+
+
+A detailed review of various algorithms for solving $L_1$ norm and $TV$ norm is provided in ref  [[@Sher2019Review]]. Based on this review paper,  We chose TVAL3  due to its fast reconstruction. TVAL3 (Total Variation Augmented Lagrangian ALternating-direction ALgorithm)  [[@LiEfficient]], [[@ZhangEfficienta]]. 
 It is fast because ?
 
 - because it does not require a sparsifying transformation at every step [[@HowlandCompressive]]. 
