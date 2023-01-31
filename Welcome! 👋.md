@@ -22,6 +22,7 @@ Right now, I’m a Ph.D. student at the [Italian Institute of Technology](https
 
 ### Blog
 - [[Actuators for dexterous and agile robots]]
+- [[Numerical Optimization]]
 - [[The next paradigm shift in robotics]]
 - [[Algorithms for Walking, Running, Swimming, Flying, and Manipulation]]
 - [[Misclleanous]]

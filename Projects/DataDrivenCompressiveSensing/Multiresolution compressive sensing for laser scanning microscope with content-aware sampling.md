@@ -1,5 +1,5 @@
 
-## Compressive Sensing
+## Introduction
 Compressive sensing enables reconstructing of high-dimensional signal $x$ from low-dimensional measurement $y=A\tilde{x}$. In general, solving for $\tilde{x}$ is an ill-posed problem i.e, no unique solution, and/or the solution is not robust to small data perturbations [[@EstrelaTotal]]. Thus, to make it  a well-posed problem ,we introduce the regularize term ($\phi$) and solve as a optimization problem: $$\arg \min_{x} \;\; \phi(x) \;\;\; s.t. Ax=y$$ 
 
 
