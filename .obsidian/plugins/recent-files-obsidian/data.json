@@ -5,20 +5,32 @@
       "path": "Numerical Optimization.md"
     },
     {
-      "basename": "Welcome! 👋",
-      "path": "Welcome! 👋.md"
-    },
-    {
       "basename": "Multiresolution compressive sensing for laser scanning microscope with content-aware sampling",
       "path": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "@trinh2019a",
+      "path": "@trinh2019a.md"
+    },
+    {
+      "basename": "Visual Tracking",
+      "path": "Projects/VisualTracking/Visual Tracking.md"
+    },
+    {
+      "basename": "Image-Guided Laser Surgery",
+      "path": "Projects/VisualTracking/Image-Guided Laser Surgery.md"
+    },
+    {
+      "basename": "Welcome! 👋",
+      "path": "Welcome! 👋.md"
     },
     {
       "basename": "Print",
       "path": "Print.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Untitled.md"
     },
     {
       "basename": "@Hu2021Fast",
@@ -63,10 +75,6 @@
     {
       "basename": "@Lin2017Spectroscopic",
       "path": "References/@Lin2017Spectroscopic.md"
-    },
-    {
-      "basename": "Image-Guided Laser Surgery",
-      "path": "Projects/VisualTracking/Image-Guided Laser Surgery.md"
     },
     {
       "basename": "@Zhang2018Dynamic",

@@ -19,7 +19,8 @@
     "sub-nyquist",
     "sparsifying",
     "ALgorithm",
-    "ALternating-direction"
+    "ALternating-direction",
+    "Broyden"
   ],
   "strictLineBreaks": false,
   "showLineNumber": true,
