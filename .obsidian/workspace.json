@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "174db2c5ccd1bc3d",
+        "id": "52d431698fae26cb",
         "type": "tabs",
         "children": [
           {
-            "id": "568e8be2bf3f54ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Numerical Optimization.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "30f5254613b10e87",
+            "id": "715a15d37e1a5829",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "315eb318e90bf9cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Matrix multiplication.md",
                 "mode": "preview",
                 "source": true
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Numerical Optimization.md",
+                "file": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Numerical Optimization.md"
+                "file": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md"
               }
             }
           },
@@ -169,17 +169,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "568e8be2bf3f54ef",
+  "active": "715a15d37e1a5829",
   "lastOpenFiles": [
+    "Matrix multiplication.md",
     "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
+    "Welcome! 👋.md",
     "Numerical Optimization.md",
     "@trinh2019a.md",
     "Projects/VisualTracking/Visual Tracking.md",
     "Projects/VisualTracking/Image-Guided Laser Surgery.md",
-    "Welcome! 👋.md",
     "Print.md",
     "Untitled.md",
-    "References/@Hu2021Fast.md",
-    "Misclleanous/Misclleanous.md"
+    "References/@Hu2021Fast.md"
   ]
 }
