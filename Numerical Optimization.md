@@ -65,9 +65,8 @@ After $n$ iterations $B^n = (H^k)^{-1}$ . The two ways to update are BFS (Davido
 
 [[pdf](https://ajaygunalan.github.io/assets/optimisation/lec17quasiNewton.pdf), [video](https://www.youtube.com/watch?v=XpPvsMhxwSM&list=PL6EA0722B99332589&index=18)]
 
-## Co-ordinate Descent Method
+## Coordinate & Conjugate Descent
 
-## 
 
 
 

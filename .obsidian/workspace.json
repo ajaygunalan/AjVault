@@ -4,28 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "52d431698fae26cb",
+        "id": "d2e0b8f3e6fa1571",
         "type": "tabs",
         "children": [
           {
-            "id": "715a15d37e1a5829",
+            "id": "4949f1d1e722d794",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5a3d9d85e69ac3d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "References/@NeifeldOptical.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "315eb318e90bf9cd",
+            "id": "60d8a2135d0d55f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix multiplication.md",
+                "file": "References/@Duarte2008Singlepixel.md",
                 "mode": "preview",
                 "source": true
               }
@@ -89,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5,
-    "collapsed": true
+    "width": 241.5
   },
   "right": {
     "id": "f807f68ff3e01ed4",
@@ -165,21 +176,21 @@
       "audio-recorder:Start/stop recording": false,
       "publish:Publish changes": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "715a15d37e1a5829",
+  "active": "4949f1d1e722d794",
   "lastOpenFiles": [
-    "Matrix multiplication.md",
+    "References/@NeifeldOptical.md",
     "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
+    "References/@Duarte2008Singlepixel.md",
+    "References/@Marcia2011Compressed.md",
+    "References/@ZhangEfficienta.md",
+    "References/@LiEfficient.md",
+    "References/@Sher2019Review.md",
+    "References/@EstrelaTotal.md",
     "Welcome! 👋.md",
-    "Numerical Optimization.md",
-    "@trinh2019a.md",
-    "Projects/VisualTracking/Visual Tracking.md",
-    "Projects/VisualTracking/Image-Guided Laser Surgery.md",
-    "Print.md",
-    "Untitled.md",
-    "References/@Hu2021Fast.md"
+    "Matrix multiplication.md"
   ]
 }

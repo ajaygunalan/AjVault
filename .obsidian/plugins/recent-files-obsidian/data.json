@@ -5,8 +5,32 @@
       "path": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md"
     },
     {
-      "basename": "Matrix multiplication",
-      "path": "Matrix multiplication.md"
+      "basename": "@NeifeldOptical",
+      "path": "References/@NeifeldOptical.md"
+    },
+    {
+      "basename": "@Duarte2008Singlepixel",
+      "path": "References/@Duarte2008Singlepixel.md"
+    },
+    {
+      "basename": "@Marcia2011Compressed",
+      "path": "References/@Marcia2011Compressed.md"
+    },
+    {
+      "basename": "@ZhangEfficienta",
+      "path": "References/@ZhangEfficienta.md"
+    },
+    {
+      "basename": "@LiEfficient",
+      "path": "References/@LiEfficient.md"
+    },
+    {
+      "basename": "@Sher2019Review",
+      "path": "References/@Sher2019Review.md"
+    },
+    {
+      "basename": "@EstrelaTotal",
+      "path": "References/@EstrelaTotal.md"
     },
     {
       "basename": "Welcome! 👋",
@@ -15,6 +39,10 @@
     {
       "basename": "Numerical Optimization",
       "path": "Numerical Optimization.md"
+    },
+    {
+      "basename": "Matrix multiplication",
+      "path": "Matrix multiplication.md"
     },
     {
       "basename": "@trinh2019a",
@@ -47,10 +75,6 @@
     {
       "basename": "Misclleanous",
       "path": "Misclleanous/Misclleanous.md"
-    },
-    {
-      "basename": "@NeifeldOptical",
-      "path": "References/@NeifeldOptical.md"
     },
     {
       "basename": "Endoscopy Imaging Sensor",
