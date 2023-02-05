@@ -5,6 +5,10 @@
       "path": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md"
     },
     {
+      "basename": "Welcome! 👋",
+      "path": "Welcome! 👋.md"
+    },
+    {
       "basename": "@NeifeldOptical",
       "path": "References/@NeifeldOptical.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "@EstrelaTotal",
       "path": "References/@EstrelaTotal.md"
-    },
-    {
-      "basename": "Welcome! 👋",
-      "path": "Welcome! 👋.md"
     },
     {
       "basename": "Numerical Optimization",
