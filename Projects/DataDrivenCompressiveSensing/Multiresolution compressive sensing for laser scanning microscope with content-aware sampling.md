@@ -66,7 +66,7 @@ In this work , we try to address this combining PSF ([[@Pavillon2016Compressed]]
 
 ## Prior Data Available
 
-![[inverseProb.png]]
+![[Projects/inverseProb.png]]
 Image from: [[@Bhandari2022Computational]]
 
 

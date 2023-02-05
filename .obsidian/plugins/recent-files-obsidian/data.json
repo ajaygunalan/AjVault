@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Multiresolution compressive sensing for laser scanning microscope with content-aware sampling",
-      "path": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md"
+      "basename": "Numerical Optimization",
+      "path": "Numerical Optimization.md"
+    },
+    {
+      "basename": "Matrix multiplication",
+      "path": "Blog/Matrix multiplication.md"
+    },
+    {
+      "basename": "inverseProb",
+      "path": "Projects/inverseProb.png"
+    },
+    {
+      "basename": "@trinh2019a",
+      "path": "References/@trinh2019a.md"
     },
     {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
+    },
+    {
+      "basename": "Multiresolution compressive sensing for laser scanning microscope with content-aware sampling",
+      "path": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md"
     },
     {
       "basename": "@NeifeldOptical",
@@ -37,32 +53,12 @@
       "path": "References/@EstrelaTotal.md"
     },
     {
-      "basename": "Numerical Optimization",
-      "path": "Numerical Optimization.md"
-    },
-    {
-      "basename": "Matrix multiplication",
-      "path": "Matrix multiplication.md"
-    },
-    {
-      "basename": "@trinh2019a",
-      "path": "@trinh2019a.md"
-    },
-    {
       "basename": "Visual Tracking",
       "path": "Projects/VisualTracking/Visual Tracking.md"
     },
     {
       "basename": "Image-Guided Laser Surgery",
       "path": "Projects/VisualTracking/Image-Guided Laser Surgery.md"
-    },
-    {
-      "basename": "Print",
-      "path": "Print.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Untitled.md"
     },
     {
       "basename": "@Hu2021Fast",
@@ -191,10 +187,6 @@
     {
       "basename": "Fully-actuated vs Underactuated Systems",
       "path": "Blog/UnderactuatedRobotics/Fully-actuated vs Underactuated Systems.md"
-    },
-    {
-      "basename": "The next paradigm shift in robotics?",
-      "path": "The next paradigm shift in robotics?.md"
     }
   ],
   "omittedPaths": [],

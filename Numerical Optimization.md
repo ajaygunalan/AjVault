@@ -3,7 +3,7 @@
 - [youtube playlist](https://www.youtube.com/playlist?list=PL6EA0722B99332589)
 - [slides and transcript](https://nptel.ac.in/courses/106108056)
 
-I assume you know, gradient of f(x) = 0 and Hessian f''(x) < 0 at minimum point.
+I assume you know, gradient of $f(x) = 0$ and Hessian $f''(x) \; or \; H < 0$  at minimum point.
 
 ## Line Search Techniques
 
@@ -67,8 +67,11 @@ After $n$ iterations $B^n = (H^k)^{-1}$ . The two ways to update are BFS (Davido
 
 ## Coordinate & Conjugate Descent
 
+if $f(x)$ is like $4x^2_1 +x^2_2$ then for every coordinate minimize
+$f(x)$  w.r.t.  $x_i$ , keeping the other coordinate variables constant. 
+
+if $f(x)$ is like  $4x^2_1 +x^2_2 - 2x_1x_2$. Then , we need to transform into **conjugate basis** $d_1, d_2, ...,d_n$ which are linearly independent and $d_iHd_j \ne 0 \; \forall \; i \ne j$ . If $H$ is symmetric one set of such vectors are eigenvectors. 
 
 
-
-[video](https://www.youtube.com/watch?v=H6CCJ5c3WQw&list=PL6EA0722B99332589&index=16)
+[[video](https://www.youtube.com/watch?v=ih6z8Gi1MlY&list=PL6EA0722B99332589&index=18)]
  

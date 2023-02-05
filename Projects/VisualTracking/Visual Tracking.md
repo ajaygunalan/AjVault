@@ -1,5 +1,5 @@
 ### Problem Statement 
-Track a **weakly textured** region defined by surgeon in an endoscopic image under challenging illumination in real-time. Census, NDD and their own algorithms seems best to tackle these scenarios [[@trinh2019a]].
+Track a **weakly textured** region defined by surgeon in an endoscopic image under challenging illumination in real-time. Census, NDD and their own algorithms seems best to tackle these scenarios [[References/@trinh2019a]].
 
 
 ### Approach

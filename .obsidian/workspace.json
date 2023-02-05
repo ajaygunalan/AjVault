@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a4a6745d188167b4",
+        "id": "640ec4f0355be544",
         "type": "tabs",
         "children": [
           {
-            "id": "f42dfbf242dbf516",
+            "id": "ca8a60309f1e87d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
-                "mode": "source",
+                "file": "Numerical Optimization.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 241.5
+    "width": 239.5
   },
   "right": {
     "id": "f807f68ff3e01ed4",
@@ -93,9 +93,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
-                "collapseAll": true,
-                "extraContext": false,
+                "file": "Numerical Optimization.md",
+                "collapseAll": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md"
+                "file": "Numerical Optimization.md"
               }
             }
           },
@@ -133,13 +133,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,17 +154,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f42dfbf242dbf516",
+  "active": "ca8a60309f1e87d0",
   "lastOpenFiles": [
-    "Welcome! 👋.md",
-    "References/@NeifeldOptical.md",
-    "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
-    "References/@Duarte2008Singlepixel.md",
-    "References/@Marcia2011Compressed.md",
-    "References/@ZhangEfficienta.md",
-    "References/@LiEfficient.md",
-    "References/@Sher2019Review.md",
-    "References/@EstrelaTotal.md",
-    "Matrix multiplication.md"
+    "Blog/Matrix multiplication.md",
+    "Print.md",
+    "stdCS.png",
+    "Untitled.md",
+    "opticalArchitectForCS.png",
+    "Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.pdf",
+    "Projects/inverseProb.png",
+    "1.png",
+    "References/@trinh2019a.md",
+    "Welcome! 👋.md"
   ]
 }
