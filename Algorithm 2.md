@@ -1,0 +1,11 @@
+-  Initialize $0 < \delta, \rho, \eta <1$ and starting point $w_{i,0}, u_0$
+- Set $Q_0 =1$ and $C_0 = \mathcal{L_A}(w_i, u)$
+- **While** inner stopping criteria unsatisfied **Do** 
+	- Compute $w_{i, k+1}$ using *shrinkage-like formula*
+	- Set $\alpha_k$ through BB-like formula
+	- **While** nonmonotone Armijo condition unsatisfied Do
+		- Backtrack $\alpha_k = \rho\alpha_k;$
+	- **End Do**
+	- Compute $u_{k+1}$ by *one-step steepest descent method*
+	- Set $C_{k+1}$ according to 
+- **End Do**

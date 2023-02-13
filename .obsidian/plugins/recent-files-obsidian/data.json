@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Numerical Optimization",
-      "path": "Numerical Optimization.md"
+      "basename": "Algorithm 2",
+      "path": "Algorithm 2.md"
+    },
+    {
+      "basename": "TVAL3",
+      "path": "TVAL3.md"
     },
     {
       "basename": "Matrix multiplication",
       "path": "Blog/Matrix multiplication.md"
     },
     {
-      "basename": "inverseProb",
-      "path": "Projects/inverseProb.png"
-    },
-    {
-      "basename": "@trinh2019a",
-      "path": "References/@trinh2019a.md"
+      "basename": "Numerical Optimization",
+      "path": "Numerical Optimization.md"
     },
     {
       "basename": "Welcome! 👋",
@@ -23,6 +23,18 @@
     {
       "basename": "Multiresolution compressive sensing for laser scanning microscope with content-aware sampling",
       "path": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md"
+    },
+    {
+      "basename": "Daily Must",
+      "path": "Daily Must.md"
+    },
+    {
+      "basename": "inverseProb",
+      "path": "Projects/inverseProb.png"
+    },
+    {
+      "basename": "@trinh2019a",
+      "path": "References/@trinh2019a.md"
     },
     {
       "basename": "@NeifeldOptical",

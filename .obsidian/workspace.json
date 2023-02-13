@@ -4,16 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "640ec4f0355be544",
+        "id": "17dfe6e82a9dc344",
         "type": "tabs",
         "children": [
           {
-            "id": "ca8a60309f1e87d0",
+            "id": "4c1985b2b12a57ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Numerical Optimization.md",
+                "file": "Algorithm 2.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "1f885af216f76b9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Blog/Matrix multiplication.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Numerical Optimization.md",
+                "file": "Algorithm 2.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Numerical Optimization.md"
+                "file": "Algorithm 2.md"
               }
             }
           },
@@ -133,11 +145,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,17 +168,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ca8a60309f1e87d0",
+  "active": "4c1985b2b12a57ed",
   "lastOpenFiles": [
+    "TVAL3.md",
     "Blog/Matrix multiplication.md",
+    "Numerical Optimization.md",
+    "Welcome! 👋.md",
+    "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
     "Print.md",
     "stdCS.png",
-    "Untitled.md",
+    "Daily Must.md",
     "opticalArchitectForCS.png",
-    "Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.pdf",
-    "Projects/inverseProb.png",
-    "1.png",
-    "References/@trinh2019a.md",
-    "Welcome! 👋.md"
+    "Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.pdf"
   ]
 }

@@ -73,5 +73,25 @@ $f(x)$  w.r.t.  $x_i$ , keeping the other coordinate variables constant.
 if $f(x)$ is like  $4x^2_1 +x^2_2 - 2x_1x_2$. Then , we need to transform into **conjugate basis** $d_1, d_2, ...,d_n$ which are linearly independent and $d_iHd_j \ne 0 \; \forall \; i \ne j$ . If $H$ is symmetric one set of such vectors are eigenvectors. 
 
 
-[[video](https://www.youtube.com/watch?v=ih6z8Gi1MlY&list=PL6EA0722B99332589&index=18)]
+- Expanding subspace Theorem.
+- How do we construct the $H$-conjugate directions ?
+- Given the $H$-conjugate directions,  $d_1, d_2, ...,d_n$, how do
+we determine $\alpha_k$ where $\alpha_k = \arg \min_{\alpha} f(x^k +\alpha d^k)$ ? (Fletcher-Reeves method)
+
+[Difference between quasi-netwon and conjugate methods](https://youtu.be/pjcq2y1cA-4?list=PL6EA0722B99332589&t=2987)
+
+
+[[video 1](https://www.youtube.com/watch?v=ih6z8Gi1MlY&list=PL6EA0722B99332589&index=18), [video 2](https://www.youtube.com/watch?v=pjcq2y1cA-4&list=PL6EA0722B99332589&index=19)]
+
+
+## Penalty Methods
+Convert constrained into unconstrained by penalizing the constraint. 
+
+## Duality
+
+[Duality](https://www.youtube.com/playlist?list=PL10NOnsbP5Q61XSVk-3yNOY2qLI-wTM6k)
+## Augmented Lagrangian Method
+
+
+[video-22](https://www.youtube.com/watch?v=4f2mx7UteIU&list=PL3ZrjaBngMS0mTSoMsy7P6rTFSgsmsMw3&index=22), [video-23](https://www.youtube.com/watch?v=X0Vbq5RUoZA&list=PL3ZrjaBngMS0mTSoMsy7P6rTFSgsmsMw3&index=23), [video-24](https://www.youtube.com/watch?v=Ga7Ok3rmf44&list=PL3ZrjaBngMS0mTSoMsy7P6rTFSgsmsMw3&index=24), [video-25](https://www.youtube.com/watch?v=yTU8rdHKVRQ&list=PL3ZrjaBngMS0mTSoMsy7P6rTFSgsmsMw3&index=25)
  
