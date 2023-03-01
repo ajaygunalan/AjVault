@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "17dfe6e82a9dc344",
+        "id": "af0291e89e6ce6e2",
         "type": "tabs",
         "children": [
           {
-            "id": "4c1985b2b12a57ed",
+            "id": "27e490596581ecc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm 2.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "1f885af216f76b9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blog/Matrix multiplication.md",
+                "file": "TVAL3.md",
                 "mode": "preview",
                 "source": true
               }
@@ -61,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shift",
+                "query": "matrix",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -105,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm 2.md",
+                "file": "TVAL3.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -130,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algorithm 2.md"
+                "file": "TVAL3.md"
               }
             }
           },
@@ -168,17 +156,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4c1985b2b12a57ed",
+  "active": "27e490596581ecc5",
   "lastOpenFiles": [
-    "TVAL3.md",
-    "Blog/Matrix multiplication.md",
-    "Numerical Optimization.md",
+    "Misclleanous/PKM Setup.md",
+    "Computational design of an MEMS based endoscopic probe for OCT-guided endoscopic laser surgery.md",
+    "References/@2019Endoscopic.md",
+    "Misclleanous/Misclleanous.md",
     "Welcome! 👋.md",
+    "References/@Boppart2001RealTime.md",
+    "TVAL3.md",
+    "Algorithm 2.md",
+    "Numerical Optimization.md",
     "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
-    "Print.md",
-    "stdCS.png",
-    "Daily Must.md",
-    "opticalArchitectForCS.png",
-    "Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.pdf"
+    "References/@Bothner2019Compact.md",
+    "References/@York2021Microrobotic.md",
+    "References/@Aidukas2019Lowcost.md",
+    "Blog/Matrix multiplication.md",
+    "Projects/EndoOCT/Endoscopy Imaging Sensor.md",
+    "Projects/EndoOCT/Scanning Fiber Endoscope.md",
+    "Design and simulation of nanoscope probe for OCT-guided laser surgery.md"
   ]
 }

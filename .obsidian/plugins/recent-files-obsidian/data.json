@@ -1,28 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Algorithm 2",
-      "path": "Algorithm 2.md"
-    },
-    {
       "basename": "TVAL3",
       "path": "TVAL3.md"
     },
     {
-      "basename": "Matrix multiplication",
-      "path": "Blog/Matrix multiplication.md"
+      "basename": "PKM Setup",
+      "path": "Misclleanous/PKM Setup.md"
     },
     {
-      "basename": "Numerical Optimization",
-      "path": "Numerical Optimization.md"
+      "basename": "Computational design of an MEMS based endoscopic probe for OCT-guided endoscopic laser surgery",
+      "path": "Computational design of an MEMS based endoscopic probe for OCT-guided endoscopic laser surgery.md"
+    },
+    {
+      "basename": "Misclleanous",
+      "path": "Misclleanous/Misclleanous.md"
     },
     {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
     },
     {
+      "basename": "Algorithm 2",
+      "path": "Algorithm 2.md"
+    },
+    {
+      "basename": "Numerical Optimization",
+      "path": "Numerical Optimization.md"
+    },
+    {
       "basename": "Multiresolution compressive sensing for laser scanning microscope with content-aware sampling",
       "path": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md"
+    },
+    {
+      "basename": "@York2021Microrobotic",
+      "path": "References/@York2021Microrobotic.md"
+    },
+    {
+      "basename": "@Aidukas2019Lowcost",
+      "path": "References/@Aidukas2019Lowcost.md"
+    },
+    {
+      "basename": "Matrix multiplication",
+      "path": "Blog/Matrix multiplication.md"
+    },
+    {
+      "basename": "Diet",
+      "path": "Misclleanous/Food/Diet.md"
+    },
+    {
+      "basename": "Endoscopy Imaging Sensor",
+      "path": "Projects/EndoOCT/Endoscopy Imaging Sensor.md"
+    },
+    {
+      "basename": "Scanning Fiber Endoscope",
+      "path": "Projects/EndoOCT/Scanning Fiber Endoscope.md"
+    },
+    {
+      "basename": "Humanoid",
+      "path": "Projects/00Past/Humanoid.md"
+    },
+    {
+      "basename": "Medical Device",
+      "path": "Projects/00Past/Medical Device.md"
     },
     {
       "basename": "Daily Must",
@@ -77,22 +117,6 @@
       "path": "References/@Hu2021Fast.md"
     },
     {
-      "basename": "Diet",
-      "path": "Misclleanous/Food/Diet.md"
-    },
-    {
-      "basename": "Misclleanous",
-      "path": "Misclleanous/Misclleanous.md"
-    },
-    {
-      "basename": "Endoscopy Imaging Sensor",
-      "path": "Projects/EndoOCT/Endoscopy Imaging Sensor.md"
-    },
-    {
-      "basename": "Scanning Fiber Endoscope",
-      "path": "Projects/EndoOCT/Scanning Fiber Endoscope.md"
-    },
-    {
       "basename": "@Zhang2020Compressed",
       "path": "References/@Zhang2020Compressed.md"
     },
@@ -145,10 +169,6 @@
       "path": "The next paradigm shift in robotics.md"
     },
     {
-      "basename": "PKM Setup",
-      "path": "Misclleanous/PKM Setup.md"
-    },
-    {
       "basename": "Other-Blogs",
       "path": "Misclleanous/Other-Blogs.md"
     },
@@ -173,32 +193,12 @@
       "path": "Misclleanous/images/aj.jpg"
     },
     {
-      "basename": "Humanoid",
-      "path": "Projects/00Past/Humanoid.md"
-    },
-    {
       "basename": "Legged Robot",
       "path": "Projects/00Past/Legged Robot.md"
     },
     {
       "basename": "stoch2leg",
       "path": "Projects/00Past/images/stoch2leg.gif"
-    },
-    {
-      "basename": "Tele-Robotics",
-      "path": "Projects/00Past/Tele-Robotics.md"
-    },
-    {
-      "basename": "Extra",
-      "path": "Blog/UnderactuatedRobotics/Extra.md"
-    },
-    {
-      "basename": "UR Index",
-      "path": "Blog/UnderactuatedRobotics/UR Index.md"
-    },
-    {
-      "basename": "Fully-actuated vs Underactuated Systems",
-      "path": "Blog/UnderactuatedRobotics/Fully-actuated vs Underactuated Systems.md"
     }
   ],
   "omittedPaths": [],

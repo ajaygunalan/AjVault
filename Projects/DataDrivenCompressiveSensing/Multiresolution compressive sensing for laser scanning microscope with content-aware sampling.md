@@ -1,4 +1,34 @@
 
+### PSF 
+
+1. [FIJI (ImageJ): 2D Image Deconvolution ](https://www.youtube.com/watch?v=BwKbL4yD2-0)
+2. [Using different PSFs for Deconvolution (ImageJ/Fiji)](https://www.youtube.com/watch?v=IspHKF4o4Pw)
+3. [Fixing blurry images in Fiji/ImageJ (Deconvolution Lab2 plugin)](https://www.youtube.com/watch?v=u8XOYbiAfCA)
+
+
+### PSF Generation
+1. Optical Model
+2. Refractive Index Immersion
+3. Accuracy computation
+4. Wavelength
+5. NA
+6. Pixelsize XY
+7. Z step
+8. 
+
+
+
+
+### Co2 laser vendor
+1. Polymicro Technologies
+2. laserComponents.com
+
+High power laser requirments ?
+
+
+
+WTF is hollow core waveguide ? How to deisgn high power focusing optics for it.
+
 
 
 ## Prior Data Available
@@ -7,6 +37,11 @@
 Image from: [[@Bhandari2022Computational]]
 
 
+
+
+**Dateset**
+[U2OS](https://bbbc.broadinstitute.org/BBBC022)
+[MCF7](https://bbbc.broadinstitute.org/BBBC021)
 
 ### To Do
 [[@Sher2019Review]] 

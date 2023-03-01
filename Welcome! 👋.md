@@ -15,7 +15,7 @@ Right now, I’m a Ph.D. student at the [Italian Institute of Technology](https
 - [CV](https://ajaygunalan.github.io/assets/ajayg_cv.pdf)
 
 ### Projects
-- [[Endoscopy Imaging Sensor]]
+%% - [[Endoscopy Imaging Sensor]]%%
 - [[Multiresolution compressive sensing for laser scanning microscope with content-aware sampling]]
 - [[Image-Guided Laser Surgery]]
 
@@ -23,6 +23,7 @@ Right now, I’m a Ph.D. student at the [Italian Institute of Technology](https
 ### Blog
 - [[Actuators for dexterous and agile robots]]
 - [[Numerical Optimization]]
+- [[Computational design of an MEMS based endoscopic probe for OCT-guided endoscopic laser surgery]]
 - [[The next paradigm shift in robotics]]
 - [[Algorithms for Walking, Running, Swimming, Flying, and Manipulation]]
 - [[Misclleanous]]
