@@ -12,8 +12,9 @@
 | 9    | [[Tofu Chuka]]                                               |
 | 10   | [[Mushroom Risotto]]                                         |
 | 11   | [Sprouts Curry](https://www.youtube.com/watch?v=FfxaWQPA2i4) |
-| 12   | [[Misclleanous/Food/Lentil Rice]]  |
-|   13   |  [[Misclleanous/Food/Vegetable Fried Rice]]                                                           |
+| 12   | [[Lentil Rice]]                                              |
+| 13   | [[Vegetable Fried Rice]]                                     |
+
 
 ### Plan
 
