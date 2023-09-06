@@ -1,5 +1,6 @@
 [[Other-Blogs]]
-[[Diet]]
+[[Misclleanous/Food/Diet]]
 [[PKM Setup]]
 [[Gym]]
 [[Finance]]
+[[Mobility]]

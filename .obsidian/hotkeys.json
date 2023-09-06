@@ -77,5 +77,13 @@
   ],
   "workspace:new-tab": [],
   "obsidian-excalidraw-plugin:save": [],
-  "obsidian-excalidraw-plugin:insert-link": []
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-prozen:zenmode": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ]
 }

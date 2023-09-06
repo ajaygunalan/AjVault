@@ -1,4 +1,4 @@
-![[Misclleanous/images/ajay.jpeg]]
+![[Misclleanous/images/ajCombined.jpg]]
 
 
 This is my **digital garden**, a.k.a personal knowledge management system.
@@ -7,23 +7,26 @@ This is my **digital garden**, a.k.a personal knowledge management system.
 
 > *What I cannot create, I do not understand — Richard Feynman.*
 
-I'm a **robotics software engineer** who loves developing algorithms for robots by clearly understanding the state of algorithms in **perception, planning and controls**. I find myself happier by supporting others in a diverse team to create impactful technologies.
 
-Right now, I’m a Ph.D. student at the [Italian Institute of Technology](https://iit.it/). My current research focuses on the development of novel laser technologies for surgical robots. My previous experiences include developing  [[Medical Device]], [[Humanoid]], [[Legged Robot]], and [[Tele-Robotics]].
+I’m a Ph.D. student at the [Italian Institute of Technology](https://iit.it/). My current research focuses on the development of novel laser technologies for micro-surgical robots. My previous experiences include developing  [[Medical Device]], [[Humanoid]], [[Legged Robot]], and [[Tele-Robotics]].
+
+My vision is to make healthcare affordable by merging medicine and engineering. In this process, I love working with a diverse team to develop transformative tech and solve new challenges each day.
 
 - **Email**: ajay {dot} gunalan {at} pm {dot} me
 - [CV](https://ajaygunalan.github.io/assets/ajayg_cv.pdf)
 
 ### Projects
-%% - [[Endoscopy Imaging Sensor]]%%
-- [[Multiresolution compressive sensing for laser scanning microscope with content-aware sampling]]
-- [[Image-Guided Laser Surgery]]
 
+- [Towards OCT-Guided Endoscopic Laser Surgery—A Review](https://doi.org/10.3390/diagnostics13040677)
+- [[OCTLaserBot - OCT guided Microsurgical Laser Bot]]
+- [[Optical design and simulation for OCTLaserBot]]
+- [Compressive Image Scanning Microscope](https://arxiv.org/pdf/2307.09841.pdf)
+- [[Optical GPT]]
 
 ### Blog
 - [[Actuators for dexterous and agile robots]]
 - [[Numerical Optimization]]
-- [[Computational design of an MEMS based endoscopic probe for OCT-guided endoscopic laser surgery]]
-- [[The next paradigm shift in robotics]]
-- [[Algorithms for Walking, Running, Swimming, Flying, and Manipulation]]
 - [[Misclleanous]]
+
+
+

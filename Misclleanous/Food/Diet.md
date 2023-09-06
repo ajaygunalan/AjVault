@@ -1,16 +1,19 @@
 ### Recipes
-| S.No | Meal                        |
-| ---- | --------------------------- |
-| 1    | [[Hong Kong Noodles]]       |
-| 2    | [[Single Cooker Sambhar]]   |
-| 3    | [[Pasta]]                   |
-| 4    | [[Palak Tofu]]              |
-| 5    | [[Oats]]                    |
-| 6    | [[Lentil Chutney]] & Chapa. |
-| 7    | [[Mush. Stroganoff  Pasta]] |
-| 8    | [[Soya Briyani]]            |
-| 9    | [[Tofu Chuka]]              |
-| 10   | [[Mushroom Risotto]]   | 
+| S.No | Meal                                                         |
+| ---- | ------------------------------------------------------------ |
+| 1    | [[Hong Kong Noodles]]                                        |
+| 2    | [[Single Cooker Sambhar]]                                    |
+| 3    | [[Pasta]]                                                    |
+| 4    | [[Palak Tofu]]                                               |
+| 5    | [[Oats]]                                                     |
+| 6    | [[Lentil Chutney]] & Chapa.                                  |
+| 7    | [[Mush. Stroganoff  Pasta]]                                  |
+| 8    | [[Soya Briyani]]                                             |
+| 9    | [[Tofu Chuka]]                                               |
+| 10   | [[Mushroom Risotto]]                                         |
+| 11   | [Sprouts Curry](https://www.youtube.com/watch?v=FfxaWQPA2i4) |
+| 12   | [[Misclleanous/Food/Lentil Rice]]  |
+|   13   |  [[Misclleanous/Food/Vegetable Fried Rice]]                                                           |
 
 ### Plan
 

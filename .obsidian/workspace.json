@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "af0291e89e6ce6e2",
+        "id": "7393196a280a7d4f",
         "type": "tabs",
         "children": [
           {
-            "id": "27e490596581ecc5",
+            "id": "800a983b9738cdf3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TVAL3.md",
-                "mode": "preview",
+                "file": "Welcome! 👋.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -31,7 +31,7 @@
       {
         "id": "efe8ca74603050f4",
         "type": "tabs",
-        "dimension": 64.95726495726495,
+        "dimension": 71.11650485436893,
         "children": [
           {
             "id": "fa7a4d769a72cc6e",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matrix",
+                "query": "job",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -57,13 +57,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "1fbb81299c4ae507",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       },
       {
-        "id": "4483b0d326df1466",
+        "id": "6d5be7a65c1a269d",
         "type": "tabs",
-        "dimension": 35.04273504273504,
+        "dimension": 28.88349514563107,
         "children": [
           {
             "id": "ba61f44378ad67ac",
@@ -77,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 260.5
   },
   "right": {
     "id": "f807f68ff3e01ed4",
@@ -93,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TVAL3.md",
+                "file": "Welcome! 👋.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -118,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TVAL3.md"
+                "file": "Welcome! 👋.md"
               }
             }
           },
@@ -143,6 +151,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -150,30 +159,48 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
-      "publish:Publish changes": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "homepage:Open homepage": false
     }
   },
-  "active": "27e490596581ecc5",
+  "active": "800a983b9738cdf3",
   "lastOpenFiles": [
-    "Misclleanous/PKM Setup.md",
-    "Computational design of an MEMS based endoscopic probe for OCT-guided endoscopic laser surgery.md",
-    "References/@2019Endoscopic.md",
-    "Misclleanous/Misclleanous.md",
-    "Welcome! 👋.md",
-    "References/@Boppart2001RealTime.md",
-    "TVAL3.md",
     "Algorithm 2.md",
+    "Welcome! 👋.md",
+    "Optical design and simulation for OCTLaserBot.md",
+    "OCTLaserBot - OCT guided Microsurgical Laser Bot.md",
     "Numerical Optimization.md",
-    "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md",
-    "References/@Bothner2019Compact.md",
-    "References/@York2021Microrobotic.md",
-    "References/@Aidukas2019Lowcost.md",
-    "Blog/Matrix multiplication.md",
-    "Projects/EndoOCT/Endoscopy Imaging Sensor.md",
-    "Projects/EndoOCT/Scanning Fiber Endoscope.md",
-    "Design and simulation of nanoscope probe for OCT-guided laser surgery.md"
+    "Optics.md",
+    "Optics Software.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Misclleanous/Food/Vegetable Fried Rice.md",
+    "Misclleanous/mobility.png",
+    "Mechanical Artifacts in Exoscopic OCT.md",
+    "Misclleanous/Food/Lentil Rice.md",
+    "TVAL3.md",
+    "Misclleanous/Food/Diet.md",
+    "Misclleanous/Food/Recepie/main/Hong Kong Noodles.md",
+    "Misclleanous/Food/Recepie/main/Mush. Stroganoff  Pasta.md",
+    "Misclleanous/Food/Recepie/main/Oats.md",
+    "Misclleanous/Misclleanous.md",
+    "References/@Ray2002Applied.md",
+    "Misclleanous/PKM Setup.md",
+    "Untitled 2.md",
+    "Untitled 3.md",
+    "Misclleanous/Gym.md",
+    "Misclleanous/Mobility.md",
+    "Misclleanous/images/ajVenice.jpeg",
+    "Misclleanous/images/ajCombined.jpg",
+    "Misclleanous/images/ajayHike.jpeg",
+    "New Text Document.txt",
+    "Optical design and simulation for OCT-guided laser surgery.md",
+    "Optical GPT.md",
+    "whatToDo.png",
+    "Excalidraw/Drawing 2023-05-02 15.29.47.excalidraw.png",
+    "Excalidraw/Drawing 2023-05-02 15.29.47.excalidraw.svg",
+    "Misclleanous/Food/Recepie/main/pdf/Palak Tofu.pdf",
+    "Excalidraw"
   ]
 }

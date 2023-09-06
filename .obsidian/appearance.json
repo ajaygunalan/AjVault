@@ -2,9 +2,9 @@
   "baseFontSize": 17,
   "theme": "moonstone",
   "accentColor": "",
-  "cssTheme": "Border",
+  "cssTheme": "",
   "nativeMenus": true,
-  "textFontFamily": "JetBrains Mono",
-  "interfaceFontFamily": "JetBrains Mono",
-  "monospaceFontFamily": "JetBrains Mono"
+  "textFontFamily": "",
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": ""
 }

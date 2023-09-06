@@ -1,22 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "TVAL3",
-      "path": "TVAL3.md"
-    },
-    {
-      "basename": "PKM Setup",
-      "path": "Misclleanous/PKM Setup.md"
-    },
-    {
-      "basename": "Computational design of an MEMS based endoscopic probe for OCT-guided endoscopic laser surgery",
-      "path": "Computational design of an MEMS based endoscopic probe for OCT-guided endoscopic laser surgery.md"
-    },
-    {
-      "basename": "Misclleanous",
-      "path": "Misclleanous/Misclleanous.md"
-    },
-    {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
     },
@@ -25,12 +9,148 @@
       "path": "Algorithm 2.md"
     },
     {
+      "basename": "Optical GPT",
+      "path": "Optical GPT.md"
+    },
+    {
+      "basename": "Optical design and simulation for OCTLaserBot",
+      "path": "Optical design and simulation for OCTLaserBot.md"
+    },
+    {
+      "basename": "OCTLaserBot - OCT guided Microsurgical Laser Bot",
+      "path": "OCTLaserBot - OCT guided Microsurgical Laser Bot.md"
+    },
+    {
       "basename": "Numerical Optimization",
       "path": "Numerical Optimization.md"
     },
     {
-      "basename": "Multiresolution compressive sensing for laser scanning microscope with content-aware sampling",
-      "path": "Projects/DataDrivenCompressiveSensing/Multiresolution compressive sensing for laser scanning microscope with content-aware sampling.md"
+      "basename": "Optics",
+      "path": "Optics.md"
+    },
+    {
+      "basename": "Optics Software",
+      "path": "Optics Software.md"
+    },
+    {
+      "basename": "Vegetable Fried Rice",
+      "path": "Misclleanous/Food/Vegetable Fried Rice.md"
+    },
+    {
+      "basename": "mobility",
+      "path": "Misclleanous/mobility.png"
+    },
+    {
+      "basename": "Lentil Rice",
+      "path": "Misclleanous/Food/Lentil Rice.md"
+    },
+    {
+      "basename": "TVAL3",
+      "path": "TVAL3.md"
+    },
+    {
+      "basename": "Finance",
+      "path": "Misclleanous/Finance.md"
+    },
+    {
+      "basename": "Diet",
+      "path": "Misclleanous/Food/Diet.md"
+    },
+    {
+      "basename": "Hong Kong Noodles",
+      "path": "Misclleanous/Food/Recepie/main/Hong Kong Noodles.md"
+    },
+    {
+      "basename": "Mush. Stroganoff  Pasta",
+      "path": "Misclleanous/Food/Recepie/main/Mush. Stroganoff  Pasta.md"
+    },
+    {
+      "basename": "Oats",
+      "path": "Misclleanous/Food/Recepie/main/Oats.md"
+    },
+    {
+      "basename": "Misclleanous",
+      "path": "Misclleanous/Misclleanous.md"
+    },
+    {
+      "basename": "@Ray2002Applied",
+      "path": "References/@Ray2002Applied.md"
+    },
+    {
+      "basename": "PKM Setup",
+      "path": "Misclleanous/PKM Setup.md"
+    },
+    {
+      "basename": "Gym",
+      "path": "Misclleanous/Gym.md"
+    },
+    {
+      "basename": "Mobility",
+      "path": "Misclleanous/Mobility.md"
+    },
+    {
+      "basename": "ajVenice",
+      "path": "Misclleanous/images/ajVenice.jpeg"
+    },
+    {
+      "basename": "ajCombined",
+      "path": "Misclleanous/images/ajCombined.jpg"
+    },
+    {
+      "basename": "ajayHike",
+      "path": "Misclleanous/images/ajayHike.jpeg"
+    },
+    {
+      "basename": "OCT-guided CALM",
+      "path": "Projects/VisualTracking/OCT-guided CALM.md"
+    },
+    {
+      "basename": "Endoscopy Imaging Sensor",
+      "path": "Projects/EndoOCT/Endoscopy Imaging Sensor.md"
+    },
+    {
+      "basename": "1-D OCT",
+      "path": "Projects/EndoOCT/1-D OCT.md"
+    },
+    {
+      "basename": "Drawing 2023-05-02 15.29.47.excalidraw",
+      "path": "Excalidraw/Drawing 2023-05-02 15.29.47.excalidraw.md"
+    },
+    {
+      "basename": "Palak Tofu",
+      "path": "Misclleanous/Food/Recepie/main/pdf/Palak Tofu.pdf"
+    },
+    {
+      "basename": "Drawing 2023-03-22 13.40.03.excalidraw",
+      "path": "Excalidraw/Drawing 2023-03-22 13.40.03.excalidraw.md"
+    },
+    {
+      "basename": "@Zervas2014High",
+      "path": "References/@Zervas2014High.md"
+    },
+    {
+      "basename": "Humanoid",
+      "path": "Projects/00Past/Humanoid.md"
+    },
+    {
+      "basename": "Drawing 2023-03-16 10.23.38.excalidraw",
+      "path": "Excalidraw/Drawing 2023-03-16 10.23.38.excalidraw.md"
+    },
+    {
+      "basename": "Scanning Fiber Endoscope",
+      "path": "Projects/EndoOCT/Scanning Fiber Endoscope.md"
+    },
+    {
+      "basename": "Ring Magnet",
+      "path": "Projects/EndoOCT/Ring Magnet.md"
+    },
+    {
+      "basename": "Ring Magnet",
+      "path": "Projects/Ring Magnet.md"
+    },
+    {
+      "basename": "Electromagnetic coils",
+      "path": "Projects/EndoOCT/Electromagnetic coils.md"
     },
     {
       "basename": "@York2021Microrobotic",
@@ -45,28 +165,8 @@
       "path": "Blog/Matrix multiplication.md"
     },
     {
-      "basename": "Diet",
-      "path": "Misclleanous/Food/Diet.md"
-    },
-    {
-      "basename": "Endoscopy Imaging Sensor",
-      "path": "Projects/EndoOCT/Endoscopy Imaging Sensor.md"
-    },
-    {
-      "basename": "Scanning Fiber Endoscope",
-      "path": "Projects/EndoOCT/Scanning Fiber Endoscope.md"
-    },
-    {
-      "basename": "Humanoid",
-      "path": "Projects/00Past/Humanoid.md"
-    },
-    {
       "basename": "Medical Device",
       "path": "Projects/00Past/Medical Device.md"
-    },
-    {
-      "basename": "Daily Must",
-      "path": "Daily Must.md"
     },
     {
       "basename": "inverseProb",
@@ -91,114 +191,6 @@
     {
       "basename": "@ZhangEfficienta",
       "path": "References/@ZhangEfficienta.md"
-    },
-    {
-      "basename": "@LiEfficient",
-      "path": "References/@LiEfficient.md"
-    },
-    {
-      "basename": "@Sher2019Review",
-      "path": "References/@Sher2019Review.md"
-    },
-    {
-      "basename": "@EstrelaTotal",
-      "path": "References/@EstrelaTotal.md"
-    },
-    {
-      "basename": "Visual Tracking",
-      "path": "Projects/VisualTracking/Visual Tracking.md"
-    },
-    {
-      "basename": "Image-Guided Laser Surgery",
-      "path": "Projects/VisualTracking/Image-Guided Laser Surgery.md"
-    },
-    {
-      "basename": "@Hu2021Fast",
-      "path": "References/@Hu2021Fast.md"
-    },
-    {
-      "basename": "@Zhang2020Compressed",
-      "path": "References/@Zhang2020Compressed.md"
-    },
-    {
-      "basename": "@Stern2017Optical",
-      "path": "References/@Stern2017Optical.md"
-    },
-    {
-      "basename": "The next paradigm shift in robotics",
-      "path": "Blog/The next paradigm shift in robotics.md"
-    },
-    {
-      "basename": "@Pavillon2016Compressed",
-      "path": "References/@Pavillon2016Compressed.md"
-    },
-    {
-      "basename": "@Lin2017Spectroscopic",
-      "path": "References/@Lin2017Spectroscopic.md"
-    },
-    {
-      "basename": "@Zhang2018Dynamic",
-      "path": "References/@Zhang2018Dynamic.md"
-    },
-    {
-      "basename": "@Soldevila2019Fast",
-      "path": "References/@Soldevila2019Fast.md"
-    },
-    {
-      "basename": "Actuators for dexterous and agile robots",
-      "path": "Blog/Actuators for dexterous and agile robots.md"
-    },
-    {
-      "basename": "Functional Programming",
-      "path": "Blog/Functional Programming.md"
-    },
-    {
-      "basename": "Algorithms for Walking, Running, Swimming, Flying, and Manipulation",
-      "path": "Blog/UnderactuatedRobotics/Algorithms for Walking, Running, Swimming, Flying, and Manipulation.md"
-    },
-    {
-      "basename": "samples for compressive sensing",
-      "path": "Projects/DataDrivenCompressiveSensing/samples for compressive sensing.md"
-    },
-    {
-      "basename": "sampling strategy",
-      "path": "Projects/DataDrivenCompressiveSensing/sampling strategy.md"
-    },
-    {
-      "basename": "The next paradigm shift in robotics",
-      "path": "The next paradigm shift in robotics.md"
-    },
-    {
-      "basename": "Other-Blogs",
-      "path": "Misclleanous/Other-Blogs.md"
-    },
-    {
-      "basename": "Gym",
-      "path": "Misclleanous/Gym.md"
-    },
-    {
-      "basename": "Finance",
-      "path": "Misclleanous/Finance.md"
-    },
-    {
-      "basename": "2",
-      "path": "Misclleanous/images/2.jpeg"
-    },
-    {
-      "basename": "ajay",
-      "path": "Misclleanous/images/ajay.jpeg"
-    },
-    {
-      "basename": "aj",
-      "path": "Misclleanous/images/aj.jpg"
-    },
-    {
-      "basename": "Legged Robot",
-      "path": "Projects/00Past/Legged Robot.md"
-    },
-    {
-      "basename": "stoch2leg",
-      "path": "Projects/00Past/images/stoch2leg.gif"
     }
   ],
   "omittedPaths": [],
