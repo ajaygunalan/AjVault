@@ -1,8 +1,8 @@
 {
   "baseFontSize": 17,
-  "theme": "moonstone",
-  "accentColor": "",
-  "cssTheme": "",
+  "theme": "obsidian",
+  "accentColor": "#dadf8b",
+  "cssTheme": "Simple",
   "nativeMenus": true,
   "textFontFamily": "",
   "interfaceFontFamily": "",

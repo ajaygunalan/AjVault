@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "81c7a73e8d7b7de8",
+        "id": "5e21b9b9f5eb812d",
         "type": "tabs",
         "children": [
           {
-            "id": "2a3a52b37b5ea830",
+            "id": "ab0df91d385131f4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,29 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "b93c35d62226c1c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "24a70270c5435710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers which cite LAPRAN.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -49,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "job",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -101,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome! 👋.md",
+                "file": "Papers which cite LAPRAN.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -126,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome! 👋.md"
+                "file": "Papers which cite LAPRAN.md"
               }
             }
           },
@@ -138,6 +159,16 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "47f861915caf3bb9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -164,17 +195,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2a3a52b37b5ea830",
+  "active": "24a70270c5435710",
   "lastOpenFiles": [
-    "Laser Focusing by Ablation Sound.md",
+    "Papers which cite LAPRAN.md",
     "Welcome! 👋.md",
+    "Blog/Matrix multiplication.md",
+    "Excalidraw/Drawing 2023-05-02 15.29.47.excalidraw.svg",
+    "Excalidraw/Drawing 2023-05-02 15.29.47.excalidraw.png",
+    "Excalidraw/Drawing 2023-05-02 15.29.47.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-22 13.40.03.excalidraw.md",
+    "Excalidraw/Drawing 2023-03-16 10.23.38.excalidraw.md",
+    "Laser Focusing by Ablation Sound.md",
     "Algorithm 2.md",
+    "Untitled.md",
     "Optical design and simulation for OCTLaserBot.md",
     "OCTLaserBot - OCT guided Microsurgical Laser Bot.md",
     "Numerical Optimization.md",
     "Optics.md",
     "Optics Software.md",
-    "Untitled 1.md",
     "Misclleanous/Food/Vegetable Fried Rice.md",
     "Misclleanous/mobility.png",
     "Mechanical Artifacts in Exoscopic OCT.md",
@@ -188,18 +226,11 @@
     "References/@Ray2002Applied.md",
     "Misclleanous/PKM Setup.md",
     "Untitled 2.md",
-    "Untitled 3.md",
-    "Misclleanous/Gym.md",
-    "Misclleanous/Mobility.md",
     "Misclleanous/images/ajVenice.jpeg",
     "Misclleanous/images/ajCombined.jpg",
     "Misclleanous/images/ajayHike.jpeg",
     "New Text Document.txt",
-    "Optical design and simulation for OCT-guided laser surgery.md",
-    "Optical GPT.md",
     "whatToDo.png",
-    "Excalidraw/Drawing 2023-05-02 15.29.47.excalidraw.png",
-    "Excalidraw/Drawing 2023-05-02 15.29.47.excalidraw.svg",
     "Misclleanous/Food/Recepie/main/pdf/Palak Tofu.pdf",
     "Excalidraw"
   ]
