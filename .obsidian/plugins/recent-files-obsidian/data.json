@@ -1,16 +1,60 @@
 {
   "recentFiles": [
     {
-      "basename": "Papers which cite LAPRAN",
-      "path": "Papers which cite LAPRAN.md"
-    },
-    {
       "basename": "Welcome! 👋",
       "path": "Welcome! 👋.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "Algorithm 2",
+      "path": "Algorithm 2.md"
+    },
+    {
+      "basename": "OCTLaserBot - OCT guided Microsurgical Laser Bot",
+      "path": "OCTLaserBot - OCT guided Microsurgical Laser Bot.md"
+    },
+    {
+      "basename": "Optical design and simulation for OCTLaserBot",
+      "path": "Optical design and simulation for OCTLaserBot.md"
+    },
+    {
+      "basename": "Optics Software",
+      "path": "Optics Software.md"
+    },
+    {
+      "basename": "Papers which cite LAPRAN",
+      "path": "Papers which cite LAPRAN.md"
+    },
+    {
+      "basename": "TVAL3",
+      "path": "TVAL3.md"
+    },
+    {
+      "basename": "Misclleanous",
+      "path": "Misclleanous/Misclleanous.md"
+    },
+    {
+      "basename": "Other-Blogs",
+      "path": "Misclleanous/Other-Blogs.md"
+    },
+    {
+      "basename": "Actuators for dexterous and agile robots",
+      "path": "Blog/Actuators for dexterous and agile robots.md"
+    },
+    {
+      "basename": "Visual Tracking",
+      "path": "Projects/VisualTracking/Visual Tracking.md"
+    },
+    {
+      "basename": "@trinh2019a",
+      "path": "References/@trinh2019a.md"
+    },
+    {
+      "basename": "Numerical Optimization",
+      "path": "Numerical Optimization.md"
+    },
+    {
+      "basename": "Drawing 2023-12-20 16.21.34.excalidraw",
+      "path": "Excalidraw/Drawing 2023-12-20 16.21.34.excalidraw.md"
     },
     {
       "basename": "Functional Programming",
@@ -41,44 +85,12 @@
       "path": "Excalidraw/Drawing 2023-03-16 10.23.38.excalidraw.md"
     },
     {
-      "basename": "Laser Focusing by Ablation Sound",
-      "path": "Laser Focusing by Ablation Sound.md"
-    },
-    {
-      "basename": "Algorithm 2",
-      "path": "Algorithm 2.md"
-    },
-    {
       "basename": "samples for compressive sensing",
       "path": "Projects/DataDrivenCompressiveSensing/samples for compressive sensing.md"
     },
     {
       "basename": "Diet",
       "path": "Misclleanous/Food/Diet.md"
-    },
-    {
-      "basename": "Optical GPT",
-      "path": "Optical GPT.md"
-    },
-    {
-      "basename": "Optical design and simulation for OCTLaserBot",
-      "path": "Optical design and simulation for OCTLaserBot.md"
-    },
-    {
-      "basename": "OCTLaserBot - OCT guided Microsurgical Laser Bot",
-      "path": "OCTLaserBot - OCT guided Microsurgical Laser Bot.md"
-    },
-    {
-      "basename": "Numerical Optimization",
-      "path": "Numerical Optimization.md"
-    },
-    {
-      "basename": "Optics",
-      "path": "Optics.md"
-    },
-    {
-      "basename": "Optics Software",
-      "path": "Optics Software.md"
     },
     {
       "basename": "Vegetable Fried Rice",
@@ -91,10 +103,6 @@
     {
       "basename": "Lentil Rice",
       "path": "Misclleanous/Food/Lentil Rice.md"
-    },
-    {
-      "basename": "TVAL3",
-      "path": "TVAL3.md"
     },
     {
       "basename": "Finance",
@@ -111,10 +119,6 @@
     {
       "basename": "Oats",
       "path": "Misclleanous/Food/Recepie/main/Oats.md"
-    },
-    {
-      "basename": "Misclleanous",
-      "path": "Misclleanous/Misclleanous.md"
     },
     {
       "basename": "@Ray2002Applied",
@@ -179,26 +183,6 @@
     {
       "basename": "Ring Magnet",
       "path": "Projects/Ring Magnet.md"
-    },
-    {
-      "basename": "Electromagnetic coils",
-      "path": "Projects/EndoOCT/Electromagnetic coils.md"
-    },
-    {
-      "basename": "@York2021Microrobotic",
-      "path": "References/@York2021Microrobotic.md"
-    },
-    {
-      "basename": "@Aidukas2019Lowcost",
-      "path": "References/@Aidukas2019Lowcost.md"
-    },
-    {
-      "basename": "Medical Device",
-      "path": "Projects/00Past/Medical Device.md"
-    },
-    {
-      "basename": "inverseProb",
-      "path": "Projects/inverseProb.png"
     }
   ],
   "omittedPaths": [],

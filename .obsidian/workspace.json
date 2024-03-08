@@ -4,43 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "5e21b9b9f5eb812d",
+        "id": "39aeb4fd1769b8a7",
         "type": "tabs",
         "children": [
           {
-            "id": "ab0df91d385131f4",
+            "id": "19da96b42b1dc494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Welcome! 👋.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
           },
           {
-            "id": "b93c35d62226c1c5",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "24a70270c5435710",
+            "id": "e29c2942210578f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Papers which cite LAPRAN.md",
+                "file": "Misclleanous/Misclleanous.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Papers which cite LAPRAN.md",
+                "file": "Welcome! 👋.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Papers which cite LAPRAN.md"
+                "file": "Welcome! 👋.md"
               }
             }
           },
@@ -168,7 +159,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -195,37 +188,37 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "24a70270c5435710",
+  "active": "19da96b42b1dc494",
   "lastOpenFiles": [
+    "Algorithm 2.md",
+    "OCTLaserBot - OCT guided Microsurgical Laser Bot.md",
+    "Optical design and simulation for OCTLaserBot.md",
+    "Optics Software.md",
     "Papers which cite LAPRAN.md",
+    "TVAL3.md",
+    "Untitled.md",
+    "Optics.md",
+    "Laser Focusing by Ablation Sound.md",
     "Welcome! 👋.md",
+    "Job.md",
+    "Misclleanous/Misclleanous.md",
+    "Misclleanous/Other-Blogs.md",
+    "Blog/Actuators for dexterous and agile robots.md",
+    "Projects/VisualTracking/Visual Tracking.md",
+    "References/@trinh2019a.md",
+    "Optical GPT.md",
+    "Numerical Optimization.md",
+    "Untitled 1.md",
+    "Excalidraw/Drawing 2023-12-20 16.21.34.excalidraw.md",
     "Blog/Matrix multiplication.md",
     "Excalidraw/Drawing 2023-05-02 15.29.47.excalidraw.svg",
     "Excalidraw/Drawing 2023-05-02 15.29.47.excalidraw.png",
     "Excalidraw/Drawing 2023-05-02 15.29.47.excalidraw.md",
     "Excalidraw/Drawing 2023-03-22 13.40.03.excalidraw.md",
     "Excalidraw/Drawing 2023-03-16 10.23.38.excalidraw.md",
-    "Laser Focusing by Ablation Sound.md",
-    "Algorithm 2.md",
-    "Untitled.md",
-    "Optical design and simulation for OCTLaserBot.md",
-    "OCTLaserBot - OCT guided Microsurgical Laser Bot.md",
-    "Numerical Optimization.md",
-    "Optics.md",
-    "Optics Software.md",
     "Misclleanous/Food/Vegetable Fried Rice.md",
     "Misclleanous/mobility.png",
     "Mechanical Artifacts in Exoscopic OCT.md",
-    "Misclleanous/Food/Lentil Rice.md",
-    "TVAL3.md",
-    "Misclleanous/Food/Diet.md",
-    "Misclleanous/Food/Recepie/main/Hong Kong Noodles.md",
-    "Misclleanous/Food/Recepie/main/Mush. Stroganoff  Pasta.md",
-    "Misclleanous/Food/Recepie/main/Oats.md",
-    "Misclleanous/Misclleanous.md",
-    "References/@Ray2002Applied.md",
-    "Misclleanous/PKM Setup.md",
-    "Untitled 2.md",
     "Misclleanous/images/ajVenice.jpeg",
     "Misclleanous/images/ajCombined.jpg",
     "Misclleanous/images/ajayHike.jpeg",

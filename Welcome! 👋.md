@@ -15,17 +15,12 @@ My vision is to make healthcare affordable by merging medicine and engineering. 
 - **Email**: ajay {dot} gunalan {at} pm {dot} me
 - [CV](https://ajaygunalan.github.io/assets/ajayg_cv.pdf)
 
-### Projects
 
-- [Towards OCT-Guided Endoscopic Laser Surgery—A Review](https://doi.org/10.3390/diagnostics13040677)
-- [[OCTLaserBot - OCT guided Microsurgical Laser Bot]]
-- [[Optical design and simulation for OCTLaserBot]]
-- [Compressive Image Scanning Microscope](https://arxiv.org/pdf/2307.09841.pdf)
-- [[Optical GPT]]
 
 ### Blog
 - [[Actuators for dexterous and agile robots]]
-- [[Numerical Optimization]]
+- [[Numerical Optimization]] 
+- [[Other-Blogs]]
 - [[Misclleanous]]
 
 
